@@ -104,7 +104,7 @@ The sea behaves wrong again — and this time nobody called it. Nerai confirms w
 Factions on the shore, humans panicking, and Phor forces the confrontation he's wanted all along — the conqueror's opening. *Job: the antagonist's play; everything her voice was built for, assembled on one beach.*
 
 **Ch. 21 — The Girl Who Interrupts** *(climax)* — *Status: to draft.*
-Her ability comes fully out — she holds the line between water and air in front of both worlds, and the secret her parents kept detonates in public. Then she speaks: for the friends who can't, for the two worlds that won't. *Job: power + voice arrive together; her power is literally the thing the oldest law forbids — the refusal, out loud.*
+Her ability comes fully out — she holds the line between water and air in front of both worlds, and the secret her parents kept detonates in public. Then she speaks: for the friends who can't, for the two worlds that won't. *Job: power + voice arrive together; her power is literally the thing the oldest law forbids — the refusal, out loud. Candidate beat (Tim): her mother moves — shield, then release; "for the first time in her life, her mother stood behind her" (see `characters/her-mother.md`).*
 
 **Ch. 22 — What the Tide Left** — *Status: to draft.*
 Aftermath, landed light: a fragile first peace, centered on the school. Her parents still won't say *why* they hid it — so she stops asking them, and decides to find out herself. *Job: Book 1 resolves warm; the series engine locks in.*

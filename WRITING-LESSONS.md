@@ -36,6 +36,9 @@ Figure out the one thing your character is most afraid of. Not spiders — the *
 ## 9. Polish is a kind of lying *(Dad's rule)*
 A perfectly balanced sentence sounds like an author. A run-on that keeps going because the character can't stop thinking sounds like a *person.* Let her sentences do what a fifteen-year-old's head does: spiral, interrupt themselves, compare things to dumb specific stuff, trail off. If a line is beautiful but nobody that age would think it, it's the author showing off — cut it or rough it up. The characters build the story; the narrator just tells you where you're standing.
 
+## 10. Every character exists for a reason — including the pet *(Dad's rule)*
+Nobody gets to be in the book just because they're fun. Everyone carries a job: the coat girl is the cost of the lie, Reyes is the adult who already knows, the pet is a sentry keeping a twelve-thousand-year post, and even the warm parents exist to make the cold ones say themselves. Before you add a character, finish this sentence: *"They exist so that ___."* If the blank stays empty, they're decoration — cut them or give them a reason. (Corollary: the same goes for the world. "We are hidden" is a situation. WHY it's hidden, what the hiding cost, who's still paying — that's a story.)
+
 ---
 
 *How to use this: pick one lesson, find it (or break it) in something we wrote, and talk about why. The goal isn't to memorize rules — it's to start* feeling *when a sentence is true and when it's faking.*

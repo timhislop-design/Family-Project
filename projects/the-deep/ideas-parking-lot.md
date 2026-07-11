@@ -63,6 +63,20 @@ Abby's: Greek/Mediterranean (already leaning that way — antagonist names) + **
 ### Abby's inspiration shelf
 Avatar 2, ATLA (friendship dynamics), Percy Jackson, Shadow & Bone / Six of Crows (found family), This Woven Kingdom (setting), Harry Potter (academy), Tress of the Emerald Sea (unique world quirks), Mistborn (Vin's arc), The Little Mermaid (unironically). Full list in `abby-notes.md` — mine these when a chapter needs a model.
 
+### The runt becomes something a lot larger (end of Book 2 → Book 3 — Tim's, Jul 10, 2026)
+The leviathan runt's smallness may be the series' longest setup. Four flavors explored in `characters/the-pet.md`: **(A)** it was never a runt — leashed minds stay small, free ones grow, and the joke of it outgrowing every doorway turns over into Book 3's biggest reveal; **(B)** its refusal spreads — bred mounts learn to say no, and Phor's whole leash economy dies of one small example; **(C)** it sings at the old places and something vast answers — the original sentries, still holding the failing door shut; **(D)** the ark — the leviathans become partners again and carry the crossing in the endgame. A and C stack: it grows because the post needs filling. Abby picks, stacks, or wrecks.
+
+### There is more to the deep — the deeper deep (Tim's spitball, Jul 10, 2026 — worth looking at)
+The theme, made fractal: humans don't know about the deep — and **the deep doesn't know about what's below the deep.** Even the trench cities have a floor they don't discuss. Flavors, all of which connect to things already in canon:
+- **The Abyssals as wardens, not cowards.** Their *never* isn't only fear of the surface — the deep faction has been standing guard over something below, and rising means leaving the watch. That reframes the whole faction argument (and the mother: her doctrine wasn't smallness, it was DUTY — which makes her breaking it at the climax cost even more, and mean even more).
+- **Where the failing comes from.** The thing letting go isn't IN the deep's cities — it's under them. The dark lights are the floors closest to it.
+- **Who's down there.** The pet's option C lives here: the original sentries, holding the door from below, running out of strength. And the too-old ruins (earlier cycle) suggest whoever built before the first people... might not be gone.
+- **The fractal rule (the keeper):** every layer's official story is too small — the frame said it about humans, Nerai proves it about the deep, and the deeper deep proves it about *everyone*. The series can descend one layer per book.
+Connects: the mother's climax turn, the pet's errand, the ruins, the failing. **Tim's read (Jul 10): this is the right direction — real conflict that explains how we got here, not just "we are hidden."** Held for Abby's riff before it becomes canon, but the current front-runner for the series' spine-deepener.
+
+### Mom comes to help — at a climax (Tim's, Jul 10, 2026)
+The Abyssal mother — leader of *never*, author of *stay small* — breaks her own oldest law at a climax to stand with Nerai. Two-turn beat developed in `characters/her-mother.md`: first the shield (she steps between — her lifelong silent tell, finally public), then the release (she steps aside and lets her daughter be seen full size). Closing line candidate: *for the first time in her life, her mother stood behind her* — both meanings at once. Best placement: Book 1's climax (Ch. 20–21); the political cost to her becomes a Book 2 engine. Abby: placement and the words she says (if any) are yours.
+
 ### Behind the jovial demeanor (Iggy's parents — parked Jul 10, 2026, may never fire)
 Tim's instinct: Iggy is an only child *so he thinks*, and there may be more under his parents' relentless warmth. Three flavors in `characters/iggys-parents.md`: a child before Iggy; they've seen the impossible before (which would explain a fire-carrying son from an ordinary house); or — the anti-twist — they're exactly what they seem, the only people in the book with no secret at all. Rule while parked: write them so all three stay possible. Warmth first.
 

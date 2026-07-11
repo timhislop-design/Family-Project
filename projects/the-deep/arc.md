@@ -28,7 +28,7 @@ Love is a slow burn across the series, and it **changes character as it goes:**
 | Book | Heart of it | Love | Truth |
 |------|-------------|------|-------|
 | 1 | The worlds meet; Nerai finds her voice as her people rise. | innocent / barely there | she starts to sense she's being lied to |
-| 2 | Living between worlds; learning balance; the cost of speaking up. *(The Pelagic city of the reaches opens here.)* | a tender first closeness | she uncovers part of the secret about herself |
+| 2 | Living between worlds; learning balance; the cost of speaking up. *(The Pelagic city of the reaches opens here. Candidate finale: the runt's reveal — "something a lot larger," see `characters/the-pet.md`.)* | a tender first closeness | she uncovers part of the secret about herself |
 | 3 | Love at the center. | central — innocent turning complicated | the lie about her ability cracks open |
 | 4+ | The fallout; "not so much." | entangled, costly | full truth, and what she does with it |
 

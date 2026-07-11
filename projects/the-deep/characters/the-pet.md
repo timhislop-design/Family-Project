@@ -36,6 +36,19 @@ She starts with the wrong answer and upgrades it book by book, the way she does 
 
 *(Rule: every reveal recontextualizes an earlier cute moment. The Ch. 10 chapter of pure joy should reread completely differently after Book 3.)*
 
+## The larger thing (Tim's instinct, Jul 10, 2026 — end of Book 2 → Book 3. To explore with Abby)
+"A leviathan runt" can lead to something a lot larger — literally — at the end of Book 2, bridging into Book 3. Ways it could go (pick one, or stack them):
+
+**A. It was never a runt.** The breeding program selects for obedience, and obedience *stunts* — leashed minds stay small. Free ones grow. It's been growing all through Book 2, played for comedy (it stops fitting through the window, then the door, then the boathouse) — until the finale turns the joke over: it isn't done. Not nearly. Book 3 opens with the smallest character becoming the largest living thing anyone has seen — which is Nerai's arc, and Iggy's grow-into-his-body arc, written at monster scale. The official story called it worthless. The official story is always too small. *(Bonus: the plucky name gets funnier every book. A ferry-sized creature named Moth.)*
+
+**B. The "no" can be taught.** Its true power is refusal — and refusal spreads. Late Book 2: bred mounts start going quiet around their riders, one by one, wherever the runt has been. Book 3: the deep's cavalry stops being reliable, beasts begin *choosing* — and Phor's dominion song, the whole leash economy of the old blood, starts dying of one small creature's example. The book's theme (refuse the inherited story) jumps species.
+
+**C. Something answers.** Its old errand — guard the door — wasn't given to it alone. End of Book 2: it leads them to the old places and sings the true song, and something VAST answers from under the trench. The original sentries never died. They've been down there holding the failing door shut, this whole time, running out of strength — which reframes the failing, the rising, everything. Book 3 opens with the true giants surfacing, and humanity meeting the things on the edges of its oldest maps.
+
+**D. The ark.** However we get there: in the endgame, if the deep's people must cross to the surface (the refugee thread in `../arc.md`), somebody has to hold the door open and carry the crossing. The leviathans were partners once. The runt is how they become partners again — and the exodus rides.
+
+*(A and C stack beautifully: it grows BECAUSE the post needs filling — the door's guardian, sized to the job at last. Abby: this one's on your Ideas tab. Wreck it, pick it, stack it.)*
+
 ## What it is to Nerai
 The one relationship with no factions in it. It never wanted her to be proof of anything, never feared what she was — it *liked* what she was, back when everyone else was going quiet around her. Leaving it behind is one of her real griefs (see her file: what she misses most). And now she's hiding something she loves to protect it — her parents' exact move, and she doesn't see the mirror yet. That mirror is Chapter 10's quiet job.
 
