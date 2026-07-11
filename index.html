@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="deep" data-font="story" data-size="18" data-space="cozy">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#03101c">
+<title>THE DEEP — a book is surfacing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lexend:wght@300;400;500;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<link rel="stylesheet" href="site/style.css">
+<script src="site/config.js"></script>
+</head>
+<body>
+
+<header class="topbar" id="topbar">
+  <a class="brand" href="#/">THE&nbsp;DEEP</a>
+  <nav>
+    <a href="#/book">The Book</a>
+    <a href="#/characters">Characters</a>
+    <a href="#/about">How We Work</a>
+  </nav>
+  <button id="settingsBtn" class="aa-btn" title="Reader settings" aria-label="Reader settings">Aa</button>
+</header>
+
+<div id="settingsPanel" class="settings hidden" aria-hidden="true">
+  <h3>Reading, your way</h3>
+  <div class="set-row"><span>Text size</span>
+    <div class="seg" data-set="size"><button data-v="16">A</button><button data-v="18" class="on">A</button><button data-v="21">A</button><button data-v="24">A</button></div>
+  </div>
+  <div class="set-row"><span>Theme</span>
+    <div class="seg" data-set="theme"><button data-v="deep" class="on">Deep</button><button data-v="day">Daylight</button></div>
+  </div>
+  <div class="set-row"><span>Font</span>
+    <div class="seg" data-set="font"><button data-v="story" class="on">Story</button><button data-v="easy">Easy-read</button></div>
+  </div>
+  <div class="set-row"><span>Line spacing</span>
+    <div class="seg" data-set="space"><button data-v="cozy" class="on">Cozy</button><button data-v="roomy">Roomy</button></div>
+  </div>
+  <p class="set-note">Your choices are remembered on this device.</p>
+</div>
+
+<main id="app"><div class="loading"><span class="ripple"></span>Descending…</div></main>
+
+<footer class="foot">
+  <p><span class="foot-mark">✦</span> Dreamed up by Abby · built with Dad &amp; Claude · a work in progress · please don't share the link <span class="foot-mark">✦</span></p>
+</footer>
+
+<script src="site/app.js"></script>
+</body>
+</html>

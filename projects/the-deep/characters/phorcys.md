@@ -1,0 +1,46 @@
+# Phorcys ("Phor") — The Antagonist
+*(Developed Jul 10, 2026 from the parking lot. Name from the primordial Greek sea god — older than Poseidon, which is exactly how his family sees themselves. Adjustable clay, but the mechanism below is the keeper.)*
+
+## Who he is
+Sixteen, old blood, Pelagic. The kind of beautiful manners that make adults sigh with relief. He arrives ashore with the enrolled kids in Chapter 6 as the deep's model ambassador — gracious, curious, patient with human clumsiness — and he is none of those things. He says *land dwellers* the way a bigot says any slur: with a little smile. The page stays clean; the sneer does all the work.
+
+## The engine: his family remembers being gods
+Here's what makes him more than a school bully. Phorcys's house is one of the oldest — old enough that its memory reaches back past the Withdrawal, to the Age of Teaching and the worship that followed (`mythology.md`). His family kept things from that era: relics of the drowned cults, honors humans paid them when humans knew their place — which, in his family's telling, was *kneeling*.
+
+So Phor doesn't want to conquer the surface. In his own story, he wants to **restore** it. The first people were gods here once; the family archive proves it; twelve thousand years of hiding is not humility, it's *humiliation*. He agrees with Nerai's father completely — it's time — and disagrees about everything that matters: her father wants to meet mankind. Phor wants mankind to remember.
+
+That's why he's dangerous from *inside* the sympathetic faction: he makes "it's time" mean two opposite things, and forces Nerai to learn that the side she loves has monsters in it.
+
+## Why he's the perfect foil
+He is **the inherited story in a body.** Nerai's whole character is refusing the version of the world she was handed; Phor *is* the version — swallowed whole, worn like a crown. Both children of important houses. Both sent ashore young, carrying their parents' war. She questions everything she was raised on; he has never once needed to. The book's argument, standing in one hallway.
+
+## His song
+Where the deep's song shapes water and light, Phor's shapes **the grown things** — the beasts, the bred mounts, the living architecture. Dominion magic: creatures obey him, beautifully, effortlessly, and it looks like a gift until you notice the animals never *choose* him. (Contrast on stage in Ch. 12: Nerai's power is a door between worlds; his is a leash. Hers leaks because it gives; his gleams because it only takes. Exact costs: build with the magic system.) The pet (Ch. 10) hates him on sight — animals know — and nobody reads the sign.
+
+## His fascination with Nerai
+She's the most interesting thing on the coast and he knows it before the school does: the girl the whispers are about, born the year the deep shivered. When he sees her power leak (Ch. 12), he doesn't expose her. **He offers her belonging.** A place among the old blood, admiration, the never-being-sent-away-again — every hungry thing she's wanted for 304 days, held out on an open palm. That's his real weapon in a light book: not cruelty, *invitation.* The scariest scene in Act II should be the one where saying yes to him sounds reasonable.
+
+She says no. He never forgives it — old blood doesn't hear *no* often, and never from an omen.
+
+## Keeping him human (lesson 5: let characters be wrong — even him)
+He's not a demon; he's a boy performing his family's certainty, and there should be exactly one flicker — late, small, unresolved in Book 1 — where the performance slips and something younger looks out. Maybe the beasts. Maybe one moment where being *believed in* (by a teacher, by a human, by Nerai) lands somewhere his family never touched. We don't redeem him. We just let the reader see the kid the story got to first — because that's the theme too: he inherited his story the same way she did. She refused hers.
+
+## THE MASK LADDER (answer to "reveal right away or build?" — BUILD)
+The world meets a diplomat. The reader meets a villain. Nerai is the only one who sees it early — **and nobody believes her.** That's the rumor tier applied to a person, and it's her own theme turned against her: everyone else has accepted the official story of Phor, and her refusal of it just looks like jealousy or homesickness. (Iggy dislikes him instantly, but Iggy's reasons are visibly unreliable.)
+
+The mask comes off one rung per act:
+- **Ch. 6 (arrival):** charming. One wrong note only Nerai catches — a phrase, a smile held a half-second too long. The adults are delighted with him.
+- **Ch. 12 (the lever):** he sees her leak. Says nothing. The reader now knows he's holding something; the school still adores him.
+- **Ch. 14 (the turn, midpoint):** the incident has his fingerprints and his alibi. Deniable. Nerai accuses; it costs *her*, not him — feeds the slide to Ch. 17.
+- **Ch. 12–16 (between rungs):** the invitation scene. Mask fully *on* — that's what makes it frightening.
+- **Ch. 20 (the crack):** mask off. The conqueror's opening, in front of everyone. The world finally sees what she saw in Chapter 6 — too late to matter, exactly on time for the climax.
+
+Rule of the ladder: **he never lies on the page.** Every awful thing he does is technically defensible until Act III. That keeps the light tone (no mustache-twirling) and makes the reader do the work of distrusting him — reading WITH Nerai.
+
+## Threads left open for the series (don't spend in Book 1)
+- His family's relic archive — what exactly did the drowned cults keep, and what does his house know about the *earlier* ruins?
+- The restoration strain is bigger than one boy: who taught him? (An elder face for Book 2+.)
+- The flicker. Whether there's a door in him is a later book's question.
+
+---
+*Name check with Abby — alternates from the parking lot: Cetus, Glaucus, Pontus. "Phorcys / Phor" recommended: ancient-aristocracy sound, and the real Phorcys fathered sea monsters, which is a nice private joke given his song.*
