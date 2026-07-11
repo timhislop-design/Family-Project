@@ -1,6 +1,9 @@
 # Iggy — The Firelighter
 *(First full file, Jul 10, 2026 — assembled from everything he's already done on the page. He earned it. Clay.)*
 
+## THE BIG SECRET (Tim's, Jul 10, 2026 — series-level): Iggy is the narrator
+The storyteller who opens every book — the voice of the prologue — is **Iggy, grown, looking back after the whole story.** Lighthearted but hardened by everything that happened across the books. He never names himself; the frame plants tells only a rereader catches ("a boy who could coax fire like a stray cat — I knew that one personally; he was an idiot, but his heart was in the right place"). It reframes everything: the frame's fondness for Nerai is *his*; "not everyone in this story gets to stay in it — get attached anyway, I did" is a man speaking over old scars; and the boy who looks a beat too long grows up to be the one who tells her story to the world. **Open for Abby: when (if ever) does the reader find out — end of Book 1, Book 3, never?** Rule until decided: he stays anonymous, tells stay subtle, and the frame voice stays HIS — warm, wry, a little broken-in.
+
 ## Who he is
 Human. A firelighter — one of the gifted, though his gift is honestly a modest one and he has never once cared. He carries a little flame around at night the way other kids carry a phone, no bigger than a marble, just for the light of it. He knocks twice and opens the door anyway, because he has never once managed to wait. He is the kind of boy who does the loyal and foolish thing.
 
@@ -28,6 +31,8 @@ Iggy's parent(s) are the opposite of the deep: warm, loud, unimpressed, dinner-o
 
 ## Where he's headed (series, loose)
 Book 1: her first friend becomes her first *defender* in front of both worlds — and hesitates exactly once (Ch. 17), which costs him and teaches him. Later books: the love arc candidate (open — see `../arc.md`; not decided, and not a Book 1 concern). His instant dislike of Phorcys is correct and completely unbelieved.
+
+**And the long game (Tim, Jul 10, 2026): by the end of Book 3, the story is about HIM.** Nerai and Phorcys are the myth; Iggy is the meaning — the ordinary boy the whole thing happened *to*, who grows into the man who tells it. Full note in `../arc.md` ("Whose story is this, really?"). Practical rule from Book 1 on: every small Iggy beat is quietly load-bearing.
 
 ## Open questions for Abby
 - Full name? ("Iggy" is obviously short for something — Ignatius? Iggy as in the family joke about how he manifested?)

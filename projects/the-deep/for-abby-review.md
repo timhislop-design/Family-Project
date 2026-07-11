@@ -23,6 +23,15 @@
 3. The wreck she took the key from, lying in the sun — does that beat hit? It's meant to hurt a little.
 4. Her mother is about to come up (Ch. 4). One sentence: what do you want that reunion to feel like?
 
+## THE BIG SWINGS — new ideas from Dad, all waiting on your verdict
+*(These grew after the chapters were drafted. Book 1 stays LIGHT — every one of these is a way to go darker book by book, not now. React to each: love it / change it / kill it.)*
+
+1. **The narrator is Iggy — grown up, after everything.** The voice that opens the book (reread the new Prologue!) is Iggy years from now: funnier, sadder, telling her story to the world. He never says his name — there are hidden clues ("I knew that one personally; he was an idiot"). **Your call: when does the reader find out — end of Book 1, Book 3, or never?**
+2. **The pet's secret (its page has the full story).** It's a leviathan runt with a real MIND — and a motivation Nerai only learns over time: the great beasts were partners once, sentries of the line between worlds, and it came back because the old post needed filling. And at the end of Book 2... it might become something a LOT larger. Four versions on its page — pick, stack, or wreck them.
+3. **Mom comes to help — at a climax.** The leader of *never* breaks her own law in front of both worlds: first she shields Nerai, then she steps aside and lets her be seen full size. "For the first time in her life, her mother stood behind her." Both meanings. Where should it land — Book 1's climax, or saved?
+4. **There's more to the deep.** What if the Abyssals aren't cowards but WARDENS — standing guard over something below the trench cities that nobody talks about? The failing comes from down there. The series descends one layer per book. (This one reframes the whole faction fight — Dad thinks it's the front-runner. Argue with us.)
+5. **The tone ladder.** Book 1 light — wonder, friendship, first contact. Each book darker as the real answers surface. Does that match the vibe you wanted when you asked about high/low/dark fantasy?
+
 ## Bigger asks (whenever you're ready)
 - **Casting session:** the found family — 3–4 kids around Nerai (Ch. 9 needs them). The coat girl is one slot.
 - **The pet:** what followed her up? (Ch. 10 is waiting.) What is it, its name, why it couldn't stay.

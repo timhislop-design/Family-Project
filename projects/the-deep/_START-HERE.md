@@ -28,7 +28,7 @@ When a character gets developed: (1) write/update their file in `characters/`, (
 
 ## House writing style (non-negotiables)
 1. **Read WITH the reader, not AT them** — narrator never knows more than Nerai or stops to explain.
-2. **One close POV after the frame** — the storyteller voice opens the book, then disappears; everything is through Nerai's eyes.
+2. **One close POV after the frame** — the storyteller voice opens the book, then disappears; everything is through Nerai's eyes. **The storyteller IS adult Iggy looking back (Jul 10 — series secret, never named on the page): lighthearted but hardened; the main narrative stays in Nerai's raw fifteen-year-old voice.**
 3. **Her voice** — an actual fifteen-year-old thinking: run-ons when she spirals, fragments when scared, self-interruptions, blunt teenage comparisons. NOT wistful/romance-novel, NOT polished-novelist. Personal beats polished (Jul 10 correction — see lesson 9).
 3b. **Gifts have no taxonomy** — one strange thing per kid, no two alike, no elemental classes (de-Avatar, Jul 10).
 4. **Drip, don't dump** — backstory hidden in present action.

@@ -10,7 +10,7 @@ window.DEEP = {
 
   book: {
     storySource: "projects/the-deep/story.md",
-    prologue: { id: "prologue", title: "Prologue — before Chapter One", source: "projects/the-deep/world-frame.md", status: "Draft 4" },
+    prologue: { id: "prologue", title: "Prologue — before Chapter One", source: "projects/the-deep/world-frame.md", status: "Draft 6" },
     acts: [
       {
         num: "I", title: "The Sea Steps Back", span: "Chapters 1–7",

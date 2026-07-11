@@ -42,6 +42,17 @@ Let them distrust. The fear is realistic, it's what the Abyssals predicted all a
 
 The whole ladder in one line: **first they hear her, then they watch her give, then they can't other her, then they owe her people an ark.**
 
+## Whose story is this, really? (Tim's, Jul 10, 2026 — the trilogy's secret shape)
+**By the end of Book 3, this story is about Iggy — not Nerai and Phorcys.** They're the myth; he's the meaning. The books READ as Nerai's story — the girl between worlds, the power, the factions, the rival — but the teller is the ordinary boy at the edge of all of it, and the trilogy is secretly the account of what witnessing it, loving her, and surviving it *made of him.* The signs are already planted: the one human in the inner circle; the hesitation at Ch. 17 that costs him; the frame's fondness and its scars; "get attached anyway — I did."
+
+Why this works on every level:
+- **He's the reader's species.** Humanity's whole arc — fear → wonder → understanding — has to happen inside ONE person for the reader to feel it. It happens inside Iggy. Nerai bridges the two worlds; Iggy bridges the story to US.
+- **The theme lands hardest on him.** Everyone else inherits a story and refuses or serves it. Iggy is the one who ends up *writing* one — the man deciding, years later, what the official version of the truth will be. The boy from the quiet schools becomes the author of the loudest story ever told. Whether he tells it straight is a Book 3 question with teeth.
+- **The ordinary one carries it.** Nerai's power is her voice — and in the end, the voice that actually reaches the world is his, telling hers. That's the final bridge, and it's made of the most unremarkable person in the book.
+- **Deliberate ambiguity (do NOT resolve early):** the frame's past tense and "not everyone gets to stay" leave open what the telling costs him — and where Nerai is when he tells it. We don't decide that until Book 3 makes us.
+
+*(Held as direction, not locked canon — it steers how we write Iggy's small moments from Book 1 on: every beat of his should be quietly load-bearing. Abby weighs in via the Big Swings.)*
+
 ## The spine that holds it together
 A girl raised by a cold world and hidden by loving liars, who has one real power — her **voice** — and one secret power she wasn't allowed to know about. The series is her learning to **balance the two worlds, the two factions, and the two halves of herself** — and refusing, every time, to be kept in the dark.
 
