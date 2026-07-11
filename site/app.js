@@ -63,7 +63,11 @@
     revealObs = new IntersectionObserver((entries) => {
       entries.forEach(en => { if (en.isIntersecting) { en.target.classList.add("in"); revealObs.unobserve(en.target); } });
     }, { threshold: 0.12 });
-    document.querySelectorAll(".reveal").forEach(el => revealObs.observe(el));
+    document.querySelectorAll(".reveal").forEach(el => {
+      /* tall blocks can never reach the 12% visibility threshold — show them immediately */
+      if (el.getBoundingClientRect().height > window.innerHeight * 0.6) { el.classList.add("in"); }
+      else { revealObs.observe(el); }
+    });
   }
 
   /* ---------- markdown ---------- */
