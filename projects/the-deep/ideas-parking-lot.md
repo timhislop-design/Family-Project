@@ -63,6 +63,9 @@ Abby's: Greek/Mediterranean (already leaning that way — antagonist names) + **
 ### Abby's inspiration shelf
 Avatar 2, ATLA (friendship dynamics), Percy Jackson, Shadow & Bone / Six of Crows (found family), This Woven Kingdom (setting), Harry Potter (academy), Tress of the Emerald Sea (unique world quirks), Mistborn (Vin's arc), The Little Mermaid (unironically). Full list in `abby-notes.md` — mine these when a chapter needs a model.
 
+### Behind the jovial demeanor (Iggy's parents — parked Jul 10, 2026, may never fire)
+Tim's instinct: Iggy is an only child *so he thinks*, and there may be more under his parents' relentless warmth. Three flavors in `characters/iggys-parents.md`: a child before Iggy; they've seen the impossible before (which would explain a fire-carrying son from an ordinary house); or — the anti-twist — they're exactly what they seem, the only people in the book with no secret at all. Rule while parked: write them so all three stay possible. Warmth first.
+
 ---
 
 *These are ideas, not decisions. Say "develop [the bridge body / the love thread / the magic / the silver-spoon antagonist / …]" and we'll build it out and try it against the story.*

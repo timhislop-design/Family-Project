@@ -96,6 +96,16 @@ window.DEEP = {
       file: "projects/the-deep/characters/phorcys.md"
     },
     {
+      id: "iggys-parents", name: "Iggy's Parents", art: "hearth", group: "Important side characters",
+      role: "Unassuming, quirky, and the warmest room in the book. They never ask Nerai what she is — only if she wants seconds.",
+      file: "projects/the-deep/characters/iggys-parents.md",
+      openQuestions: [
+        "Their names? Unassuming and warm — starters: Sal and Rosa, Gus and Marge, Pete and June. (Or one parent instead of two — your call.)",
+        "What do they do? (Starters: he fixes boat engines nobody makes parts for; she runs the neighborhood's unofficial lost-and-found from the porch.)",
+        "The house rule that shocks Nerai most? (Starter: people HUG here. Mid-sentence. For no occasion.)"
+      ]
+    },
+    {
       id: "coat-girl", name: "The Coat Girl", art: "unknown", group: "Found family — yours to create, Abby",
       role: "Lent Nerai a coat in October and never mentioned it again. Warms a cup of anything between her palms.",
       file: "projects/the-deep/characters/coat-girl.md",
@@ -123,7 +133,7 @@ window.DEEP = {
       file: "projects/the-deep/characters/the-pet.md",
       openQuestions: [
         "What IS it? (Starter: a leviathan RUNT — bred to be a mount, born too small, worthless to everyone but her. The sea serpents on old human maps were its grown cousins.)",
-        "Its name? Starters from the record: Levi (a tiny Leviathan named Levi — the joke writes itself), Tanni (from 'tannin,' the Bible's word for sea serpent). Or something only Nerai would think of.",
+        "Its name? Dad wants PLUCKY. Shortlist: Moth (from BeheMOTH — the tiniest piece of the biggest monster), Ness (it's part Loch Ness creature, the joke is right there), Levi (a tiny Leviathan named Levi), Tanni (the Bible's sea serpent), Squall (a very small storm). Or the name only Nerai would think of.",
         "Why couldn't it come when she was sent up? (Starter: bred beasts are counted — taking it would have left a trace.)",
         "One thing it does that no one expects. (Starters: it can taste lies; it hums the deep song off-key; it hates Phorcys on sight and nobody reads the sign.)"
       ]

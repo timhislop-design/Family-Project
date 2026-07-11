@@ -174,6 +174,17 @@
         <rect x="34" y="50" width="40" height="20" rx="8" fill="#c9d8e2"/>
         <circle cx="76" cy="68" r="14" fill="#c9d8e2"/><circle cx="76" cy="68" r="5" fill="#0a2438"/>
         <path d="M84 44 L94 34 M88 52 L100 46 M80 40 L84 28" stroke="#41e8c5" stroke-width="2.5" stroke-linecap="round"/>`,
+      hearth: `${defs}<rect width="120" height="120" fill="${G}"/>
+        <rect x="24" y="88" width="72" height="6" rx="3" fill="#5a4632"/>
+        <path d="M40 88 L40 62 C40 56 44 52 50 52 L70 52 C76 52 80 56 80 62 L80 88 Z" fill="#8a6a48"/>
+        <rect x="46" y="60" width="12" height="14" rx="2" fill="#f4e6c8"/>
+        <rect x="62" y="60" width="12" height="14" rx="2" fill="#f4e6c8"/>
+        <path d="M52 88 L52 76 L68 76 L68 88 Z" fill="#6f5238"/>
+        <circle cx="65" cy="82" r="1.2" fill="#e8c86a"/>
+        <path d="M56 44 C54 38 57 34 60 30 C63 34 66 38 64 44 C62 48 58 48 56 44 Z" fill="#ffb347"/>
+        <path d="M58 42 C57 39 59 37 60 35 C61 37 63 39 62 42 C61 44 59 44 58 42 Z" fill="#ffe9a8"/>
+        <path d="M30 104 C34 100 40 100 44 103 C48 106 54 106 58 103 M62 103 C66 100 72 100 76 103 C80 106 86 106 90 103" stroke="#c9a075" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <circle cx="36" cy="30" r="1.4" fill="#ffd98a" opacity=".8"/><circle cx="86" cy="26" r="1.2" fill="#ffd98a" opacity=".7"/>`,
       unknown: `${defs}<rect width="120" height="120" fill="${G}"/>
         <text x="60" y="72" text-anchor="middle" font-size="44" fill="#41e8c5" font-family="Georgia">?</text>
         <path d="M20 92 Q40 84 60 92 T100 92" stroke="#41e8c5" stroke-width="2" fill="none" opacity=".4"/>`

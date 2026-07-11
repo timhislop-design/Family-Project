@@ -14,8 +14,11 @@ The only person on dry land who ever left his door open just to hear if she was 
 
 He keeps her secret the way he does everything: loudly. Badly. Completely.
 
+## Family
+**Only child — so he thinks.** (Canon. What that hedge might mean lives in `iggys-parents.md`, parked, maybe forever.)
+
 ## His home — her refuge (Tim, Jul 10, 2026)
-Iggy's parent(s) are the opposite of the deep: warm, loud, unimpressed, dinner-on-the-table people. Their house becomes **Nerai's respite** — the one place with no factions, no whispers, no being anyone's proof of anything. Somebody's mom or dad who just refills her plate and asks how school was. She doesn't have a word for what that feels like at first. That's the point. (Open for Abby: one parent or two? What do they do? What's the house rule that shocks Nerai — like, people HUG here?)
+Iggy's parent(s) are the opposite of the deep: warm, loud, unimpressed, dinner-on-the-table people. Their house becomes **Nerai's respite** — the one place with no factions, no whispers, no being anyone's proof of anything. Somebody's mom or dad who just refills her plate and asks how school was. She doesn't have a word for what that feels like at first. That's the point. **Full bios now live in `iggys-parents.md`** — unassuming, quirky, never once ask her what she is. (Abby: their names, jobs, and house rules are yours.)
 
 ## How he works on the page
 - **Humor is his armor and his tell.** The grin arrives "right on schedule" — and when it drops, the reader knows things are serious before Nerai says so.

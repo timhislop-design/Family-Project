@@ -46,7 +46,7 @@ The one relationship with no factions in it. It never wanted her to be proof of 
 - The mystery tell: it reacts to the failing before instruments, adults, or the sea itself. Used sparingly, it's the reader's early-warning system.
 
 ## Open for Abby (the fun parts are yours)
-- **Name.** Starters from the record: **Levi** (a tiny Leviathan named Levi), **Tanni** (from *tannin*, the Bible's sea serpent). Or the name only Nerai would give it.
+- **Name.** Dad wants PLUCKY. Shortlist from the record, small names off giant words: **Moth** (from Behemoth — the tiniest possible piece of the biggest possible monster), **Ness** (it's part Loch Ness creature; the joke is right there), **Levi** (a tiny Leviathan named Levi), **Tanni** (from *tannin*, the Bible's sea serpent), **Squall** (a very small storm). Or the name only Nerai would give it.
 - **Look and size.** Design language locked by Dad: **part Loch Ness sea creature, part dragon, little bit sea horse** — long neck, coiled curling tail, crested frills, lit along the spine, maybe a hint of snout. (Abby: this is your "sea horse lol" from brain dump #1, come to life. You called it before it existed.) (And fitting the mythology: Nessie sightings are just what humans call a leviathan glimpsed on patrol.) Still yours: how small is a "worthless" leviathan? Dog-sized? Canoe-sized? What color does it glow?
 - **The sound it makes.** (It hums the deep song off-key? Clicks like a dropped marble?)
 - **One habit** that makes it IT. (Steals specific objects? Sleeps only in containers it has defeated?)
