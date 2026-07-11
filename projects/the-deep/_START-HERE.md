@@ -11,6 +11,7 @@ The first book/series in the Family Project. A "school for exceptional kids" wor
 - `arc.md` — the series arc: the love thread (innocent → Book 3 → "not so much"), the truth engine, and the theme (refusing the inherited story).
 - `characters/nerai.md` — full backstory: cold-culture parents, her voice, her hidden ability, the secret they keep "for her."
 - `characters/phorcys.md` — the antagonist: old-blood restorationist, dominion song, the invitation, and his mask-off ladder.
+- `characters/` shells for the recurring cast: `the-pet.md` (leviathan runt, REAL intelligence, motivation = the old errand "guard the door," slow-reveal ladder), `coat-girl.md`, `friend-from-home.md`, `her-father.md`, `her-mother.md`, `reyes.md`. All wired to site pages with Abby's open questions.
 - `ideas-parking-lot.md` — unbuilt ideas (the "chosen" flavors, the silver-spoon supremacist antagonist, Abby's dump #1 items, etc.).
 - `abby-notes.md` — Abby's brain dumps, verbatim, in her voice. Never edit; only mine.
 - `mythology.md` — the true history: Younger Dryas withdrawal, Oannes/Enki, the Flood, Atlantis, Nereus. The iceberg under the book; almost never on the page directly.

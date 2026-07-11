@@ -145,11 +145,23 @@
         <path d="M10 86 Q30 66 50 86 T90 86 T130 86" stroke="#41e8c5" stroke-width="3" fill="none" opacity=".7" stroke-linecap="round"/>
         <circle cx="60" cy="42" r="10" fill="#dcebf2" opacity=".85"/>`,
       pet: `${defs}<rect width="120" height="120" fill="${G}"/>
-        <path d="M28 74 C28 52 44 42 62 44 C80 46 92 58 90 74 C88 88 74 92 60 90 C44 88 28 88 28 74 Z" fill="#2e8f7f"/>
-        <path d="M30 72 C22 66 18 58 22 48 C30 54 32 62 30 72 Z" fill="#2e8f7f"/>
-        <circle cx="72" cy="62" r="6" fill="#eafcf6"/><circle cx="74" cy="62" r="2.6" fill="#0a2438"/>
-        <path d="M48 80 Q58 86 68 80" stroke="#0a2438" stroke-width="2" fill="none" stroke-linecap="round"/>
-        <circle cx="44" cy="52" r="2" fill="#41e8c5"/><circle cx="54" cy="46" r="2" fill="#41e8c5"/><circle cx="66" cy="46" r="2" fill="#41e8c5"/>`,
+        <path d="M8 112 Q20 106 32 112 T56 112 T80 112 T104 112" stroke="#7fd4ff" stroke-width="1.5" fill="none" opacity=".35"/>
+        <path d="M16 102 C14 88 28 78 44 80 C60 82 68 92 64 102 C60 111 44 114 32 111 C24 109 18 107 16 102 Z" fill="#1f6b5f"/>
+        <ellipse cx="42" cy="97" rx="19" ry="8" fill="#2e8f7f"/>
+        <path d="M40 92 C34 96 33 102 37 106 C41 102 42 97 40 92 Z" fill="#45b39a"/>
+        <path d="M50 88 C46 64 54 48 72 40 C78 37 84 37 88 40 L92 52 C84 54 76 58 70 66 C63 75 62 86 63 96 L50 94 Z" fill="#2e8f7f"/>
+        <path d="M70 24 C84 18 100 26 102 40 C104 52 94 60 82 58 C72 56 64 48 66 38 C67 31 68 27 70 24 Z" fill="#35a189"/>
+        <path d="M100 40 C108 42 111 46 108 50 C103 48 99 45 97 43 Z" fill="#35a189"/>
+        <path d="M70 24 L63 13 L74 19 Z" fill="#45b39a"/>
+        <path d="M78 19 L76 8 L85 17 Z" fill="#45b39a"/>
+        <path d="M87 17 L90 7 L94 18 Z" fill="#45b39a"/>
+        <path d="M75 31 Q84 27 93 32" stroke="#1f6b5f" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <circle cx="84" cy="41" r="8" fill="#eafcf6"/>
+        <circle cx="85.5" cy="41.5" r="4.6" fill="#123c58"/>
+        <circle cx="85.5" cy="41.5" r="4.6" fill="none" stroke="#41e8c5" stroke-width=".9" opacity=".85"/>
+        <circle cx="87.2" cy="39.6" r="1.6" fill="#fff"/>
+        <path d="M97 50 Q90 53 84 51.5" stroke="#123c58" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <circle cx="67" cy="56" r="1.5" fill="#41e8c5"/><circle cx="64" cy="68" r="1.5" fill="#41e8c5"/><circle cx="62.5" cy="80" r="1.5" fill="#41e8c5"/><circle cx="63" cy="91" r="1.5" fill="#41e8c5"/><circle cx="28" cy="86" r="1.3" fill="#41e8c5" opacity=".8"/><circle cx="52" cy="106" r="1.3" fill="#41e8c5" opacity=".8"/>`,
       horn: `${defs}<rect width="120" height="120" fill="${G}"/>
         <path d="M34 84 C34 60 46 40 78 32 C70 48 66 60 64 84 Z" fill="#c9d8e2" opacity=".9"/>
         <path d="M80 30 Q92 26 96 34 Q88 36 82 34 Z" fill="#e8c86a"/>

@@ -98,52 +98,62 @@ window.DEEP = {
     {
       id: "coat-girl", name: "The Coat Girl", art: "unknown", group: "Found family — yours to create, Abby",
       role: "Lent Nerai a coat in October and never mentioned it again. Warms a cup of anything between her palms.",
-      file: null,
+      file: "projects/the-deep/characters/coat-girl.md",
       openQuestions: [
-        "Her name?",
+        "Her name? Starters from the record: Miriam (the girl who watched over Moses on the water — she watches over people without being asked), Tabitha (the Bible's quiet-kindness saint), Ruth (loyalty itself). Or wreck these and pick your own.",
         "Where's she from, and what's her family like?",
-        "One habit that makes her HER.",
+        "One habit that makes her HER. (Starters: never asks questions but always shows up; collects mugs; hums when she's nervous.)",
         "Why did she lend the coat — and why never mention it?"
       ]
     },
     {
       id: "friend-from-home", name: "The Friend From Home", art: "wave", group: "Found family — yours to create, Abby",
       role: "A deep-one kid who knew Nerai before — arriving ashore with the enrolled in Chapter 6.",
-      file: null,
+      file: "projects/the-deep/characters/friend-from-home.md",
       openQuestions: [
-        "Name, and which faction is their family?",
-        "What was their friendship like in the deep — and did it end badly or just... pause?",
+        "Name? Nereus had fifty daughters — the Nereids — and their real names are up for grabs: Galene (Nereid of CALM seas — funny if their family is Abyssal), Thessa (from Thetis), Ligeia, Psame (from Psamathe). Boy option: Proteus (the sea god who kept changing shape — a follower who bends). Which fits?",
+        "Which faction is their family — and is it the opposite of what Nerai would want?",
+        "What was the friendship like in the deep — and did it end badly or just... pause when she was sent up?",
         "Do they follow the rules Nerai breaks? (Her friends usually do — is this one different?)"
       ]
     },
     {
       id: "pet", name: "The One That Followed", art: "pet", group: "Yours to create, Abby",
-      role: "A “small” sea monster that had to be left behind — and didn't stay behind. Arrives Chapter 10.",
-      file: null,
+      role: "A “small” sea monster that had to be left behind — and didn't stay behind. Smarter than anyone on the beach. Arrives Chapter 10.",
+      file: "projects/the-deep/characters/the-pet.md",
       openQuestions: [
-        "What IS it? (size, look, sound it makes)",
-        "Its name?",
-        "Why couldn't it come when she was sent up?",
-        "One thing it does that no one expects."
+        "What IS it? (Starter: a leviathan RUNT — bred to be a mount, born too small, worthless to everyone but her. The sea serpents on old human maps were its grown cousins.)",
+        "Its name? Starters from the record: Levi (a tiny Leviathan named Levi — the joke writes itself), Tanni (from 'tannin,' the Bible's word for sea serpent). Or something only Nerai would think of.",
+        "Why couldn't it come when she was sent up? (Starter: bred beasts are counted — taking it would have left a trace.)",
+        "One thing it does that no one expects. (Starters: it can taste lies; it hums the deep song off-key; it hates Phorcys on sight and nobody reads the sign.)"
       ]
     },
     {
       id: "father", name: "Her Father", art: "horn", group: "Important side characters",
       role: "Pelagic. Leads the surfacing. “Both answers are yes.” Unnamed — his name is Abby's to give.",
-      file: null,
-      openQuestions: ["His name?", "One memory of him being an actual dad — it should exist, and hurt a little."]
+      file: "projects/the-deep/characters/her-father.md",
+      openQuestions: [
+        "His name? The big one from the record: NEREUS — the Greek 'Old Man of the Sea,' famous for never lying. If that's his name, then 'Nerai' is his lineage — and the Greeks got their truthful sea god from HER family. Other options: Ea (the Babylonian deep-god who broke ranks to warn Noah's original — fits a Pelagic who defied the old law), Palaemon (the sea-protector).",
+        "One memory of him being an actual dad — it should exist, and hurt a little. (Starters: he taught her to read ship names through the water; he once held her palm flat against a whale's song and said nothing the whole time.)"
+      ]
     },
     {
       id: "mother", name: "Her Mother", art: "moon", group: "Important side characters",
       role: "Abyssal. Told Nerai to stay small. Rising now with the deep's answer.",
-      file: null,
-      openQuestions: ["Her name?", "What does she say when she sees Nerai again? (Chapter 4 is waiting on this.)"]
+      file: "projects/the-deep/characters/her-mother.md",
+      openQuestions: [
+        "Her name? Starters from the record: Tiama (from Tiamat — the Babylonian primordial sea, the word that became 'the deep' in Genesis; an Abyssal leader literally named for the abyss), Doris (in the myths, Nereus's actual wife — so the pairing is already written), Nammu (the Sumerian mother of the first sea), Ceto (darker — goddess of the deep's monsters).",
+        "What does she say when she sees Nerai again? (Chapter 4 is waiting on this. Starters: 'You should be inside the wire' — protection dressed as coldness; or she says Nerai's name the way her father DIDN'T; or nothing at all — she just looks at her daughter's face a beat too long, like everyone else does.)"
+      ]
     },
     {
       id: "reyes", name: "Coach Reyes", art: "whistle", group: "Important side characters",
       role: "Runs fitness, evacuation drills, and apparently the end of the world. Said “Long night, Nerai” to a girl who told no one she was up.",
-      file: null,
-      openQuestions: ["What does Reyes know, and how?", "First name? Backstory ideas welcome."]
+      file: "projects/the-deep/characters/reyes.md",
+      openQuestions: [
+        "What does Reyes know, and how? (Starters: the quiet schools keep an old compact with the sea that only one staffer per school is told about — he's the keeper; OR he was a navy diver who saw something years ago and got quietly recruited; OR his own gift is small and terrible for secrets — he always knows where everyone is.)",
+        "First name? Starter from the record: JONAH — Coach Jonah Reyes, the man the sea spat back. Too on the nose, or exactly right?"
+      ]
     }
   ]
 };

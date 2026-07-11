@@ -72,10 +72,21 @@ She belongs fully to neither world. Too curious for the deep, too strange for th
 
 ---
 
-## Open threads to build with Abby
-- What's the one sunk human thing Nerai kept and treasures? (A small, specific object can carry the whole longing.)
-- Does she have a friend in the deep she left behind — someone on the *other* faction?
-- What can she do that other deep ones can't, or can't yet? (Her "power," if any.)
-- How did she really feel about being sent ashore — punishment, mission, or escape?
+## How she works on the page
+- **Anxious first, clear in the clutch.** Heart slamming, head screaming *don't* — and her feet already moving, her voice coming out clear. The dread always gets written; the rise always surprises her.
+- **She counts.** Days, wrongs, lights that didn't come on. The counting is how the ache shows without being named.
+- **The shelf.** Things she can't afford to feel yet get "put away to be afraid of later." When the shelf finally spills, it should matter.
+- **She notices everything** — and says the thing everyone else only thinks. Gently to friends, less gently to elders. It costs her every time and she does it anyway.
+- **Objects carry her feelings:** the brass key, the held sleeve, the fake hometown. Never stated emotion.
+- **Blind spot:** Iggy. Clear eye: Phorcys. She has these exactly backwards and doesn't know it.
 
-*Draft one. Cheesy-ok. Names derivative. Clay for editing.*
+## Where she's headed (series, loose)
+Book 1: from hidden to known to standing on the line — her voice arrives in public before her power does, then both at once. Books 2+: learning to *hold* the ability instead of leaking it; pulling the thread of what her parents hid; the slow discovery that she isn't just between the two worlds — she may be the door (see `../arc.md`, the bridge). The wound that drives all of it: sent away or sent out, and refusing to let anyone decide that for her again.
+
+## Open questions for Abby (with starters to react to — wreck them freely)
+- **The one sunk treasure beyond the key?** *(Starters: a page of a book she still can't read; a child's shoe she made up stories about; a music box that only plays underwater.)*
+- **Her exact hidden ability's look and cost?** *(Working idea: she shapes the line between water and air. What does it COST her — warmth? memory? days off her long life?)*
+- **What does she miss most about the deep that would surprise people?** *(Starters: the pressure — like being held; the total dark; her monster (see the pet).)*
+- **What's her fake hometown called?** *(She invented it — that's a joke waiting to pay off.)*
+
+*Backstory + temperament canon. Clay everywhere else.*

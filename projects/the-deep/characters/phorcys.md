@@ -45,6 +45,19 @@ The mask comes off one rung per act:
 
 Rule of the ladder: **he never lies on the page.** Every awful thing he does is technically defensible until Act III. That keeps the light tone (no mustache-twirling) and makes the reader do the work of distrusting him — reading WITH Nerai.
 
+## How he works on the page
+- **He never lies on the page.** Every awful thing he does is technically defensible until Act III. The reader distrusts him because Nerai does — not because the text tells them to.
+- **Contempt lives in phrasing, not cursing.** *"Land dwellers"* with a little smile. Compliments that are measurements. Patience that is actually inventory.
+- **The animals know.** Anything grown or bred goes quiet and wrong around him. Nobody reads the sign but Nerai (and the pet).
+- **His weapon is invitation.** He offers belonging, admiration, never-being-sent-away — the exact hungers Nerai carries. The scariest scenes are the ones where yes sounds reasonable.
+- **One flicker, late.** A single unguarded second where something younger looks out. Don't redeem him; just let the reader see the kid the story got to first.
+
+## Open questions for Abby (with starters to react to)
+- **Confirm his name** — Phorcys ("Phor"), or the alternates: Cetus, Glaucus, Pontus.
+- **His beast?** He'd have a bonded mount — something bred, beautiful, and miserable. *(Starters: a sleek hunting-eel the length of a bus; a pale ray like a moving cathedral floor; whatever it is, it flinches when he sings.)*
+- **His one genuine excellence?** Beyond the song and the face — what's he actually, honestly great at? *(Starters: history — he knows the archive cold; strategy games; he's a shockingly good listener, which is worse.)*
+- **The flicker** — what almost reaches him? *(Starters: being believed in by a teacher; the pet not fearing him once; Nerai saying no like an equal instead of a subject.)*
+
 ## Threads left open for the series (don't spend in Book 1)
 - His family's relic archive — what exactly did the drowned cults keep, and what does his house know about the *earlier* ruins?
 - The restoration strain is bigger than one boy: who taught him? (An elder face for Book 2+.)
