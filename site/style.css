@@ -225,6 +225,49 @@ a.chap-item:hover .go{opacity:1}
 .send-err{color:#ff9d8a;font-family:var(--font-ui);margin-top:.9rem}
 .not-wired{font-size:.8rem;color:var(--warn);font-family:var(--font-ui)}
 
+/* act bands */
+.act-band{display:flex;gap:1.6rem;align-items:center;margin:3.2rem 0 1.2rem;padding:1.6rem 1.8rem;background:var(--card-grad);border:1px solid var(--line-glow);border-radius:22px;position:relative;overflow:hidden}
+.act-band::before{content:"";position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,transparent,var(--glow),transparent)}
+.act-num{font-family:var(--font-display);font-size:4.6rem;font-weight:600;line-height:1;color:var(--glow);opacity:.9;text-shadow:0 0 34px rgba(65,232,197,.45);min-width:3.4rem;text-align:center}
+.act-info h2{font-family:var(--font-display);font-weight:600;font-size:clamp(1.5rem,4.5vw,2.1rem);margin:.1rem 0 .4rem}
+.act-arc{font-family:var(--font-body);font-style:italic;color:var(--ink-dim);line-height:1.65;margin:0;max-width:60ch}
+.chap-item.plan{border-style:dashed;opacity:.85}
+.chap-item.plan .num{opacity:.7;text-shadow:none}
+.chap-item.plan .status{color:var(--ink-dim)}
+.chap-item.plan:hover{opacity:1;border-color:var(--gold)}
+.chap-item.plan:hover .go{opacity:1;color:var(--gold)}
+@media (max-width:560px){.act-band{gap:1rem;padding:1.2rem}.act-num{font-size:3rem;min-width:2.4rem}}
+
+/* question & idea cards */
+.q-intro{font-family:var(--font-body);font-style:italic;color:var(--ink-dim);line-height:1.7;max-width:62ch;margin:.4rem 0 1.6rem}
+.q-section{margin:2.6rem 0 1rem}
+.q-card{background:var(--card-grad);border:1px solid var(--line);border-radius:18px;padding:1.2rem 1.4rem;margin:.9rem 0;transition:border-color .25s}
+.q-card:focus-within{border-color:var(--glow)}
+.q-card.answered{border-color:var(--glow);border-style:solid}
+.q-card .q-text{font-family:var(--font-body);font-size:1.08em;line-height:1.6;margin:0 0 .8rem}
+.q-card .q-text::before{content:"✦ ";color:var(--glow);font-size:.8em}
+.q-card textarea{width:100%;background:var(--bg2);border:1px solid var(--line);border-radius:12px;color:var(--ink);padding:.7rem .85rem;font-family:var(--font-ui);font-size:.92rem;min-height:74px;resize:vertical}
+.q-card textarea:focus{outline:none;border-color:var(--glow)}
+.q-actions{display:flex;align-items:center;gap:.9rem;margin-top:.7rem;flex-wrap:wrap}
+.mini-send{background:var(--glow);color:#032b26;border:none;border-radius:999px;padding:.55rem 1.3rem;font-family:var(--font-ui);font-weight:600;font-size:.84rem;cursor:pointer;min-height:42px;transition:all .2s}
+.mini-send:hover:not(:disabled){box-shadow:0 0 26px rgba(65,232,197,.45);transform:translateY(-1px)}
+.mini-send:disabled{opacity:.45;cursor:default}
+.answered-badge{font-family:var(--font-ui);font-size:.72rem;letter-spacing:.1em;color:var(--glow);text-transform:uppercase}
+.mini-result{font-family:var(--font-ui);font-size:.82rem}
+.mini-result .send-ok,.mini-result .send-err{margin:0}
+.who-bar{display:flex;align-items:center;gap:.7rem;background:var(--panel2);border:1px solid var(--line-glow);border-radius:999px;padding:.5rem .6rem .5rem 1.2rem;margin:1.4rem 0;max-width:420px}
+.who-bar label{font-family:var(--font-ui);font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-dim);white-space:nowrap}
+.who-bar input{flex:1;min-width:80px;background:transparent;border:none;color:var(--glow);font-family:var(--font-ui);font-size:1rem;font-weight:600}
+.who-bar input:focus{outline:none}
+.idea-card{background:var(--card-grad);border:1px solid var(--line);border-radius:20px;padding:1.4rem 1.6rem;margin:1.2rem 0}
+.idea-card .prose{font-size:.95em}
+.idea-card .prose h2,.idea-card .prose h3{font-family:var(--font-display);text-align:left;font-size:1.5rem;margin:.2rem 0 .6rem}
+.idea-card .prose h2::after,.idea-card .prose h3::after{content:none}
+.idea-card details{margin-top:1rem;border-top:1px dashed var(--line);padding-top:.9rem}
+.idea-card summary{cursor:pointer;font-family:var(--font-ui);font-size:.82rem;letter-spacing:.1em;color:var(--glow);text-transform:uppercase;list-style:none}
+.idea-card summary::before{content:"↳ ";color:var(--gold)}
+.idea-card summary:hover{text-shadow:0 0 12px rgba(65,232,197,.5)}
+
 /* footer */
 .foot{border-top:1px solid var(--line);text-align:center;padding:1.6rem;color:var(--ink-dim);font-size:.74rem;font-family:var(--font-ui);letter-spacing:.06em}
 .foot-mark{color:var(--glow);margin:0 .5rem}

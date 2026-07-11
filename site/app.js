@@ -213,6 +213,160 @@
     });
   }
 
+  /* ---------- per-question answers ---------- */
+  async function postFeedback(payload) {
+    if (!C.appsScriptUrl) return false;
+    try {
+      const res = await fetch(C.appsScriptUrl, {
+        method: "POST", headers: { "Content-Type": "text/plain;charset=utf-8" },
+        body: JSON.stringify(payload)
+      });
+      return res.ok;
+    } catch (e) { return false; }
+  }
+  function hashId(s) {
+    let h = 0;
+    for (let i = 0; i < s.length; i++) { h = (h * 31 + s.charCodeAt(i)) | 0; }
+    return "q" + Math.abs(h);
+  }
+  const ANSWERED_KEY = "deep-answered";
+  function answeredStore() {
+    try { return JSON.parse(localStorage.getItem(ANSWERED_KEY)) || {}; } catch (e) { return {}; }
+  }
+  function markAnswered(id) {
+    const s = answeredStore(); s[id] = Date.now();
+    localStorage.setItem(ANSWERED_KEY, JSON.stringify(s));
+  }
+  function whoBar() {
+    return `<div class="who-bar"><label>Answering as</label><input type="text" id="whoName" value="Abby"></div>`;
+  }
+  function answerCard(sectionTitle, questionText, category) {
+    const plain = questionText.replace(/\*\*/g, "").replace(/\*/g, "");
+    const id = hashId(category + "|" + plain);
+    const done = !!answeredStore()[id];
+    return `<div class="q-card reveal ${done ? "answered" : ""}" data-id="${id}" data-cat="${category}" data-sec="${encodeURIComponent(sectionTitle)}" data-q="${encodeURIComponent(plain)}">
+      <p class="q-text">${marked.parseInline(questionText)}</p>
+      <textarea placeholder="Your answer — long, short, or 'skip this one, here's a better question'…"></textarea>
+      <div class="q-actions">
+        <button class="mini-send" ${C.appsScriptUrl ? "" : "disabled"}>Send answer</button>
+        <span class="answered-badge">${done ? "✓ answered — you can always add more" : ""}</span>
+        <span class="mini-result"></span>
+      </div>
+    </div>`;
+  }
+  function wireAnswerCards(root) {
+    root.querySelectorAll(".q-card").forEach(card => {
+      const btn = card.querySelector(".mini-send");
+      btn.addEventListener("click", async () => {
+        const msg = card.querySelector("textarea").value.trim();
+        const out = card.querySelector(".mini-result");
+        if (!msg) { out.innerHTML = `<span class="send-err">Write a little something first 💙</span>`; return; }
+        btn.disabled = true; btn.textContent = "Sending…";
+        const ok = await postFeedback({
+          category: card.dataset.cat,
+          page: decodeURIComponent(card.dataset.sec),
+          pageTitle: decodeURIComponent(card.dataset.sec),
+          who: ($("#whoName") && $("#whoName").value.trim()) || "Abby",
+          moods: [], quote: decodeURIComponent(card.dataset.q),
+          message: msg, url: location.href, when: new Date().toISOString()
+        });
+        if (ok) {
+          markAnswered(card.dataset.id);
+          card.classList.add("answered");
+          card.querySelector(".answered-badge").textContent = "✓ answered — you can always add more";
+          card.querySelector("textarea").value = "";
+          out.innerHTML = `<span class="send-ok">Sent! 🌊</span>`;
+        } else {
+          out.innerHTML = `<span class="send-err">Didn't go through — tell Dad.</span>`;
+        }
+        btn.disabled = false; btn.textContent = "Send answer";
+      });
+    });
+  }
+
+  /* parse a markdown file into sections { title, intro, questions[] } */
+  function parseSections(text) {
+    const parts = text.split(/\n(?=###? )/g);
+    const head = /^##/.test(parts[0]) ? null : parts.shift();
+    const sections = parts.map(p => {
+      const lines = p.split("\n");
+      const title = lines.shift().replace(/^#+\s*/, "");
+      const questions = []; const rest = [];
+      lines.forEach(l => {
+        const m = l.match(/^(?:\d+\.|[-*])\s+(.+)/);
+        if (m) questions.push(m[1]); else rest.push(l);
+      });
+      return { title, intro: rest.join("\n").trim(), questions, raw: p };
+    });
+    return { head, sections };
+  }
+
+  async function viewAsk() {
+    app.innerHTML = `<div class="loading"><span class="ripple"></span>Descending…</div>`;
+    try {
+      const text = await fetchMd(C.pages.review);
+      const { head, sections } = parseSections(text);
+      const introHtml = head ? md(head.replace(/^# .*$/m, "")) : "";
+      let body = "";
+      sections.forEach(sec => {
+        body += `<div class="q-section reveal"><div class="group-label">${sec.title}</div>
+          ${sec.intro ? `<div class="q-intro">${md(sec.intro)}</div>` : ""}
+          ${sec.questions.map(q => answerCard(sec.title, q, "Review Round 1")).join("")}
+        </div>`;
+      });
+      app.innerHTML = pageHead("review round 1", "Questions for You",
+        "Answer any, in any order, as many times as you like. Every answer lands on Dad's desk — and shapes what gets written next.") +
+        `<div class="page-body"><div class="wrap">
+          <div class="q-intro reveal">${introHtml}</div>
+          ${whoBar()}
+          ${C.appsScriptUrl ? "" : `<p class="not-wired">⚠ Answers aren't wired up yet — Dad needs to finish site-setup/SETUP.md.</p>`}
+          ${body}
+        </div></div>`;
+      wireAnswerCards(app);
+      initScrollFX();
+      window.scrollTo(0, 0);
+    } catch (e) { app.innerHTML = `<div class="loading">Couldn't load the questions. (${e.message})</div>`; }
+  }
+
+  async function viewIdeas() {
+    app.innerHTML = `<div class="loading"><span class="ripple"></span>Descending…</div>`;
+    try {
+      const text = await fetchMd(C.pages.ideas);
+      const { head, sections } = parseSections(text);
+      let body = "";
+      sections.forEach(sec => {
+        const plainTitle = sec.title.replace(/\*/g, "");
+        const id = hashId("Parking Lot|" + plainTitle);
+        const done = !!answeredStore()[id];
+        body += `<div class="idea-card reveal">
+          <div class="prose">${md(sec.raw)}</div>
+          <details>
+            <summary>Riff on this idea</summary>
+            <div class="q-card ${done ? "answered" : ""}" style="border:none;padding:.6rem 0 0;margin:0;background:none"
+                 data-id="${id}" data-cat="Parking Lot" data-sec="${encodeURIComponent(plainTitle)}" data-q="${encodeURIComponent(plainTitle)}">
+              <textarea placeholder="Push it further, argue with it, mix it with another idea…"></textarea>
+              <div class="q-actions">
+                <button class="mini-send" ${C.appsScriptUrl ? "" : "disabled"}>Send riff</button>
+                <span class="answered-badge">${done ? "✓ riffed — keep going if you want" : ""}</span>
+                <span class="mini-result"></span>
+              </div>
+            </div>
+          </details>
+        </div>`;
+      });
+      app.innerHTML = pageHead("the parking lot", "The Idea Vault",
+        "Where ideas wait until the story is ready for them. Some are yours already. All of them can be argued with — open one and riff.") +
+        `<div class="page-body"><div class="wrap">
+          ${whoBar()}
+          ${C.appsScriptUrl ? "" : `<p class="not-wired">⚠ Riffs aren't wired up yet — Dad needs to finish site-setup/SETUP.md.</p>`}
+          ${body}
+        </div></div>`;
+      wireAnswerCards(app);
+      initScrollFX();
+      window.scrollTo(0, 0);
+    } catch (e) { app.innerHTML = `<div class="loading">Couldn't load the vault. (${e.message})</div>`; }
+  }
+
   /* ---------- shared bits ---------- */
   function glowDots(n) {
     let dots = "";
@@ -325,36 +479,104 @@
         <div class="hero-cta reveal d2">
           <a class="btn primary" href="#/chapter/prologue">Read the Prologue</a>
           <a class="btn ghost" href="#/book">See all chapters</a>
+          <a class="btn ghost" href="#/ask">Answer the questions</a>
         </div>
       </section>
     </div>`;
     initScrollFX();
   }
 
+  function allChapters() { return C.book.acts.flatMap(a => a.chapters); }
+  function writtenChapters() { return allChapters().filter(c => c.written); }
+
   function viewBook() {
     const p = C.book.prologue;
-    const items = [`
+    let html = `<div class="chap-list" style="margin-bottom:.4rem">
       <a class="chap-item reveal" href="#/chapter/prologue">
         <span class="num">✦</span>
-        <span class="t"><b>${p.title}</b><span class="status">${p.status}</span></span>
+        <span class="t"><b>${p.title}</b><span class="status">${p.status} — ready for your notes</span></span>
         <span class="go">→</span>
-      </a>`];
-    C.book.chapters.forEach((ch, i) => {
-      items.push(`<a class="chap-item reveal" href="#/chapter/${ch.num}">
-        <span class="num">${ch.num}</span>
-        <span class="t"><b>${ch.title}</b><span class="status">${ch.status} — ready for your notes</span></span>
-        <span class="go">→</span>
-      </a>`);
+      </a></div>`;
+    C.book.acts.forEach(act => {
+      html += `<div class="act-band reveal">
+        <span class="act-num">${act.num}</span>
+        <div class="act-info">
+          <span class="depth-tag" style="margin-bottom:.3rem">Act ${act.num} · ${act.span}</span>
+          <h2>${act.title}</h2>
+          <p class="act-arc">${act.arc}</p>
+        </div>
+      </div>
+      <div class="chap-list">`;
+      act.chapters.forEach(ch => {
+        if (ch.written) {
+          html += `<a class="chap-item reveal" href="#/chapter/${ch.num}">
+            <span class="num">${ch.num}</span>
+            <span class="t"><b>${ch.title}</b><span class="status">${ch.status} — written · ready for your notes</span></span>
+            <span class="go">→</span>
+          </a>`;
+        } else {
+          html += `<a class="chap-item plan reveal" href="#/plan/${ch.num}">
+            <span class="num">${ch.num}</span>
+            <span class="t"><b>${ch.title}</b><span class="status">planned — tap to see where it's headed</span></span>
+            <span class="go">→</span>
+          </a>`;
+        }
+      });
+      html += `</div>`;
     });
-    C.book.upcoming.forEach(ch => {
-      items.push(`<div class="chap-item soon reveal">
-        <span class="num">${ch.num}</span>
-        <span class="t"><b>${ch.title}</b><span class="status">not written yet</span></span>
-      </div>`);
-    });
-    app.innerHTML = pageHead("the manuscript", "The Book", "Chapters surface here as they're drafted. “Draft 1” means brand-new clay — the perfect time to bend it.") +
-      `<div class="page-body"><div class="wrap"><div class="chap-list">${items.join("")}</div></div></div>`;
+    app.innerHTML = pageHead("the manuscript", "The Book",
+      "Three acts, twenty-three chapters. The glowing ones are written; the rest show you exactly where the story is headed — and every planned chapter has a box for changing its direction before it's written. That's cheaper than after.") +
+      `<div class="page-body"><div class="wrap">${html}</div></div>`;
     initScrollFX();
+  }
+
+  function viewPlan(id) {
+    const num = parseInt(id, 10);
+    const ch = allChapters().find(c => c.num === num);
+    if (!ch) { app.innerHTML = `<div class="loading">No such chapter.</div>`; return; }
+    if (ch.written) { location.hash = "#/chapter/" + num; return; }
+    const act = C.book.acts.find(a => a.chapters.some(c => c.num === num));
+    const idx = allChapters().findIndex(c => c.num === num);
+    const prev = allChapters()[idx - 1], next = allChapters()[idx + 1];
+    app.innerHTML = pageHead("planned · act " + act.num + " — " + act.title, "Chapter " + num + " — " + ch.title, "") +
+      `<div class="page-body"><div class="wrap">
+        <div class="reader reveal">
+          <div class="reader-head"><span class="badge">Not written yet — direction can still change</span></div>
+          <div class="prose">
+            <h2>Where it's headed</h2>
+            <p style="font-size:1.1em">${ch.premise}</p>
+            <hr>
+            <p class="dim"><em>Its place in the act:</em> ${act.arc}</p>
+          </div>
+        </div>
+        <div class="pager">
+          <span>${prev ? `<a href="#/${prev.written ? "chapter" : "plan"}/${prev.num}">← Ch. ${prev.num}</a>` : `<a href="#/chapter/prologue">← Prologue</a>`}</span>
+          <span>${next ? `<a href="#/${next.written ? "chapter" : "plan"}/${next.num}">Ch. ${next.num} →</a>` : ""}</span>
+        </div>
+        <div class="feedback reveal" data-cat="Book" data-page="Chapter-${num}-plan" data-title="${encodeURIComponent("Chapter " + num + " (planned) — " + ch.title)}">
+          <h3>Change the direction?</h3>
+          <p class="sub">This chapter is still just a plan — the perfect time to bend it. Want something different to happen? A character to be there? A whole other idea? Say so.</p>
+          ${C.appsScriptUrl ? "" : `<p class="not-wired">⚠ Feedback isn't wired up yet — Dad needs to finish site-setup/SETUP.md.</p>`}
+          <label>Who's writing this?</label>
+          <input type="text" class="fb-who" value="Abby">
+          <label>Mood — tap any that fit</label>
+          <div class="moods">
+            <button class="mood" data-m="Love this plan">💙 Love this plan</button>
+            <button class="mood" data-m="Change it">🔀 Change it</button>
+            <button class="mood" data-m="Idea">💡 Idea</button>
+            <button class="mood" data-m="Question">🤔 Question</button>
+          </div>
+          <label>Paste the part it's about (optional)</label>
+          <input type="text" class="fb-quote" placeholder="“…”">
+          <label>Your notes</label>
+          <textarea class="fb-msg" placeholder="What should happen instead? Who should be there? What are we missing?"></textarea>
+          <button class="send-btn" ${C.appsScriptUrl ? "" : "disabled"}>Send to Dad 🌊</button>
+          <div class="fb-result"></div>
+        </div>
+      </div></div>`;
+    wireFeedback(app);
+    initScrollFX();
+    window.scrollTo(0, 0);
   }
 
   async function viewChapter(id) {
@@ -368,12 +590,13 @@
         next = { href: "#/chapter/1", label: "Chapter One →" };
       } else {
         const num = parseInt(id, 10);
-        const meta = C.book.chapters.find(c => c.num === num);
+        const meta = writtenChapters().find(c => c.num === num);
         if (!meta) throw new Error("No such chapter");
         title = meta.title; status = meta.status; kicker = "chapter " + num;
         body = await getChapter(num);
         prev = num === 1 ? { href: "#/chapter/prologue", label: "← Prologue" } : { href: `#/chapter/${num - 1}`, label: `← Chapter ${num - 1}` };
-        if (C.book.chapters.find(c => c.num === num + 1)) next = { href: `#/chapter/${num + 1}`, label: `Chapter ${num + 1} →` };
+        const nx = allChapters().find(c => c.num === num + 1);
+        if (nx) next = { href: `#/${nx.written ? "chapter" : "plan"}/${num + 1}`, label: `Chapter ${num + 1} ${nx.written ? "" : "(planned) "}→` };
       }
       app.innerHTML = pageHead(kicker, title, "") +
         `<div class="page-body"><div class="wrap">
@@ -455,8 +678,11 @@
     if (!page) { viewHome(); }
     else if (page === "book") { viewBook(); mark("#/book"); }
     else if (page === "chapter") { viewChapter(arg); mark("#/book"); }
+    else if (page === "plan") { viewPlan(arg); mark("#/book"); }
     else if (page === "characters") { viewCharacters(); mark("#/characters"); }
     else if (page === "character") { viewCharacter(arg); mark("#/characters"); }
+    else if (page === "ask") { viewAsk(); mark("#/ask"); }
+    else if (page === "ideas") { viewIdeas(); mark("#/ideas"); }
     else if (page === "about") { viewAbout(); mark("#/about"); }
     else { viewHome(); }
   }
