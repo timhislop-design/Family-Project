@@ -63,6 +63,14 @@ Abby's: Greek/Mediterranean (already leaning that way — antagonist names) + **
 ### Abby's inspiration shelf
 Avatar 2, ATLA (friendship dynamics), Percy Jackson, Shadow & Bone / Six of Crows (found family), This Woven Kingdom (setting), Harry Potter (academy), Tress of the Emerald Sea (unique world quirks), Mistborn (Vin's arc), The Little Mermaid (unironically). Full list in `abby-notes.md` — mine these when a chapter needs a model.
 
+### The martyr question — how does Nerai's story end? (Tim's, Jul 10, 2026 — endgame territory, nothing locked)
+Tim's instinct: with Iggy as the narrator looking back, Nerai may become **a martyr, or something like it** — and the trilogy resolves as his testament to her. The design rule that makes it work (Claude's condition, Tim's angle — same coin): **the ending must be HERS.** Chosen, not suffered. Her final act = the ultimate interruption, the girl who refused every inherited story authoring her own last page — and Iggy's telling is a kept promise, not a boy giving her story its meaning.
+Variants to explore when we get there:
+- **The full martyr:** she gives herself to hold the door at the last crisis. Heaviest; earns the frame's "not everyone gets to stay."
+- **Becomes the door:** she doesn't die — she *crosses into* what she is: the living line between the worlds. Gone from the story, present in the world. Mythically true (it's how sea-gods get remembered), gentler for the reader, and the pet's post gets its meaning forever.
+- **The fake-out:** the frame's past tense and grief read as death for three books — and Book 3's last page corrects the record. Riskier; could feel like a cheat unless the reread holds up.
+Also open: **3 books vs. 6** — the martyr shape fits 3; the longer game might want the "becomes the door" ambiguity to sustain it. All of this waits for Books 2–3. Nothing in Book 1 forecloses any of it (the frame was written to keep every version true).
+
 ### The runt becomes something a lot larger (end of Book 2 → Book 3 — Tim's, Jul 10, 2026)
 The leviathan runt's smallness may be the series' longest setup. Four flavors explored in `characters/the-pet.md`: **(A)** it was never a runt — leashed minds stay small, free ones grow, and the joke of it outgrowing every doorway turns over into Book 3's biggest reveal; **(B)** its refusal spreads — bred mounts learn to say no, and Phor's whole leash economy dies of one small example; **(C)** it sings at the old places and something vast answers — the original sentries, still holding the failing door shut; **(D)** the ark — the leviathans become partners again and carry the crossing in the endgame. A and C stack: it grows because the post needs filling. Abby picks, stacks, or wrecks.
 
