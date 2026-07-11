@@ -4,6 +4,9 @@
 ## Who he is
 Sixteen, old blood, Pelagic. The kind of beautiful manners that make adults sigh with relief. He arrives ashore with the enrolled kids in Chapter 6 as the deep's model ambassador — gracious, curious, patient with human clumsiness — and he is none of those things. He says *land dwellers* the way a bigot says any slur: with a little smile. The page stays clean; the sneer does all the work.
 
+## What he looks like *(Tim, Jul 10, 2026)*
+**Strong and handsome, annoyingly so.** Broad-shouldered where the deep's kids usually run slight, a jaw like the end of an argument, and the kind of symmetry that makes adults trust him on sight. Old-blood coloring — grey-blue, cool, polished — and he dresses formal even when nobody asked, gold at the brow because his family has never once let anyone forget. The unfairness of his face is a plot device: it's half of why nobody believes Nerai about him.
+
 ## The engine: his family remembers being gods
 Here's what makes him more than a school bully. Phorcys's house is one of the oldest — old enough that its memory reaches back past the Withdrawal, to the Age of Teaching and the worship that followed (`mythology.md`). His family kept things from that era: relics of the drowned cults, honors humans paid them when humans knew their place — which, in his family's telling, was *kneeling*.
 
@@ -16,6 +19,11 @@ He is **the inherited story in a body.** Nerai's whole character is refusing the
 
 ## His song
 Where the deep's song shapes water and light, Phor's shapes **the grown things** — the beasts, the bred mounts, the living architecture. Dominion magic: creatures obey him, beautifully, effortlessly, and it looks like a gift until you notice the animals never *choose* him. (Contrast on stage in Ch. 12: Nerai's power is a door between worlds; his is a leash. Hers leaks because it gives; his gleams because it only takes. Exact costs: build with the magic system.) The pet (Ch. 10) hates him on sight — animals know — and nobody reads the sign.
+
+## The tension — hers, this time (Tim, Jul 10, 2026)
+Here's the complication that makes him dangerous in a way no plan of his ever is: **Nerai is drawn to him, and she knows better.** She sees through the charm from day one — she's the ONLY one who does — and it doesn't matter; something in her still notices him, gets flustered around him, hates that it does. She never mistakes what he is. She just can't entirely switch off what he's... like. (Clean page, always: the tension lives in her noticing, in being annoyed at herself, in one beat too long of eye contact she breaks first — never anything more explicit.)
+
+The triangle underneath the book, that nobody in the book can see: Iggy pines and she's blind to it; Phor repels and pulls her at once and she's honest with herself about exactly neither. Where it lands is a later-books question (see `../arc.md`).
 
 ## His fascination with Nerai
 She's the most interesting thing on the coast and he knows it before the school does: the girl the whispers are about, born the year the deep shivered. When he sees her power leak (Ch. 12), he doesn't expose her. **He offers her belonging.** A place among the old blood, admiration, the never-being-sent-away-again — every hungry thing she's wanted for 304 days, held out on an open palm. That's his real weapon in a light book: not cruelty, *invitation.* The scariest scene in Act II should be the one where saying yes to him sounds reasonable.

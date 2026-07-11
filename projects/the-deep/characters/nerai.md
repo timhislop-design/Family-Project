@@ -1,5 +1,8 @@
 # Nerai — Backstory (draft to build on)
 
+## Temperament (Tim, Jul 10, 2026 — the pattern that defines her)
+**Strong but anxious.** Self-doubt runs constant commentary in her head — she second-guesses, spirals, is sure she's about to be found out. But when the moment actually comes, she **rises, with confidence** — and it surprises her every time. The order matters on the page: dread first, doubt first, then the step forward anyway. She's not fearless; she's scared and moves anyway, and only afterward realizes she sounded sure. Never write her as cool under pressure — write her as certain only in the exact seconds that count.
+
 *Our protagonist. The small one against the big thing — like David: not the strongest, not the chosen, just the one who can't look away from the giant everyone else is afraid of. Here the giant isn't a person. It's the gap between two worlds, and Nerai is the only one homesick for both sides of it.*
 
 ## Who she is
@@ -7,7 +10,8 @@ Nerai was born in the deep, in the dark cities her people have kept since before
 
 She is also a student — sent ashore to the school, but a student her whole life before that too, raised in the deep's long apprenticeship of watching and listening. School is the one place the surface and her own world overlap: a room full of exceptional kids, all of them shaped by parents they didn't choose, all of them trying to figure out which of their parents' beliefs are actually their own.
 
-## What she looks like *(Abby's, adopted Jul 10, 2026)*
+## What she looks like *(Abby's + Tim's, adopted Jul 10, 2026)*
+**Dark hair** — near-black, long, with something not-quite-brown in it underwater light would explain. **Petite but strong** — small-framed, compact, and stronger than she has any right to look; a body built by pressure and current, not by gym class. People underestimate her carry-weight constantly. It's useful.
 Ashore, Nerai passes — but only just. There's something in her face that reads as *almost*: eyes set a little wide, features a little sharp, the general look old mythologies gave their mermaids without knowing why. Nobody at school would say "fish." They'd say *striking*, or *where is she from?*, and look a half-second too long. It's a body-level secret to go with the power that leaks — one more thing she has to hold in, one more reason mirrors are complicated. (Rule: never obvious, never explained; it shows up in how other people look at her, not in description dumps.)
 
 ## The rumor she was born under *(Abby's, adopted Jul 10, 2026)*

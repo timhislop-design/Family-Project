@@ -33,6 +33,9 @@ Whenever the storyteller seems to know more than the hero and pauses to explain,
 ## 8. Find her biggest fear — then make it come true *(Abby's rule)*
 Figure out the one thing your character is most afraid of. Not spiders — the *real* fear, the one under everything (for Nerai: that she was sent away, not sent out). Then build the story so it happens. A hero only shows you who she is when the thing she couldn't survive arrives and she has to survive it anyway. If the plot never touches the fear, the plot is decoration.
 
+## 9. Polish is a kind of lying *(Dad's rule)*
+A perfectly balanced sentence sounds like an author. A run-on that keeps going because the character can't stop thinking sounds like a *person.* Let her sentences do what a fifteen-year-old's head does: spiral, interrupt themselves, compare things to dumb specific stuff, trail off. If a line is beautiful but nobody that age would think it, it's the author showing off — cut it or rough it up. The characters build the story; the narrator just tells you where you're standing.
+
 ---
 
 *How to use this: pick one lesson, find it (or break it) in something we wrote, and talk about why. The goal isn't to memorize rules — it's to start* feeling *when a sentence is true and when it's faking.*

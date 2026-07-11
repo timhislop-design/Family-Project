@@ -39,13 +39,13 @@ She goes back to the tide line anyway. The failing shows itself on the surface; 
 
 ### Act I — The Sea Steps Back
 
-**Ch. 1 — Dry Land** — *Status: Draft 5.*
+**Ch. 1 — Dry Land** — *Status: Draft 6 (voice pass).*
 The sea pulls back in the night. Nerai feels it first, watches her people rise — her father among them. Ends on the held sleeve. *Job: fall in love with Nerai; her insecurity, her voice, her longing, her refusal to stay still. (The dark lights are seeded here.)*
 
-**Ch. 2 — The Secret Out** — *Status: Draft 1.*
+**Ch. 2 — The Secret Out** — *Status: Draft 2 (voice pass).*
 Morning. The whole coast saw it; every screen is a vindicated believer ("the fisherman was right"). School lockdown. Nerai sits among frightened, powered kids pretending she isn't connected to the thing in the water. *Job: tighten the screws; the first lie to people she likes. Threads: does Iggy keep her secret? What does Reyes know?*
 
-**Ch. 3 — Her Father's Face** — *Status: Draft 1.*
+**Ch. 3 — Her Father's Face** — *Status: Draft 2 (voice pass).*
 The Pelagic landing. Not the reunion she dreamed for 304 days — he came up for the cause, not for her. *Job: the ache of being wanted as a symbol, not a daughter; what the Pelagics actually intend.*
 
 **Ch. 4 — The Deep Answers** — *Status: to draft.*

@@ -16,11 +16,11 @@ window.DEEP = {
         num: "I", title: "The Sea Steps Back", span: "Chapters 1–7",
         arc: "The rising, and the days after. The world's rumors come true on live television, the school on the tide line becomes the meeting ground — and Nerai goes from hidden to known. By her own choice.",
         chapters: [
-          { num: 1, title: "Dry Land", status: "Draft 5", written: true,
+          { num: 1, title: "Dry Land", status: "Draft 6", written: true,
             premise: "The sea pulls back in the night. Nerai feels it first and watches her people rise — her father among them. Ends on the held sleeve." },
-          { num: 2, title: "The Secret Out", status: "Draft 1", written: true,
+          { num: 2, title: "The Secret Out", status: "Draft 2", written: true,
             premise: "Morning after: lockdown, vindicated believers on every screen, the counting stops — and the first easy lie to someone she likes. Reyes knows something." },
-          { num: 3, title: "Her Father's Face", status: "Draft 1", written: true,
+          { num: 3, title: "Her Father's Face", status: "Draft 2", written: true,
             premise: "The Pelagic landing. Not a reunion — an exhibit. “Both answers are yes.” And one question about dark lights closes his face like a door." },
           { num: 4, title: "The Deep Answers",
             premise: "The Abyssals answer: her mother rises with the deep's warning. The factions collide on the bared sand with Nerai on the line — and her hidden power leaks for the first time." },
@@ -87,7 +87,7 @@ window.DEEP = {
     },
     {
       id: "iggy", name: "Iggy", art: "iggy", group: "Important friends",
-      role: "Human firelighter. Knocks twice and opens the door anyway. Keeps secrets loudly.",
+      role: "Human. Carries a small fire around like a pet. Knocks twice and opens the door anyway. Keeps secrets loudly.",
       file: "projects/the-deep/characters/iggy.md"
     },
     {

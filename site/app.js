@@ -91,30 +91,55 @@
     const G = `url(#g-${kind}-${s})`;
     const art = {
       nerai: `${defs}<rect width="120" height="120" fill="${G}"/>
-        <path d="M0 84 Q20 74 40 84 T80 84 T120 84 V120 H0 Z" fill="#0b2e46"/>
-        <path d="M0 92 Q20 82 40 92 T80 92 T120 92 V120 H0 Z" fill="#123c58" opacity=".8"/>
-        <path d="M60 26 C48 26 42 38 42 50 C42 64 50 70 50 80 L70 80 C70 70 78 64 78 50 C78 38 72 26 60 26 Z" fill="#dcebf2" opacity=".92"/>
-        <path d="M42 50 C36 58 30 60 24 74 C34 70 40 64 44 58 Z" fill="#9fd4de" opacity=".7"/>
-        <path d="M78 50 C84 58 90 60 96 74 C86 70 80 64 76 58 Z" fill="#9fd4de" opacity=".7"/>
-        <circle cx="53" cy="48" r="2.6" fill="#0a2438"/><circle cx="67" cy="48" r="2.6" fill="#0a2438"/>
-        <rect x="57" y="86" width="6" height="14" rx="2" fill="#e8c86a"/><circle cx="60" cy="84" r="5" fill="none" stroke="#e8c86a" stroke-width="2.5"/>
-        <circle cx="22" cy="30" r="2" fill="#41e8c5" opacity=".9"/><circle cx="100" cy="22" r="1.6" fill="#41e8c5" opacity=".7"/><circle cx="88" cy="38" r="1.2" fill="#41e8c5" opacity=".6"/>`,
+        <path d="M60 18 C40 18 30 32 30 50 C30 68 26 84 20 98 L46 98 C44 82 44 70 44 60 L76 60 C76 70 76 82 74 98 L100 98 C94 84 90 68 90 50 C90 32 80 18 60 18 Z" fill="#101823"/>
+        <path d="M28 120 C30 100 44 94 60 94 C76 94 90 100 92 120 Z" fill="#16324a"/>
+        <rect x="53" y="76" width="14" height="16" rx="6" fill="#dfe9ee"/>
+        <path d="M60 26 C46 26 40 38 40 52 C40 66 50 78 60 78 C70 78 80 66 80 52 C80 38 74 26 60 26 Z" fill="#e9f1f4"/>
+        <path d="M60 20 C44 20 36 34 38 50 C40 38 46 32 60 32 C74 32 80 38 82 50 C84 34 76 20 60 20 Z" fill="#0d1520"/>
+        <path d="M40 48 C38 58 38 66 42 74 C40 62 41 54 43 48 Z" fill="#0d1520"/>
+        <path d="M80 48 C82 58 82 66 78 74 C80 62 79 54 77 48 Z" fill="#0d1520"/>
+        <ellipse cx="50" cy="52" rx="3.4" ry="2.6" fill="#132433"/><circle cx="51" cy="51.4" r=".9" fill="#41e8c5"/>
+        <ellipse cx="70" cy="52" rx="3.4" ry="2.6" fill="#132433"/><circle cx="71" cy="51.4" r=".9" fill="#41e8c5"/>
+        <path d="M45 46 Q50 44 54 46" stroke="#0d1520" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+        <path d="M66 46 Q70 44 75 46" stroke="#0d1520" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+        <path d="M60 56 L59 62 L61 62" stroke="#b9cdd6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M55 69 Q60 71.5 65 69" stroke="#a2586a" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M44 58 L48 61 M76 58 L72 61" stroke="#c8dbe2" stroke-width="1.2" stroke-linecap="round"/>
+        <path d="M60 94 L60 103" stroke="#8a7b4d" stroke-width="1.2"/>
+        <circle cx="60" cy="106" r="3" fill="none" stroke="#e8c86a" stroke-width="1.8"/><rect x="58.9" y="108.5" width="2.2" height="6" rx="1" fill="#e8c86a"/>
+        <circle cx="34" cy="72" r="1.4" fill="#41e8c5" opacity=".9"/><circle cx="87" cy="64" r="1.2" fill="#41e8c5" opacity=".7"/><circle cx="26" cy="88" r="1" fill="#41e8c5" opacity=".6"/>`,
       iggy: `${defs}<rect width="120" height="120" fill="${G}"/>
-        <path d="M38 96 C38 78 46 74 60 74 C74 74 82 78 82 96 Z" fill="#1d4a66"/>
-        <circle cx="60" cy="52" r="20" fill="#e8d8c6"/>
-        <path d="M44 44 C46 34 74 34 76 44 C76 36 70 28 60 28 C50 28 44 36 44 44 Z" fill="#7a4a28"/>
-        <circle cx="53" cy="52" r="2.4" fill="#20323c"/><circle cx="67" cy="52" r="2.4" fill="#20323c"/>
-        <path d="M54 61 Q60 66 66 61" stroke="#20323c" stroke-width="2" fill="none" stroke-linecap="round"/>
-        <circle cx="90" cy="84" r="9" fill="none" stroke="#e8d8c6" stroke-width="3" opacity=".7"/>
-        <path d="M90 70 C86 76 85 80 90 84 C95 80 94 76 90 70 Z" fill="#ffb347"/>
-        <path d="M90 74 C88 77 88 80 90 82 C92 80 92 77 90 74 Z" fill="#ffe9a8"/>`,
+        <path d="M36 120 C37 102 47 97 60 97 C73 97 83 102 84 120 Z" fill="#274b63"/>
+        <path d="M52 98 L60 107 L68 98" fill="none" stroke="#16324a" stroke-width="2"/>
+        <rect x="54" y="76" width="12" height="22" rx="5" fill="#e2c8ac"/>
+        <circle cx="38" cy="54" r="5" fill="#e8d0b4"/><circle cx="82" cy="54" r="5" fill="#e8d0b4"/>
+        <path d="M60 24 C47 24 41 36 41 52 C41 68 50 80 60 80 C70 80 79 68 79 52 C79 36 73 24 60 24 Z" fill="#ecd7bb"/>
+        <path d="M42 44 C40 30 48 20 60 20 C72 20 80 30 78 44 C76 34 72 30 70 34 C68 28 62 26 60 30 C56 24 50 28 50 34 C46 30 43 36 42 44 Z" fill="#6f4526"/>
+        <path d="M48 22 L45 15 M58 20 L58 12 M70 22 L74 15" stroke="#6f4526" stroke-width="3" stroke-linecap="round"/>
+        <circle cx="52" cy="52" r="3" fill="#2c2016"/><circle cx="52.9" cy="51" r=".9" fill="#fff"/>
+        <circle cx="68" cy="52" r="3" fill="#2c2016"/><circle cx="68.9" cy="51" r=".9" fill="#fff"/>
+        <path d="M47 45 Q52 42.5 56 45" stroke="#6f4526" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <path d="M64 45 Q68 42.5 73 45" stroke="#6f4526" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+        <circle cx="48" cy="60" r=".8" fill="#c9a075"/><circle cx="52" cy="62" r=".8" fill="#c9a075"/><circle cx="68" cy="61" r=".8" fill="#c9a075"/><circle cx="72" cy="59" r=".8" fill="#c9a075"/>
+        <path d="M53 69 Q59 73 67 68" stroke="#8a5a3a" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M93 78 C89 84 88 88 93 92 C98 88 97 84 93 78 Z" fill="#ffb347"/>
+        <path d="M93 82 C91 85 91 88 93 90 C95 88 95 85 93 82 Z" fill="#ffe9a8"/>`,
       phorcys: `${defs}<rect width="120" height="120" fill="${G}"/>
-        <path d="M60 24 C46 24 40 36 40 48 C40 62 48 68 48 78 L72 78 C72 68 80 62 80 48 C80 36 74 24 60 24 Z" fill="#c9d8e2" opacity=".95"/>
-        <path d="M48 30 L52 22 L56 30 L60 20 L64 30 L68 22 L72 30" stroke="#e8c86a" stroke-width="2.5" fill="none" stroke-linejoin="round"/>
-        <circle cx="52" cy="47" r="2.4" fill="#0a2438"/><circle cx="68" cy="47" r="2.4" fill="#0a2438"/>
-        <path d="M52 60 Q60 63 68 60" stroke="#0a2438" stroke-width="2" fill="none" stroke-linecap="round"/>
-        <path d="M30 96 C42 88 50 92 60 86 C70 92 78 88 90 96" stroke="#41e8c5" stroke-width="2" fill="none" opacity=".5"/>
-        <path d="M84 70 C96 74 100 84 96 96 C90 88 88 80 84 70 Z" fill="#123c58"/>`,
+        <path d="M20 120 C24 98 42 92 60 92 C78 92 96 98 100 120 Z" fill="#0f2c3f"/>
+        <path d="M20 120 C24 98 42 92 60 92 L60 120 Z" fill="#123448"/>
+        <path d="M48 94 L60 104 L72 94" fill="none" stroke="#41e8c5" stroke-width="1.6" opacity=".8"/>
+        <rect x="52" y="74" width="16" height="18" rx="6" fill="#bfd3de"/>
+        <path d="M60 22 C46 22 39 33 39 48 C39 62 46 74 53 78 L67 78 C74 74 81 62 81 48 C81 33 74 22 60 22 Z" fill="#cfe0e9"/>
+        <path d="M53 78 L60 81 L67 78 Z" fill="#cfe0e9"/>
+        <path d="M39 44 C38 28 47 18 60 18 C73 18 82 28 81 44 C78 32 70 27 60 27 C50 27 42 32 39 44 Z" fill="#1b2a38"/>
+        <path d="M43 32 L48 26 L53 32 L58 25 L63 32 L68 26 L73 32" stroke="#e8c86a" stroke-width="2.2" fill="none" stroke-linejoin="round"/>
+        <path d="M46 49 Q50 46.5 55 49 Q50 51.5 46 49 Z" fill="#13293a"/><circle cx="51" cy="48.8" r=".8" fill="#7fd4ff"/>
+        <path d="M65 49 Q70 46.5 74 49 Q70 51.5 65 49 Z" fill="#13293a"/><circle cx="69" cy="48.8" r=".8" fill="#7fd4ff"/>
+        <path d="M44 44 L56 43" stroke="#1b2a38" stroke-width="2.2" stroke-linecap="round"/>
+        <path d="M64 43 L76 44" stroke="#1b2a38" stroke-width="2.2" stroke-linecap="round"/>
+        <path d="M60 50 L60 60 M57 61 L63 61" stroke="#9fb9c6" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+        <path d="M53 68 Q60 70 68 66.5" stroke="#4d6b7c" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M44 58 C46 68 50 74 53 77 M76 58 C74 68 70 74 67 77" stroke="#b3c9d5" stroke-width="1.2" fill="none"/>`,
       wave: `${defs}<rect width="120" height="120" fill="${G}"/>
         <path d="M10 70 Q30 50 50 70 T90 70 T130 70" stroke="#7fd4ff" stroke-width="4" fill="none" stroke-linecap="round"/>
         <path d="M10 86 Q30 66 50 86 T90 86 T130 86" stroke="#41e8c5" stroke-width="3" fill="none" opacity=".7" stroke-linecap="round"/>
@@ -419,7 +444,7 @@
         <div class="wrap">
           <span class="depth-tag reveal">0 m — the surface</span>
           <h2 class="reveal">There's a school on the coast<br>for kids the world <em>isn't supposed to know about.</em></h2>
-          <p class="lead reveal d1">The fire-handed. The water-callers. The wind-listeners. The ones who can fold the dark around them like a coat. They've spent their whole lives being the world's best-kept secret.</p>
+          <p class="lead reveal d1">Every kid there has one strange thing, and no two are alike — a boy with a pet flame, a girl who warms a cup between her palms, a kid who has never once been lost. They've spent their whole lives being the world's best-kept secret.</p>
           <p class="lead reveal d2"><strong>They're not even close.</strong></p>
         </div>
       </section>

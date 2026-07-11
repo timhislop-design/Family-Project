@@ -7,73 +7,75 @@
 
 ## Chapter One — Dry Land
 
-Three hundred and four days on land, and Nerai still hadn't figured out how to look like she belonged.
+Three hundred and four days. She knew because she counted, every single morning, which probably wasn't healthy, but it wasn't like anyone was checking.
 
-She'd wake up reaching for water that wasn't there — hands opening in the dark the way they used to in the deep — and then just lie still, listening to the other girls breathe down the hall, slow and easy, like sleeping was a thing you were supposed to already know how to do. She didn't. She didn't know how to do half of it: when to laugh, how long you were allowed to look at someone before it got weird, what to do with her face when a teacher said her name out loud. Her face was its own problem — nothing anyone could name, just something in the set of her eyes, the sharpness under her cheeks, that made people look a half-second too long and then ask, kindly, where she was from. She'd learned to smile and name a town she'd never seen. Everyone here was strange — fire cupped in their hands, water that leaned toward them when they passed, shadows that came when they called — but somehow they all seemed so *sure*, so finished, while Nerai felt like something half-made, still pretending to be a person. She'd lie there and wonder if any of them ever lay awake like this, certain that any minute now the whole school was going to figure out what she already knew: that she didn't really fit anywhere at all.
+She still woke up reaching for water. Hands opening in the dark like they were looking for something, and then she'd remember where she was, and then she'd just lie there listening to the other girls breathe down the hall — slow, easy, like sleeping was nothing, like their bodies just knew what to do. Hers didn't. Hers didn't know how to do half the things bodies up here were supposed to do. When to laugh. How long you were allowed to look at someone before it got weird. What to do with her face when a teacher said her name out loud.
 
-Three hundred and four. She kept the number the way you keep a bruise — pressing on it now and then, just to find out if it still hurt. It always did. Three hundred and four mornings since her own people had sent her up out of the dark, with a goodbye that hadn't felt like love and a reason that hadn't sounded like the real one, and not a single word since about whether she was ever meant to come back. She didn't know if she'd been sent away to be kept safe, or only sent away. Most mornings, the not-knowing was the worst part of it.
+Her face was its own problem, actually. Nothing anyone could point at. Just something about the set of her eyes, the sharp under her cheeks, that made people look a half second too long and then ask, all friendly, where she was from. She had a fake town ready. She'd never even seen it.
 
-Tonight she was awake for a different reason, though it took her a while to understand that.
+And it wasn't like she could blame the school, because everyone here was strange — that was the whole point of the place. Everybody had a thing. One thing each, no two alike. Iggy carried a little fire around like it was a pet. A girl two doors down could warm a cup of anything between her palms, which sounded useless until you were sad and she handed you cocoa. There was a kid in year four who had never once been lost, anywhere, ever, and didn't get why that was impressive. So being strange wasn't the problem. The problem was that they were all strange and *sure* about it — finished, done, comfortable — and Nerai was strange and faking it, and some nights she was positive, like actually certain, that any minute now the whole building was going to figure out what she'd known the entire time. That she didn't fit anywhere. Not here. Not home. Nowhere.
 
-There was a key on her windowsill. Small, brass, gone green at the edges with old salt. She'd worked it out of a wreck when she was little, back when she was still allowed to follow the ships, and she'd kept it ever since even though she had no door and never would. Some nights she just held it — a thing a human hand had once turned without thinking, a piece of the world she wasn't supposed to want. She reached for it now out of habit, and her fingers stopped halfway.
+Three hundred and four. She kept pressing on the number the way you press on a bruise, checking if it still hurt. It did. Always. Three hundred and four mornings since her own people sent her up out of the dark with a goodbye that didn't feel like one and a reason that didn't sound like the real one, and since then — nothing. Not one word about whether she was ever supposed to come back. Maybe they'd sent her away to keep her safe. Maybe they'd just sent her away. Most mornings the not-knowing was the worst part. Some mornings it was everything.
+
+Tonight she was awake for a different reason. It took her a while to figure that out.
+
+There was a key on her windowsill. Small, brass, gone green at the edges from old salt. She'd worked it out of a wreck when she was little, back when she was still allowed to follow the ships, and she'd kept it ever since even though she had no door for it and never would. Some nights she just held it. A thing some human hand had turned a thousand times without thinking. A piece of the world she wasn't supposed to want. She reached for it now, out of habit, and her fingers stopped halfway there.
 
 The water was wrong.
 
-She couldn't have said how she knew. She just did, the way you know a song has gone quiet a half-second before you'd swear you heard it stop. She got up. She went to the glass. Out past the black line of the rooftops, where the sea should have been, the dark had pulled back from the land — *back,* the way a breath pulls in before something is said — and bared a long stretch of seabed that was never, ever meant to be looked at in open air.
+She couldn't have explained how she knew. She just knew, the way you know a song stopped a half second before you'd swear you actually heard it stop. She got up. She went to the glass. Out past the black line of the rooftops, where the sea was supposed to be, the dark had pulled back from the land — *back*, way back, like a breath pulled in before somebody says something — and left a long stretch of seabed lying there naked. Seabed that was never, ever supposed to be looked at in open air.
 
 She knew what a tide was. This was not a tide.
 
-The knock came before she'd finished the thought. Two soft beats, and the door opening anyway, because the boy on the other side of it had never once managed to wait.
+The knock came before she finished the thought. Two soft knocks and then the door opening anyway, because the boy on the other side had never once in his life managed to wait.
 
-"You're up." Iggy stood in the amber spill from the corridor, a little flame drifting above his open palm, no bigger than a marble. He carried it around at night the way other kids carried a phone, just for the light of it. He looked at her a beat too long, the way he did, and then pretended he hadn't. "You're always up."
+"You're up." Iggy stood in the orange spill from the hallway with his little flame floating over his palm, no bigger than a marble. He carried it around at night the way other kids carried a phone. Just for the light. He looked at her a beat too long, the way he did, and then pretended he hadn't. "You're always up."
 
 "Iggy. Something's wrong with the water."
 
-"Yeah — that's what I came to —" The grin she could hear building in his voice arrived right on schedule. "Reyes is *losing* it. Tide's going out and not coming back, way out, like the ocean took a step back to look at something. There's fish flopping on dry sand half a mile out. You have to come —"
+"Yeah — that's what I came to —" and she could hear the grin building before it landed. "Reyes is *losing* it. The tide's going out and it's not coming back, like, way out, like the ocean took a step back to look at something. There's fish flopping around on dry sand half a mile out. You have to come see —"
 
-The flame above his hand guttered, and went small, and he didn't seem to notice. Nerai noticed everything. The cold had come into the room without any door being opened. The hair on her arms had lifted. And under her bare feet, faint, rising up out of the floor itself, out of the ground under the school, under the town, under everything — a sound.
+The flame over his hand guttered. Went small. He didn't notice. Nerai noticed everything — the cold sliding into the room with no door open anywhere, the hair going up on her arms, and under her bare feet, coming up through the floor, through the ground, through the whole town, a sound.
 
-Low. Patient. One long note held so long it had stopped being a note and become the shape of the dark.
+Low. Patient. One note held so long it stopped being a note and turned into the shape of the dark.
 
-She knew that sound. She had been sung to sleep by that sound, in a language that didn't work up here, by people whose faces — the last time she saw them — had been careful, and closed, and just a little afraid of her, even as they told her to stay small.
+She knew that sound. She'd been sung to sleep by that sound, in a language that didn't work up here, by people whose faces — the last time she saw them — had been careful, and closed, and a little bit afraid of her, even while they were telling her to stay small.
 
-It was a horn. And far out across the bared water, something was answering it.
+It was a horn. And way out across the bared water, something was answering it.
 
-"Nerai." Iggy's voice had lost the grin entirely. "You're scaring me a little. What is it?"
+"Nerai." The grin was gone out of his voice completely. "You're scaring me a little. What is it?"
 
-She should have lied. She'd gotten good at lying — *stay small, learn them, never let them learn there is one more.* Three hundred and four days of it. The lie was right there, easy, the way it was always right there.
+She should have lied. She was good at lying by now — *stay small, learn them, never let them find out there's one more* — three hundred and four days of it, and the lie was right there, easy, like it was always right there. And here was the stupid truth about her, the thing that had gotten her in trouble her whole life on both sides of the water: her heart was going like a fish in a bucket and some voice in her head was saying *don't, don't, you'll ruin everything* — and her feet were already moving. That was just how she worked. Everyone else went still and waited to find out what a thing meant. Nerai went *toward* it, terrified the whole way.
 
-She didn't reach for it. That was the thing about her, the thing that had gotten her in trouble her whole life, down in the deep and up here both: when everyone else went still and waited to be told what a thing meant, Nerai was already moving toward it.
+She went out the door barefoot, past Iggy, who said her name twice and then followed her anyway, because he was the kind of boy who did the loyal, stupid thing. The hallway lights stuttered as she passed under them. That happened around her sometimes, when she stopped being careful. She'd stopped being careful about four seconds ago.
 
-She went out the door barefoot, past Iggy, who said her name twice and then followed, because he was the kind of boy who did the loyal and foolish thing. The corridor lights stuttered as she passed beneath them. That happened, near her, when she stopped being careful. She'd stopped being careful about four seconds ago.
+"There's a *protocol* —" He caught up to her at the stairs, the flame snuffed now, just a boy in pajama pants chasing a girl toward something neither of them had a word for.
 
-"There's a *protocol* —" Iggy caught her at the stairs, the flame snuffed now, just a boy in pajama pants chasing a girl toward something neither of them could name.
+"Not for this." She hit the door to the yard and the night came in huge and wet, full of salt and silt and the smell of cold, far-down places — the smell of home, here, where it had absolutely no business being. The horn was louder outside. So was the thing answering it.
 
-"Not for this." She hit the door to the yard, and the night came in wet and huge, full of salt and silt and the smell of cold, far-down places — the smell of home, here, where it had no business being. The horn was louder outside. So was the thing answering it.
+Out where the seabed lay bare, where there should have been nothing but wet sand and dying fish, the dark was standing up.
 
-Out where the seabed lay bare, where there should have been only wet sand and dying fish, the dark was standing up.
+Not waves. *Shapes.* Tall, unhurried, coming up out of the trench in a long slow line — more of them than she'd ever been allowed to see in one place in her life — and their lights came on as they came, one by one, the way a city wakes up, way down under a sea that wasn't there to cover them anymore.
 
-Not waves. *Shapes.* Tall, and unhurried, rising out of the trench in a long slow line — more of them than she had ever in her life been allowed to see in one place — and their lights came on as they came, one by one, the way a city wakes, far under a sea that wasn't there to cover them anymore.
-
-Some of the lights didn't come on. She noticed that the way she noticed everything, and put it away to be afraid of later.
+Some of the lights didn't come on. She noticed that the way she noticed everything, and put it away on the shelf where she kept things to be afraid of later.
 
 Her people. Rising. After everything. After *never.*
 
-And somewhere in that line — she knew it the way you know a voice through a wall, without being told, without wanting to — her father, coming ashore at last. The same father who had helped send her up here. She didn't know yet whether his coming meant she was forgiven, or only that she had stopped being the most frightening thing in the water.
+And somewhere in that line — she knew it the way you know a voice through a wall, without being told, without even wanting to — her father, coming ashore at last. The same father who helped send her up here. She didn't know yet if him coming meant she was forgiven, or just that she'd stopped being the scariest thing in the water.
 
-Her eyes stung. She let them. For three hundred and four days she had kept herself small, and quiet, and careful, and not once, not for a single hour, had she stopped missing them — even the ones who had been afraid of her.
+Her eyes stung. She let them. Three hundred and four days of keeping herself small and quiet and careful, and not once, not for one single hour, had she stopped missing them. Even the ones who'd been afraid of her.
 
-"Nerai." Iggy had gone very still beside her. "*What are they?*"
+"Nerai." Iggy had gone very still next to her. "*What are they?*"
 
 She didn't look away from the water.
 
 "They're mine," she said.
 
-And then, because Iggy was the only person on dry land who had ever left his door open just to hear if she was alright, she reached over without looking and took hold of his sleeve — so that whatever was coming up out of the dark for all of them, she wouldn't be standing on the edge of it alone.
+And then, because Iggy was the only person on dry land who had ever left his door open just to hear if she was okay, she reached over without looking and grabbed his sleeve — so that whatever was coming up out of the dark for all of them, she wouldn't be standing on the edge of it alone.
 
 ---
 
-*Draft 5 (Jul 10, 2026) — added her face (the half-second-too-long looks, the practiced town) and the dark lights in the rising (first seed of the failing deep, filed away "to be afraid of later"). Both in her free-indirect voice per lesson 6. Reading WITH her; feeling carried in gesture and number. Clay.*
+*Chapter 1, Draft 6 (Jul 10, 2026) — the voice pass: run-ons when she spirals, self-interruptions, blunt teen comparisons ("like a fish in a bucket"), the scared-and-moving-anyway pattern made explicit. De-Avatared: one gift per kid, no categories. All beats kept. Prior drafts in git history. Clay.*
 
 ---
 
@@ -81,61 +83,61 @@ And then, because Iggy was the only person on dry land who had ever left his doo
 
 By morning the sea still hadn't come back, and the whole world knew it.
 
-Nerai knew because she'd watched it not come back — sat on the floor with her spine against the bed frame and the brass key folded in her fist, watching the long dark gap where the water used to be until the sky went thin and grey at the edges. At some point she reached for the number, the way she did every morning, automatic as breathing. *Three hundred and five,* it would have been. She turned it over once and set it down. The count had always been days *since* — since the goodbye, since the dark, since the not-knowing. As of last night, *since* didn't fit anymore. She didn't know yet what you were supposed to count instead. She fell asleep at the window without deciding, for about forty minutes, and dreamed of nothing at all.
+Nerai knew because she'd watched it not come back — sat on the floor with her back against the bed frame and the brass key squeezed in her fist, watching the long dark gap where the water used to be, until the sky went thin and grey at the edges. At some point she reached for the number, like every morning, automatic as breathing. *Three hundred and five,* it would've been. She held it for a second and then — she didn't take it. The count had always been days *since*. Since the goodbye, since the dark, since the not-knowing. And as of last night, *since* didn't fit anymore, and she didn't know yet what you were supposed to count instead, and she fell asleep on that thought, sitting up, at the window, for about forty minutes.
 
-The school called it *a precautionary schedule,* which meant the doors were locked and nobody's parents could be reached and breakfast was cereal because half the kitchen staff hadn't come in. Nobody said the word *lockdown.* Everybody's phones said it for them.
+The school called it *a precautionary schedule*, which meant the doors were locked and nobody could reach their parents and breakfast was cereal because half the kitchen staff hadn't shown up. Nobody said the word *lockdown*. Everybody's phones said it for them.
 
-In the common room the television had been on since dawn and nobody had sat down once. The footage ran on a loop: the coast from a helicopter, the tide gone miles out like a drawer pulled open, fish silvering the mud, a wreck lying on its side in open air with its ribs full of morning. Then the night clips, the ones everyone had already watched thirty times — shaky phone videos of lights coming up out of the trench line, far out, in rows too straight to be anything the ocean did by itself. Experts came on and said *seismic event* and *gas venting* and *optical phenomenon,* one after another, in the exact tone of men telling a child there was nothing under the bed.
+In the common room the TV had been on since dawn and nobody had sat down once. The same footage, over and over: the coast from a helicopter, the tide pulled out for miles like a drawer somebody left open, fish silvering the mud, a wreck lying on its side in the daylight with morning coming through its ribs. Then the night clips everyone had already watched thirty times — shaky phone video of lights coming up out of the trench line, way out, in rows too straight to be anything the ocean did on its own. And then the experts. One after another, saying *seismic event* and *gas venting* and *optical phenomenon*, in that exact voice adults use to tell a kid there's nothing under the bed.
 
 And then the fisherman.
 
-Some station had dug him up by midnight — an old man from up the coast who'd been laughed off the air eleven years ago for saying he'd seen lights under his hull and a shape the size of a church swim beneath his boat without touching it. They'd made a comedy segment out of him once. Nerai had seen it. Everyone had seen it; that was the point of it. Now he sat in the same flannel shirt in front of the same harbor and the interviewer kept trying to steer him and he wasn't steerable, he just kept looking into the camera with his eyes full, saying, *I know what I saw. I always knew what I saw.* Behind Nerai a boy whispered *he's loving this,* and got shushed, because anyone with eyes could see the man wasn't loving it. He'd just stopped being alone in it, eleven years too late for it to give him anything back.
+Some station had dug him up by midnight. This old guy from up the coast who got laughed off TV eleven years ago for saying he'd seen lights under his boat, and a shape the size of a church that swam beneath his hull without touching it. They'd made a comedy bit out of him back then. Nerai had seen it. Everyone had seen it — that was sort of the whole point of it. And now here he was in the same flannel shirt, sitting in front of the same harbor, and the interviewer kept trying to steer him somewhere and he wouldn't steer, he just kept looking right into the camera with his eyes all full and saying, *I know what I saw. I always knew what I saw.* Some boy behind her whispered *he's loving this* and got shushed, because anybody with eyes could see the man wasn't loving anything. He'd just stopped being alone in it. Eleven years too late for that to give him anything back.
 
-She watched the strange kids watch him, and understood something she didn't have words for yet. Every person in this room was a secret. They'd grown up being the thing under the world's bed — the fire-handed, the callers, the ones the schools taught to pass. And now they stood in their pajamas learning what it felt like to be on the *other* side of a secret: to look at the water and know the world had been bigger than their version of it all along, and nobody had asked their permission. The fire kids couldn't keep their hands still. The water-callers had it worst — they kept flinching toward the windows like someone out there was saying their names.
+She watched the strange kids watch him, and something clicked that she didn't have words for yet. Every person in this room was a secret. All of them. They'd spent their whole lives being the thing under the world's bed, and now they were standing around in their pajamas finding out what it felt like to be on the *other* side of one — to look at the water and know the world had been bigger than their version of it the whole entire time, and nobody had asked them first. Iggy's flame wouldn't sit still all morning. The girl who was never lost got lost on the way to breakfast, actually lost, and that scared people worse than anything on the TV did.
 
-She should have felt at home, she thought. Everyone finally as scared and strange as she was. Instead she stood in the middle of them feeling like the only lie left in the building.
+She should've felt at home, probably. Everybody finally as scared and strange as she was. Instead she stood there in the middle of them feeling like the only lie left in the building.
 
-"You're coastal, right?" It was the girl from two doors down — the one who'd lent Nerai a coat in October without being asked and never once mentioned it again, which Nerai had been quietly grateful for all winter. Her eyes were red-rimmed. Her power was small and kind: she could warm a cup of anything between her palms. "Your family's boats, or — something like that? Did you ever…" She glanced at the television. "See anything?"
+"You're coastal, right?" It was the girl from two doors down — the one who'd lent Nerai a coat back in October without being asked, and then never mentioned it again, not once, which Nerai had been quietly grateful for all winter. Her eyes were red around the edges. "Your family's, like — boats? Something like that? Did you ever…" She glanced at the TV. "See anything?"
 
 "No," Nerai said.
 
-It came out easy. That was the part that scared her — not the lie, the *ease* of it, worn smooth as the key in her pocket from three hundred days of handling. The girl nodded, disappointed and a little relieved, and warmed Nerai's cocoa without being asked, and Nerai stood there holding it while it went cold anyway, hating exactly one person in the room.
+It came out easy. That was the scary part. Not the lie — the *ease*, smooth as the key in her pocket after three hundred days of her thumb going over it. The girl nodded, disappointed and kind of relieved at the same time, and warmed Nerai's cocoa between her palms without being asked, and Nerai stood there holding it while it went cold anyway, hating exactly one person in that room, and it wasn't the girl.
 
-Iggy kept her secret the way he did everything: loudly. He'd appointed himself to it — she could tell by the set of his shoulders when he came down at seven, hair flattened on one side, looking like a boy carrying a piano. He didn't say a word about the night. What he did was worse. Every time the talk drifted toward the water he'd wade in and haul it somewhere else — the lockdown, the cereal, a theory about the gym being structurally unsound — with the subtlety of a fire alarm, until people started giving him looks. When he finally fetched up next to her at the window she said, quietly, "Stop protecting me. You're terrible at it."
+Iggy kept her secret the way he did everything: loudly. He'd clearly appointed himself to the job — she could tell by his shoulders when he came down at seven, hair flat on one side, looking like a boy carrying a piano. He didn't say one word about last night. What he did was worse. Every time the talk drifted anywhere near the water, he'd wade in and drag it somewhere else — the lockdown, the cereal, some theory he had about the gym being structurally unsound — with all the subtlety of a fire alarm, until people started giving him looks. When he finally washed up next to her at the window she said, quietly, "Stop protecting me. You're terrible at it."
 
 "I'm incredible at it."
 
 "You're going to pull something."
 
-"You okay?" he said, which wasn't an answer, and looked at her sideways, the beat too long. "You look like — I don't know. Like you're about to hatch."
+"You okay?" Which wasn't an answer. He did the sideways look, the beat too long. "You look like — I don't know. Like you're about to hatch."
 
 "Thank you."
 
 "You know what I mean."
 
-She did. That was the trouble with Iggy; he saw one true inch of her and had no idea it was the edge of a mile.
+She did. That was the trouble with Iggy. He saw one true inch of her and had no clue it was the edge of a mile.
 
-At noon they were all herded into the gym, where Coach Reyes stood under the basketball hoop with a clipboard he never once looked at. Reyes ran the fitness classes and the evacuation drills and, apparently, the end of the world: while the teachers behind him traded glances, he laid it out in the voice he used for warm-up laps. School wasn't evacuating. Home wasn't safer than here — nobody knew yet what *safer* meant, so everyone would do their assignments and eat their meals like civilization was continuing, because it was. And when it came — he said *when,* not *if* — the people out there would be met by *representatives of the parties involved,* and the school would cooperate fully, and that was all anyone needed to know today.
+At noon they all got herded into the gym, where Coach Reyes stood under the basketball hoop holding a clipboard he never looked at once. Reyes ran fitness and the evacuation drills and now, apparently, the end of the world. The teachers behind him kept trading glances. Reyes just laid it out in his warm-up-laps voice: School wasn't evacuating. Home wasn't safer than here, because nobody knew what *safer* meant yet, so everyone was going to do their assignments and eat their meals like civilization was continuing, because it was. And when it came — he said *when*, she noticed, not *if* — the people out there would be met by *representatives of the parties involved*, and the school would cooperate fully, and that was all anybody needed to know today.
 
-*Parties involved,* Nerai thought. It was the kind of phrase adults used when they knew more than the sentence did. She filed it with the other one — *the quiet schools,* which is what her father's people had always called places like this — and kept her face still.
+*Parties involved.* That was the kind of phrase adults used when they knew more than the sentence did. She filed it next to the other one — *the quiet schools*, which was what her father's people had always called places like this — and kept her face doing nothing.
 
-It was working, the stillness. It worked right up until the crowd funneled out the gym doors and Reyes, holding one door flat against the wall, said — not quite to her, in the exact voice he used for *hydrate* — "Long night, Nerai."
+The face thing was working, too. It worked right up until everyone funneled out the gym doors and Reyes, holding one door flat against the wall, said — not quite to her, in the exact voice he used for *hydrate* — "Long night, Nerai."
 
 She hadn't told anyone she'd been up.
 
-She was three hallways away before she let herself think about it, and then she thought about it for the rest of the day.
+She made it three hallways before she let herself think about that, and then she thought about it the whole rest of the day.
 
-The sea came back at dusk. Not all the way — it stopped a half-mile short of where it belonged, flat as poured metal, as if it had been told to wait there. And out along the new waterline, as the light went, something began to glow: a pale green seam, low and even, like the first line of a sentence being written.
+The sea came back at dusk. Not all the way — it stopped half a mile short of where it belonged and just lay there, flat as poured metal, like it had been told to wait. And out along the new waterline, as the light died, something started to glow. A pale green seam. Low and even. Like the first line of a sentence being written.
 
-The horn came at full dark. One note. Not the wild rolling thing from the night before — this one was formal, almost polite, the way you'd knock on a door you already had the key to. Around her the school held its breath at the windows, and phones lit up in a hundred hands, and somewhere down the coast a news anchor started talking too fast.
+The horn came at full dark. One note. Not the wild rolling thing from last night — this one was formal, almost polite, the way you knock on a door you already have the key to. Around her the whole school held its breath at the windows, and a hundred phones lit up, and somewhere down the coast a news anchor started talking way too fast.
 
-Tomorrow, they'd all learn what came up the beach to speak.
+Tomorrow they'd all find out what came up the beach to talk.
 
-Nerai already knew whose face it would wear. She stood at the glass with the cold key in her fist and her heart doing something between rising and drowning, and against every rule she'd been sent ashore with, she began deciding how to get past the wire.
+Nerai already knew whose face it would be wearing. She stood at the glass with the cold key in her fist and her heart doing something she couldn't name, rising and drowning at the same time, and against every single rule she'd been sent ashore with, she started working out how to get past the wire.
 
 ---
 
-*Chapter 2, Draft 1 (Jul 10, 2026) — jobs: the world's morning-after (rumor tier pays off in the fisherman), the counting stops (feeds Ch. 23), the first easy lie and what it costs, Iggy's loud loyalty, Reyes knows something ("Long night, Nerai"), hook to the landing. The coat girl is deliberately unnamed — she's a found-family candidate for Abby to cast and name. Clay.*
+*Chapter 2, Draft 2 (Jul 10, 2026) — voice pass + de-Avatar (the never-lost kid getting lost replaces the water-caller line). All beats kept: the counting stops, the fisherman, the easy lie, loud Iggy, "Long night, Nerai," hook to the landing. Coat girl still unnamed — Abby casts her. Clay.*
 
 ---
 
@@ -143,66 +145,66 @@ Nerai already knew whose face it would wear. She stood at the glass with the col
 
 By morning the bared sea floor had a border, and the border had a name nobody used out loud: the wire.
 
-It ran the whole curve of the bay — trucks and sawhorses and men in three different uniforms who didn't seem sure who was in charge, and past all of it, out on the flats where the water used to be, the thing the night had grown. The news was calling it *the structure.* It stood where the sea now stopped, low and long and curved like a shell leaning into the wind, and it wasn't built — anyone who looked for more than a second could see that. It had been *grown,* the way her whole world was grown: coral-pale, veined with that green seam of light, still visibly becoming itself at the edges. Humans kept a quarter mile back from it as if distance were a kind of manners. Perhaps it was.
+It ran the whole curve of the bay. Trucks, sawhorses, men in three different kinds of uniform who didn't seem sure who was in charge of who. And past all of it, out on the flats where the water used to be, the thing the night had grown. The news kept calling it *the structure*, which was the wrong word and everyone could feel it. It stood right where the sea now stopped — long, low, curved like a shell leaning into the wind — and it wasn't built. You could see that from a quarter mile away if you looked for more than a second. It had been *grown*, the way her whole world was grown. Coral-pale. Veined with that green light. Still slowly becoming itself around the edges. The humans kept way back from it, like distance was a kind of manners. Maybe it was.
 
-School was cancelled in the way that meant nobody could make anyone do anything. Half the students were pressed to the seawall fence with everyone else from town. Iggy came with her as far as the wire's nearest gate, arguing the entire way, and it was at the gate that she stopped him with a hand flat on his chest.
+School was cancelled in the way where nobody could make anybody do anything. Half the students were pressed against the seawall fence with the rest of the town. Iggy came with her as far as the nearest gate in the wire, arguing the entire way, and at the gate she stopped him with a hand flat on his chest.
 
-"If this goes wrong," she said, "someone has to be not-in-trouble."
+"If this goes wrong," she said, "somebody has to be not-in-trouble."
 
 "That has literally never been me."
 
 "Iggy."
 
-He looked at her hand, then at her, and did the thing that made him Iggy: swallowed everything he wanted to say and stepped back with his jaw set, holding the visitor's side of the line like it was a post he'd been assigned. "If you're not back by dark," he said, "I'm coming in loud."
+He looked down at her hand. Then at her. And then he did the thing that made him Iggy — swallowed everything he obviously wanted to say and stepped back with his jaw set, holding his side of the line like a post he'd been assigned to. "If you're not back by dark," he said, "I'm coming in loud."
 
-She didn't doubt it for a second.
+She believed him completely.
 
-Getting past the human wire turned out to be the easy part — a gap between truck bumpers, a guard turned the wrong way, three hundred days of practice at being unremarkable. The hard part was the last stretch, where the sand went dark with old water, and two figures stood up out of stillness so complete she'd taken them for pilings.
+Getting past the human part of the wire was honestly the easy part — a gap between two truck bumpers, a guard looking the wrong way, three hundred days of practice at being nobody. The hard part was the last stretch, where the sand went dark with old water and two figures stood up out of a stillness so complete she'd assumed they were pilings.
 
-Sentries. Hers. The first of her own people she'd stood before in three hundred and five days — tall, grey-sleek, their faces the faces from home, wide-set eyes taking her in without surprise. And that was the thing that undid her a little, out there on the wet flats: they weren't surprised. One of them looked at her — at the set of her eyes, the sharpness under her cheeks, the face she'd spent a year teaching to pass — and inclined his head, and stepped aside, as if she were expected. As if strangers on the seabed knew her on sight.
+Sentries. Hers. The first of her own people she'd stood in front of in three hundred and five days. Tall, grey-sleek, faces like the faces from home — wide-set eyes taking her in with no surprise in them at all. And that was the thing that undid her a little, out on the wet flats. They weren't surprised. One of them looked at her — at the set of her eyes, the sharp under her cheeks, the face she'd spent a year teaching to pass for something else — and tipped his head, and stepped aside. Like she was expected. Like strangers on the seabed knew her on sight.
 
-*They know me,* she thought, walking on because stopping would have meant thinking about it. *I've never met them, and they know me.* She put it away next to the lights that hadn't come on. The shelf where she filed things to be afraid of later was getting crowded.
+*They know me,* she thought, and kept walking, because stopping would've meant thinking about it. *I've never met them and they know me.* She put it on the shelf, next to the lights that hadn't come on. The shelf was getting crowded.
 
-Walking out across the seabed was like walking through her own bedroom hung upside down. This was *her* world — the ribbed sand, the stones dressed in weed gone limp and dying in the air, the taste of the deep places carried up on the wind — all of it laid out naked under a sky it was never supposed to meet. She passed a wreck she knew. Knew personally: the hull she'd wormed through as a small girl, the cabin, the drawer, the brass key that had lived in her pocket ever since. It lay tipped in the open sun with its ribs bleaching, and it looked smaller than her memory of it, and she understood that this was what the surfacing meant, at the bottom of everything. Nothing sunk stayed private now. Not wrecks. Not keys. Not girls.
+Walking out across the seabed was like walking through her own bedroom hung upside down. This was *her* world — the ribbed sand, the stones with their weed gone limp and dying in the air, the taste of the deep places riding in on the wind — all of it lying there naked under a sky it was never supposed to meet. She passed a wreck she knew. Knew *personally*. The hull she'd wormed through as a little girl. The cabin. The drawer. The brass key that had lived in her pocket ever since. It lay tipped over in the open sun with its ribs bleaching, and it looked smaller than she remembered, way smaller, and she understood something right then about what the surfacing actually meant, underneath everything else it meant. Nothing sunk got to stay private anymore. Not wrecks. Not keys. Not girls.
 
-The structure had a doorway, and the doorway had light in it, and then she was inside, in air that tasted of home — cool, mineral, half-song — among perhaps twenty of her people, and every one of them turned, and none of it mattered, because her eyes had already found the face at the center.
+The structure had a doorway, and the doorway had light in it, and then she was inside, in air that tasted like home — cool, mineral, half song — with maybe twenty of her people around her, and every one of them turned, and none of that mattered even slightly, because her eyes had already found the face in the center.
 
-Three hundred and five days she'd practiced missing her father's face. The real one still caught her off guard: older around the eyes than she kept it in her head, the grey of him almost blue in the grown light, and taller, somehow — as if her memory had been quietly shrinking him all year to make the missing survivable.
+Three hundred and five days she'd practiced missing her father's face. The real one caught her off guard anyway. Older around the eyes than she kept it in her head. The grey of him gone almost blue in the grown light. And taller — taller than her memory, which made no sense until it did: she'd been quietly shrinking him all year, just to make the missing survivable.
 
 "Nerai," he said.
 
-Her name. Just that. He said it the way you confirm an item on a list — present, accounted for — and she felt the word go through her looking for something to hold and coming out the other side with nothing. No arms. No hand against her cheek. The elders around him watched with the patience of her whole civilization, and she stood in the doorway of the first piece of home she'd touched in a year, feeling like a guest with the wrong shoes.
+Her name. That was it. He said it the way you confirm a thing on a list — *present, accounted for* — and she felt the word go all the way through her looking for something to hold onto and come out the other side with nothing. No arms. No hand against her cheek. The elders around him watched with the patience of her entire civilization, and she stood in the doorway of the first piece of home she'd touched in a year feeling like a guest who'd worn the wrong shoes.
 
-"You came up," she said. Stupidly. It was the only sentence that survived the trip to her mouth.
+"You came up," she said. Which was a stupid thing to say. It was the only sentence that survived the trip to her mouth.
 
-"It was time." A flicker then — she'd have missed it if she hadn't spent her whole childhood fishing his face for weather. Something crossed it and was managed, the way everything in him was managed. He turned to the room. "My daughter," he said, in the formal register, the one for records. "Three hundred days among them. Unharmed. Unfound. Schooled beside their gifted children, in their own halls." He let that sit, and she watched it land around the room, and understood with a slow cold clarity what she was in this shell of light: not a girl returned to her father.
+"It was time." Something crossed his face then — she'd have missed it if she hadn't spent her whole childhood fishing that face for weather — crossed it and got managed, the way everything in him got managed. He turned to the room. "My daughter," he said, in the formal register, the one for records. "Three hundred days among them. Unharmed. Unfound. Schooled beside their gifted children, in their own halls." He let it sit. She watched it land around the circle, and she understood, slowly and coldly and all at once, what she was standing in this shell of light: not a girl getting her father back.
 
-Evidence. She was the exhibit that proved the argument. *It can be done. Look what we already did.*
+Evidence. The exhibit that proved his argument. *It can be done. Look what we already did.*
 
-They gave her a place at the edge of the circle, and she stood in it and listened while they rehearsed tomorrow, and the shape of the Pelagic plan came clear a piece at a time, the way her father built everything. They would not go to the humans' capitals — too much fear, too many weapons, too much distance between hands. They would ask for something smaller. A school. *The* school — the one already keeping impossible children safely inside ordinary walls, the one that had spent lifetimes practicing exactly the discretion this would need. *We begin with the children,* an elder said, *because children learn each other before they learn to be afraid* — and Nerai, who had spent a year watching that be true and not true in a coastal dormitory, held her tongue for as long as she had ever held it in her life.
+They gave her a place at the edge of the circle and she stood in it and listened while they rehearsed tomorrow, and the shape of the plan came clear one piece at a time, because that was how her father built everything. They weren't going to the humans' capitals — too much fear there, too many weapons, too much distance between hands. They were going to ask for something small. A school. *The* school. The one already keeping impossible children safe inside ordinary walls, the one that had spent whole lifetimes practicing exactly the kind of quiet this was going to need. *We begin with the children,* one of the elders said, *because children learn each other before they learn to be afraid* — and Nerai, who had spent a year watching that be true and also completely not true in a coastal dormitory, held her tongue longer than she had ever held it in her life.
 
 Then she didn't.
 
-"And me?" she said. The circle stilled the way water stills. Her father's people did not interrupt; it was practically the name of their religion. "Was that the plan when you sent me up? All of this?" She heard her own voice do the thing it did, get clear instead of loud. "Did you come up for them, or for me?"
+"And me?" Her heart was slamming. The circle went still the way water goes still, and the voice in her head was screaming *not here, not in front of everyone* — and her mouth kept going anyway, and the strangest part was how clear it came out. Not loud. Clear. "Was that the plan when you sent me up? All of this? Did you come up for them, or for me?"
 
-For three long seconds, nobody in the shell breathed. Her father looked at her, and for one of those seconds he was almost only her father — she'd swear to it later, there was a flicker, the *almost* — and then the cause arrived in his face the way the tide comes back in, patient and total.
+For three long seconds nobody in that shell breathed. Her father looked at her, and for one of those seconds he was almost just her father — she'd swear to that later, there was a flicker, an *almost* — and then the cause came back into his face the way the tide comes back in. Patient. Total.
 
-"We came because it was time," he said. And then, quieter, in the register that wasn't for records, nearly enough to be forgiveness: "Both answers are yes, Nerai."
+"We came because it was time," he said. And then, quieter, in the register that wasn't for records, close enough to forgiveness that she'd be taking it apart for weeks: "Both answers are yes, Nerai."
 
-*Both answers are yes.* She would spend a long time deciding whether that was the truest thing he'd ever said to her, or just the best-made.
+*Both answers are yes.* She'd spend a long time deciding if that was the truest thing he'd ever said to her, or just the best-made.
 
-She asked one more question before they walked her back to the wire — asked it at the doorway, casually, the way you set a small trap. "The city looked beautiful, rising. I watched the lights come on from shore." She let it warm him a half-second. "Why did some of them stay dark?"
+She asked one more thing before they walked her back to the wire. At the doorway. Casually. The way you set a small trap. "The city looked beautiful, rising. I watched the lights come on from shore." She gave that a second to warm him. "Why did some of them stay dark?"
 
-And her father's face — her father's careful, managed, weathered-watched face — closed. Not slammed; nothing in him slammed. It closed like a door being drawn to by someone who doesn't want you to hear the latch. "The city is old," he said, answering some other question, a question nobody had asked. "You should be inside the wire before dark."
+And her father's face — his careful, managed, weather-watched face — closed. Not slammed. Nothing about him slammed. Closed, like a door being pulled shut by somebody who doesn't want you to hear the latch. "The city is old," he said, which was an answer to some other question nobody had asked. "You should be inside the wire before dark."
 
-She was. She stood at the fence in the last light with Iggy — who had, to his eternal credit, actually waited, and who took one look at her face and for once said nothing at all — when it came across the water.
+She was. She was standing at the fence in the last of the light with Iggy — who had actually waited, all day, to his eternal credit, and who took one look at her face and for once in his life said nothing at all — when it came across the water.
 
-A second horn. From past the structure, past the waiting sea — from *below,* so low it arrived in her ribs before her ears. Not her father's formal knock on the world's door. Older than that, and colder, rolling up out of the trench like the ocean clearing its throat, and every light on the structure's long shell flickered once, all together, like a held breath.
+A second horn. From past the structure, past the waiting sea. From *below.* So low it arrived in her ribs before it arrived in her ears. Nothing like her father's polite knock on the world's door — this was older, and colder, rolling up out of the trench like the ocean clearing its throat, and every light on the structure's long shell flickered once, all together, like a held breath.
 
-She knew the voice under that horn the way she'd known her father's face. Every child of the deep knew it, the way you know winter.
+She knew the voice under that horn the way she'd known her father's face. Every child of the deep knew it. The way you know winter.
 
-The Abyssals had an answer, and her mother was bringing it up herself.
+The Abyssals had an answer. And her mother was bringing it up herself.
 
 ---
 
-*Chapter 3, Draft 1 (Jul 10, 2026) — jobs: symbol not daughter ("evidence"; "both answers are yes"), Pelagic intent dripped (the school asked for as meeting ground — seeds Ch. 5–6), the sentries who know her face (she's a known quantity — truth engine), the wreck-and-key beat (nothing sunk stays private now), the dark-lights trap and his closed door (feeds Ch. 13), hook armed for Ch. 4 (her mother rising). Father deliberately unnamed — parents' names are Abby's to give. Clay.*
+*Chapter 3, Draft 2 (Jul 10, 2026) — voice pass: rawer sentences, her anxious-then-clear pattern in the "And me?" beat (heart slamming, head screaming no, voice coming out clear — that's her). All beats kept: evidence not daughter, "both answers are yes," the sentries who know her, the wreck and key, the dark-lights trap, hook to Ch. 4. Father still unnamed — Abby names the parents. Clay.*

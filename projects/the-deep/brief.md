@@ -9,8 +9,11 @@
 - Picture book / chapter book / comic / poem / something else: **Chapter book / YA**
 - Funny, scary, cozy, exciting, magical...? **Wonder + tension; a coming-out story disguised as a monster story**
 
-## Direction (updated Jun 19, 2026)
-Lean the "exceptional kids" world into **elemental, Avatar-style powers** — fire in the hands, water-callers, wind-listeners, shadow. **Move away from vampire / werewolf framing.** (Iggy's flame is the touchstone image for the whole school.)
+## Direction (updated Jul 10, 2026 — supersedes Jun 19)
+**De-Avatar the gifts.** No elemental taxonomy — no "water-callers / wind-listeners / fire-handed" classes; that reads as borrowed ATLA. Instead: every gifted kid has **one strange thing, no two alike, no categories** — a boy who carries a marble of fire (Iggy stays; it's HIS, not a class), a girl who warms a cup between her palms, a kid who is never lost, someone the dogs obey. Gifts are personal, odd, unclassifiable — which also makes Nerai's own strangeness easier to hide in. (Still moved away from vampire/werewolf framing.)
+
+## Voice (updated Jul 10, 2026 — Tim's correction)
+The chapters were coming out too polished — professional-novelist sentences, no mess, nothing a first-time writer would actually do. Wrong. **The book should sound like the characters, not like an author.** Nerai's narration = an actual fifteen-year-old thinking: run-ons when she spirals, fragments when she's scared, self-interruptions, blunt teenage comparisons instead of literary ones, petty specific observations. Dialogue and action build the story; narration just connects. The narrator's landscape/overview voice lives in the prologue — after that, oversight only, never performance. Personal beats polished, every time.
 
 ## Who's in it?
 - Main character: **Nerai** — a girl of the deep, hidden ashore at the school, homesick for the water

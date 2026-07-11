@@ -10,6 +10,9 @@ Nerai has an ability no other deep-one has (see `characters/nerai.md`). **Her pa
 
 The tragedy: hiding the truth doesn't protect her. It teaches her that the people who love her will lie to her face. That's what turns Nerai into someone who *seeks truth* — relentlessly, across the whole series — because the first big lie was told by the ones she trusted most. Every book, she pulls one more thread, learns one more thing she was never meant to know, and pays for it.
 
+### 2a. The triangle nobody in the book can see (Tim, Jul 10, 2026)
+Two currents, running opposite directions, both invisible to the people in them: **Iggy** wants her and she never sees it — not for books (his tells are physical and small; the reader knows by Chapter 2, she doesn't know for years). **Phorcys** she's *drawn to* while seeing through him completely — flustered, annoyed at herself about it, never fooled for a second. She's blind to the boy who's safe and clear-eyed about the boy who isn't, which is exactly the kind of wrong a hero is allowed to be (lesson 5). Where it resolves stays open until Book 3. Clean page throughout: tension is looks held a beat too long, doors left open, irritation at her own pulse. Nothing more, ever.
+
 ### 2. The love arc — innocent, then not so much
 Love is a slow burn across the series, and it **changes character as it goes:**
 - **Early books:** innocent — a first, tender closeness; sweet, low-stakes, the warmth she never got at home.

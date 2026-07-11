@@ -5,9 +5,9 @@
 
 Every age has its official version of the truth. Ours goes like this.
 
-Once, the story says, the world was full of magic, and then it wasn't. The dragons went wherever dragons go. The old gods got quiet. And the strange, gifted few — the ones who could call fire into their open hands, or pull a ribbon of water up out of the air, or lean their weight on the wind, or step into one shadow and out of another — they learned to hide. They built their schools behind ordinary walls. They taught their children to pass for human. And the rest of the world was allowed to go on believing it was exactly as small as it looked.
+Once, the story says, the world was full of magic, and then it wasn't. The dragons went wherever dragons go. The old gods got quiet. And the strange, gifted few — and they were never a kind, never a category, just one impossible thing per person: a boy who could coax fire like a stray cat, a girl the water followed, a child who stepped into one shadow and out of another a mile away — they learned to hide. They built their schools behind ordinary walls. They taught their children to pass for human. And the rest of the world was allowed to go on believing it was exactly as small as it looked.
 
-That's the version they teach now, in the quiet schools, to the quiet children. The fire-handed. The water-callers. The wind-listeners. The ones who can fold the dark around them like a coat. *This is what you are,* the teachers say, *and this is all there is.* They say it kindly. They say it the way you tell a child there is nothing under the bed — not because it's true, but because it lets everyone sleep.
+That's the version they teach now, in the quiet schools, to the quiet children — each of them carrying their one strange gift, no two gifts alike, no names for any of it that ever stuck. *This is what you are,* the teachers say, *and this is all there is.* They say it kindly. They say it the way you tell a child there is nothing under the bed — not because it's true, but because it lets everyone sleep.
 
 I want to be careful here, because I am about to call a great many wise and frightened people liars.
 
@@ -43,4 +43,4 @@ Let me tell you about the night the sea stepped back.
 
 ---
 
-*Draft 4 of the frame (Jul 10, 2026). Added: the rumor tier (the argument spilling to the surface), the failing deep (the withheld "third thing"), and the birth-year rumor. Voice: storyteller, knowing — recites the accepted record, then refuses it. Hands off into Chapter 1 and does not return. Clay.*
+*Draft 5 of the frame (Jul 10, 2026). Added: the rumor tier, the failing deep (the withheld "third thing"), the birth-year rumor — and de-Avatared the gifts (one strange thing per person, no categories). Voice: storyteller, knowing — the polish is HIS character and stays; after the handoff, everything is in Nerai's raw voice, per lesson 9. Hands off into Chapter 1 and does not return. Clay.*
