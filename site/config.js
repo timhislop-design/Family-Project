@@ -1,7 +1,7 @@
 // THE DEEP — site configuration
 // After setting up the Apps Script (see site-setup/SETUP.md), paste its web-app URL below:
 window.DEEP = {
-  appsScriptUrl: "", // <-- paste here, keep the quotes
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbzBoIvvLW5xJDOBWyzQHnHbgkSUzYCORMcQG24d3zp7nS3qVJDOz0YGTCEco9pa4cAT/exec",
 
   pages: {
     review: "projects/the-deep/for-abby-review.md",
