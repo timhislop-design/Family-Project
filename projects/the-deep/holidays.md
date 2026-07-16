@@ -1,0 +1,49 @@
+# THE DEEP — The Festival Calendar
+*(New — Tim, Jul 15, 2026: tie each act to a holiday of Nerai's people. Structure per Tim: their CHRISTMAS/THANKSGIVING = thanks + family + the giving of light, similar to ours; their EASTER = the Flood itself — intervention, death-and-rebirth; their INDEPENDENCE DAY = the waters receding. Names are clay — Abby renames at will. House rules: this arrives on the page as lived texture, never as a lecture.)*
+
+## Why holidays (the design logic)
+A culture twelve thousand years old doesn't just have laws — it has a *year*. And the deep has no seasons: no sun, no snow, no harvest. Their calendar is grown from the two things they actually have — **light and memory** — and its two greatest days both come from the Shattering (`mythology.md`). Human holidays get to be garbled echoes of these (the myths drew from US — the naming rule, extended to the calendar).
+
+---
+
+## 1. The Drowning → the Risen Morning — their Easter *(the Flood; the intervention)*
+**What it is:** the anniversary of the Shattering, kept in two movements — death, then resurrection, in that order, like the original.
+- **The Drowning (the dark night):** every light in every trench city goes out. All of them — gardens, lanterns, grown towers — every light but one: a single lamp in each city's highest place, for the warning given to the arks (Enki at the reed wall, `mythology.md`). In the dark they sing the names of the drowned terraces. It is the only night the deep is as dark as humans think it is.
+- **The Risen Morning:** at the hour the old world officially ended, the light-gardens **spawn** — the new light rising out of the old in a slow bloom that turns the whole city the color of a dawn the deep otherwise never sees. What was buried rises. Debts are released; quarrels are supposed to die; the sick and the grieving are carried to the gardens to watch the light come back.
+
+**What it means:** the world drowned, and they were reborn *downward* — the flood didn't end them, it MADE them. And inside the feast sits their oldest open question, the one the liturgy calls **the intervention**: the Shattering came from outside — sudden, total, unexplained — and to this day no one, human or deep, knows what sent it (`mythology.md`, choice point 2). Was it punishment? Warning? Weather? The Drowning night doesn't answer; it just keeps the question lit, one lamp's worth.
+**The human echo:** Easter is the garble — death, the dark vigil, then dawn and the stone rolled back, renewal rising in spring. Humans moved the ceremony to sunrise and forgot whose morning it copied. (The Flood myths are the *other* half of the same memory — every culture keeps one because it happened on every coast.)
+**BOOK 1, ACT III (Ch. 19–21 zone):** **the Risen Morning fails in public.** Whole terraces of the gardens don't spawn — the failing (`brief.md`), undeniable at last, on the exact morning whose entire meaning is *the light comes back.* And to a people who never learned what caused the first Shattering, a failed Rising Morning whispers the unthinkable: *it's happening again* (dovetails with Ch. 19, "The Third Thing"). Then the climax writes the festival's meaning back by hand: what actually rises that morning is a girl's voice — and her mother, breaking the oldest law in front of both worlds (Ch. 21). The intervention, this time, comes from inside the family. Theme = form, on a holiday.
+
+## 2. The Receding — their independence day *(≈ July 4th + end of the school year)*
+**What it is:** the anniversary of the day the violent post-Shattering seas finally settled and drew back — the waters receding, the chaos ending, the survivors coming out of shelter to find the deep *theirs*. The calendar's loud day: pressure-song displays that shake the water the way fireworks shake air, feasts of self-sufficiency (everything served must be grown, caught, or sung inside the city), and the year's children reciting the Law for the first time — *do not interrupt* — which is also how the school year ends down there. Graduation, sovereignty, and new-world day in one.
+**What it means (officially):** *the waters gave us our world; we chose it; we need no one above us.* Where the Drowning mourns what was lost, the Receding celebrates what was claimed.
+**What it means (actually):** it commemorates a retreat and calls it a founding — **the inherited story, thrown a parade.** Nerai has recited the Law on Receding day her whole life. So has Phorcys. One of them believed it.
+**The human echo:** humans kept the receding *inside* their flood stories — the dove, the olive branch, the rainbow covenant, dry land found again. The deep made it a separate feast, because for them the receding wasn't the epilogue. It was the founding.
+**BOOK 1, ACT I:** **the rising happens on the Receding.** The Pelagics chose the date with a jeweler's care — on the day that celebrates the waters drawing back, they *draw the waters back* (Ch. 1: the sea "took a step back to look at something"). It reads as scripture to every deep-one watching: the second Receding, the next founding — independence, this time, from the Law itself. Retrofit whisper for Ch. 1 (when honing): it's the one night of the year Nerai's homesickness has a name on it — she'd have recited the Law with the year's children once; instead she wrote a number in a notebook. And Reyes's "Long night, Nerai" gets a second edge if the date means something to him too.
+
+## 3. Longlight — their Christmas-and-Thanksgiving in one *(thanks, family, and the giving of light)*
+**What it is:** the festival of the seeding — when the new light-gardens are planted for the year (the same gardens that will spawn at the Risen Morning: the calendar's light cycle, seed to bloom). Two customs braided together, per Tim — *thanks and family, similar to ours*:
+- **The gathering and the thanks:** the one night the whole family is REQUIRED home — however scattered, however feuding (an empty place is set for anyone who truly can't come; remember that custom, it's going to hurt in Book 1). The meal opens with the **naming of thanks**: youngest to oldest, each person names one thing the year gave them that they didn't earn. No song, no liturgy — just the list. It's the least formal thing the deep does all year, which is why it's the one everyone's homesick for.
+- **The giving of light:** families trade **grown lights** — small living lamps, raised by hand, each one unique. You don't buy a Longlight gift; you *grow* it, for months, in secret.
+
+**What it means:** light is the deep's harvest, its wealth, its love language — and the feast says the quiet part: *what we're actually thankful for is each other, still here, still lit.* A grown light says: *I spent time on you when you weren't looking.*
+**The human echo:** midwinter light festivals and the harvest table — trees strung with lights, candles in windows, Diwali rows, Hanukkah flames, and a feast where the family gathers and says what it's thankful for. The surface remembers that the dark is when you give someone light and gather your people close; it just forgot who taught it that.
+**BOOK 1, ACT II:** lands in the light heart (Ch. 9–11 zone). The deep kids, enrolled ashore, hold the first Longlight ever kept on land — at the school, with the found family, maybe at Iggy's house (his parents would LOVE it; his mother would over-cook for a civilization). The naming of thanks goes around a table of two species. Nerai gives someone a grown light; somebody human gives her one back — wrong, hand-made, perfect. And the empty-place custom does its quiet work: whose place is set and empty at HER table this year? All of them. *(The ache underneath, for Act III: the gardens these lights seed are the thing that's failing. Every gift that year is planted in dying soil, and nobody at the party knows it yet.)*
+**Midpoint shadow (Ch. 13–14 zone):** the deep's calendar keeps running while half its people stand on dry land — candidate beat: Phor observing the old forms *beautifully*, in public, a performance of devotion with a blade in it (his ladder, `characters/phorcys.md`), while the Ch. 14 incident swings the world to fear.
+
+---
+
+## The act ladder, in one line each
+- **Act I — the Receding:** the rising rides the independence day (*the second founding — this time from the Law itself*).
+- **Act II — Longlight:** the found family at its warmest, giving each other light out of gardens already quietly dying.
+- **Act III — the Drowning → the Risen Morning:** the resurrection fails on schedule — and gets delivered anyway, by a girl's voice and her mother's broken law (*the intervention comes from inside the family*).
+
+## Open for Abby (the fun parts)
+- **Rename everything.** "The Drowning," "the Risen Morning," "the Receding," "Longlight" are placeholders wearing their jobs as names. The real names should sound like the deep — song-names, or the originals humans garbled.
+- **One custom per festival only she would invent.** (What do eight-year-olds DO on the Drowning night when they're supposed to be solemn? What's the Receding's equivalent of bad barbecue? What are the rules of gift-growing?)
+- **Which one does Nerai miss most?** (Candidate: Longlight — the family one. Or the Risen Morning, because she was always the kid the gardens made hopeful.)
+- **The pet and the calendar:** did it find her on a Risen Morning? (A found creature on renewal morning is exactly the kind of coincidence her people read as omens. Everything about her gets read as an omen.)
+
+---
+*Created Jul 15, 2026 (Tim's direction, incl. the flip: Easter = the Flood/intervention; independence day = the waters receding). Wired to: `mythology.md` (the Shattering, the arks, the intervention question), `brief.md` (the failing), `outline.md` (act notes), and Abby's review note "talk about the failing early with clues" (the dark lights hide inside the calendar's imagery from Ch. 1 on). Clay.*

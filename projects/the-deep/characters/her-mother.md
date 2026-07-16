@@ -1,4 +1,4 @@
-# Her Mother *(name: Abby's call — Tiama / Doris / Nammu / Ceto starters on her page)*
+# Her Mother *(name: Abby's call — her shortlist Jul 15: Scylla / Maryn; earlier starters Tiama / Doris / Nammu / Ceto)*
 *(Shell — rises at the end of Chapter 3; lands in Chapter 4. Abyssal. Brings the deep's answer.)*
 
 ## What we know so far
@@ -13,6 +13,12 @@ She holds weight among the Abyssals — the *never* faction, keepers of the old 
 - Fewer words than anyone in the book. Her silences are architecture.
 - She watches Nerai the way the sentries did — except she's been doing it since birth, cataloguing what leaks, calculating exposure.
 - The tell that she loves her: she is always, always positioned between Nerai and the thing that could hurt her. Nobody notices, including Nerai. (Same tell as the pet. That's deliberate — the two characters who guard her both do it standing still.)
+
+## The Ch. 4 reunion — Abby's brief (Jul 15, 2026 — CANON)
+Her answer, verbatim: *"I want the reunion to feel more cold, like business, but I do think her mother feels guilty as well."* So Ch. 4/15 play as **transaction with a leak** — the meeting runs like a negotiation (because to her mother it is one), and the guilt shows only through her tell: where she *stands*, never what she says. If the father's love arrives one clause behind the cause, the mother's arrives one step to the side of the danger.
+
+## The climax turn — Mom comes to help (DECIDED Jul 15, 2026 — Book 1 climax; she survives)
+**Placement locked (Tim, from Abby's notes):** the shield-then-release lands at **Book 1's climax (Ch. 20–21)**. She does NOT die in Book 1 — Abby's tone-ladder note rules it: *"save any character deaths for book two (for example the mother death I mentioned)."* Her possible death is a **Book 2 candidate**, where the political cost of breaking the old law can finish what the climax starts. Original beat design below.
 
 ## The climax turn — Mom comes to help (Tim's, Jul 10, 2026 — candidate beat, placement open)
 At some climax — strongest candidate: Book 1, Ch. 20–21, when Phor forces the confrontation and Nerai's secret detonates in public — **her mother moves.** The leader of *never*, the keeper of the oldest law, the woman whose answer to everything has been *stay small* — breaks her own doctrine in front of both worlds to stand with her daughter.

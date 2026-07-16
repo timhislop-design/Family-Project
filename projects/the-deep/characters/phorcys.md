@@ -1,6 +1,8 @@
 # Phorcys ("Phor") — The Antagonist
 *(Developed Jul 10, 2026 from the parking lot. Name from the primordial Greek sea god — older than Poseidon, which is exactly how his family sees themselves. Adjustable clay, but the mechanism below is the keeper.)*
 
+> **Name CONFIRMED by Abby (Jul 15, 2026):** *"Phorcys is good for the villain."* (She floated **Kairius** as a maybe — kept here in case it fits someone else, e.g. the elder who taught him.) She also called for **a second, worse villain behind him** — see "The one above him" below.
+
 ## Who he is
 Sixteen, old blood, Pelagic. The kind of beautiful manners that make adults sigh with relief. He arrives ashore with the enrolled kids in Chapter 6 as the deep's model ambassador — gracious, curious, patient with human clumsiness — and he is none of those things. He says *land dwellers* the way a bigot says any slur: with a little smile. The page stays clean; the sneer does all the work.
 
@@ -58,10 +60,16 @@ Rule of the ladder: **he never lies on the page.** Every awful thing he does is 
 - **His one genuine excellence?** Beyond the song and the face — what's he actually, honestly great at? *(Starters: history — he knows the archive cold; strategy games; he's a shockingly good listener, which is worse.)*
 - **The flicker** — what almost reaches him? *(Starters: being believed in by a teacher; the pet not fearing him once; Nerai saying no like an equal instead of a subject.)*
 
-## Threads left open for the series (don't spend in Book 1)
-- His family's relic archive — what exactly did the drowned cults keep, and what does his house know about the *earlier* ruins?
-- The restoration strain is bigger than one boy: who taught him? (An elder face for Book 2+.)
-- The flicker. Whether there's a door in him is a later book's question.
+## The one above him (Abby's, Jul 15, 2026 — ADOPTED as series direction, not locked)
+Her note, verbatim: *"I do think on top of phorcys there should be a secondary villain that's even worse. (Whether that be ancient stuff and not a specific person or someone nudging the things to happen???) Maybe they have to team up later like redemption."*
+
+This slots straight into the deeper-deep/wardens direction she greenlit the same day: **Phorcys is the villain you can see; the true threat is under everyone** — ancient, maybe not a person at all, or a someone who's been nudging events (the failing? the timing of the rising? who taught Phor?). Direction, not locked canon:
+- Phor stays Book 1's whole antagonist on the page. The one-above-him is felt only as wrongness (the dark lights, the failing) — never named in Book 1.
+- **The redemption team-up is a later-books candidate** (Book 3+ territory): when the thing his family's archive actually points at wakes up, the restorationist learns his inherited story was somebody's leash too. That's the theme closing its own loop — and the "flicker" thread below is the door it walks through.
+- Open with Abby: person, force, or both (a force with a servant)? And does "Kairius" belong to it?
+
+## Phor and the town boy (Tim's, Jul 15, 2026 — the jealousy lever)
+Act I introduces the **town kids** — ordinary, ungifted locals (see `town-kids.md`), and the boy Nerai takes a liking to. When Phor arrives and learns of it, it lands on him like an insult arranged personally by history: an omen of the old blood, *the* most interesting creature on the coast, preferring a **land dweller with nothing** — no gift, no name, no drop of the sea in him. His jealousy is real (she's the one thing he can't have or command), but what it exposes is bigger than wanting her: **contempt with the mask fully off, in private, aimed at someone with no protection.** The town boy becomes the place where the reader sees what Phor actually thinks of humans — before the school ever does. Feeds the mask ladder: candidate beats in Ch. 12–16 (a "polite" humiliation only Nerai reads correctly) and Ch. 14 (does the incident touch the town kids?).
 
 ---
 *Name check with Abby — alternates from the parking lot: Cetus, Glaucus, Pontus. "Phorcys / Phor" recommended: ancient-aristocracy sound, and the real Phorcys fathered sea monsters, which is a nice private joke given his song.*

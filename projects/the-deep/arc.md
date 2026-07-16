@@ -10,8 +10,9 @@ Nerai has an ability no other deep-one has (see `characters/nerai.md`). **Her pa
 
 The tragedy: hiding the truth doesn't protect her. It teaches her that the people who love her will lie to her face. That's what turns Nerai into someone who *seeks truth* — relentlessly, across the whole series — because the first big lie was told by the ones she trusted most. Every book, she pulls one more thread, learns one more thing she was never meant to know, and pays for it.
 
-### 2a. The triangle nobody in the book can see (Tim, Jul 10, 2026)
+### 2a. The triangle nobody in the book can see (Tim, Jul 10, 2026 — now a quadrilateral, Jul 15)
 Two currents, running opposite directions, both invisible to the people in them: **Iggy** wants her and she never sees it — not for books (his tells are physical and small; the reader knows by Chapter 2, she doesn't know for years). **Phorcys** she's *drawn to* while seeing through him completely — flustered, annoyed at herself about it, never fooled for a second. She's blind to the boy who's safe and clear-eyed about the boy who isn't, which is exactly the kind of wrong a hero is allowed to be (lesson 5). Where it resolves stays open until Book 3. Clean page throughout: tension is looks held a beat too long, doors left open, irritation at her own pulse. Nothing more, ever.
+**Third current (Tim, Jul 15): the town boy** (`characters/town-kids.md`) — ordinary, ungifted, local. She takes a liking to him *because* he knows nothing: around him she isn't an omen, a symbol, or a secret — just a girl with a story he can't read. In Book 1 it stays light and sweet. Its plot job is Phor: his jealousy when he finds out (an omen of the old blood, preferring a land dweller with NOTHING) is the crack his mask slips through — his hatred of the earth people, shown in private first.
 
 ### 2. The love arc — innocent, then not so much
 Love is a slow burn across the series, and it **changes character as it goes:**
@@ -21,8 +22,12 @@ Love is a slow burn across the series, and it **changes character as it goes:**
 
 *(Keep every stage age-appropriate for Abby — the darkening is about stakes, betrayal, and hard choices, not content.)*
 
-## The tone ladder (decided Jul 10, 2026)
+## The tone ladder (decided Jul 10, 2026 — CONFIRMED by Abby Jul 15, 2026)
 **Book 1 is light**: wonder, rumor, first contact, found friends — YA warmth with tension underneath. Then each book darkens, and the darkening has an engine: **the real reason the two factions have existed this long** (and what it has to do with the failing deep and the Shattering — see `mythology.md`) surfaces one layer per book. The world doesn't get grimmer for flavor; it gets grimmer because Nerai keeps digging. Same rule as the love arc: innocent first, costly later.
+**Abby's confirmation + one rule added (Jul 15, verbatim): "Yes this matches. Maybe save any character deaths for book two then (for example the mother death I mentioned)." — NO named-character deaths in Book 1.** The mother's climax stand happens in Book 1 and she survives it; her possible death is a Book 2 candidate (see `characters/her-mother.md`).
+
+## The deeper deep — ADOPTED as series direction (Abby's verdict Jul 15, 2026)
+The wardens reframe (Tim's Jul 10 spitball, full flavors in `ideas-parking-lot.md`) is now the series' working spine-deepener — Abby, verbatim: *"Love this. Great idea. Makes the most sense to me for direction going forward."* The Abyssals aren't cowards but **wardens** — their *never* guards something below the trench cities that nobody talks about; the failing comes from down there; the series descends one layer per book. Paired with her secondary-villain call (same day): **above Phorcys sits something worse** — ancient, maybe not a person, maybe a someone nudging events — with a possible Phorcys redemption team-up in the late books (see `characters/phorcys.md`, "The one above him"). Direction, not locked: Book 1 spends none of it on the page beyond the dark lights and the failing.
 
 ## Rough book map (loose — we'll grow it)
 | Book | Heart of it | Love | Truth |
@@ -51,7 +56,7 @@ Why this works on every level:
 - **The ordinary one carries it.** Nerai's power is her voice — and in the end, the voice that actually reaches the world is his, telling hers. That's the final bridge, and it's made of the most unremarkable person in the book.
 - **Deliberate ambiguity (do NOT resolve early):** the frame's past tense and "not everyone gets to stay" leave open what the telling costs him — and where Nerai is when he tells it. We don't decide that until Book 3 makes us.
 
-*(Held as direction, not locked canon — it steers how we write Iggy's small moments from Book 1 on: every beat of his should be quietly load-bearing. Abby weighs in via the Big Swings.)*
+*(Held as direction, not locked canon — it steers how we write Iggy's small moments from Book 1 on: every beat of his should be quietly load-bearing. **Abby's verdict, Jul 15, 2026:** "I like this. Definitely a later in the series reveal I think." — so the narrator's identity holds until LATE in the series (Book 3 territory, not end of Book 1). Keep planting the tells; spend none of them.)*
 
 ## The spine that holds it together
 A girl raised by a cold world and hidden by loving liars, who has one real power — her **voice** — and one secret power she wasn't allowed to know about. The series is her learning to **balance the two worlds, the two factions, and the two halves of herself** — and refusing, every time, to be kept in the dark.

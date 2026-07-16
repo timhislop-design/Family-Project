@@ -58,8 +58,16 @@ The one relationship with no factions in it. It never wanted her to be proof of 
 - The Phor tell: every scene they share, it goes low and still and watches him. Once — exactly once in Book 1 — his song brushes it and *nothing happens,* and Phor's face does something nobody catches but Nerai.
 - The mystery tell: it reacts to the failing before instruments, adults, or the sea itself. Used sparingly, it's the reader's early-warning system.
 
+## Abby's brief (Jul 15, 2026 — adopted into the backstory)
+Her notes, verbatim: *"Name could be something childlike, because nerai likely found the pet when she was young. Name might not be the most clever as a result. Maybe it had to go when nerai had to go. Maybe something happened and she told it to leave so no one found it? Maybe she kept it a complete secret from everyone."*
+
+Adopted as canon:
+- **The name is childlike, not clever** — whatever a little girl calls the best thing she ever found. (Filter the shortlist below through that rule; "Ness"/"Moth" survive it, or Abby invents better.)
+- **It was a complete secret.** Nobody knew. Not her parents, not anyone — which means when it surfaces in Ch. 10, it isn't just a reunion, it's *evidence of a girl who was already good at hiding what she loves* long before they sent her ashore. (The mirror in "What it is to Nerai" just got stronger: hiding beloved things is the family talent.)
+- **She told it to leave.** When she was sent up — something happened, or was about to — she ordered it away so no one would find it. So the Ch. 10 joy has a splinter in it: the last thing she ever said to it was *go.* And it came anyway. (For a creature whose whole nature is refusal, obeying that order may be the one time it ever obeyed anyone — worth a beat.)
+
 ## Open for Abby (the fun parts are yours)
-- **Name.** Dad wants PLUCKY. Shortlist from the record, small names off giant words: **Moth** (from Behemoth — the tiniest possible piece of the biggest possible monster), **Ness** (it's part Loch Ness creature; the joke is right there), **Levi** (a tiny Leviathan named Levi), **Tanni** (from *tannin*, the Bible's sea serpent), **Squall** (a very small storm). Or the name only Nerai would give it.
+- **Name.** Dad wants PLUCKY; Abby's rule (above): childlike, found-it-when-she-was-little, not too clever. Shortlist from the record, small names off giant words: **Moth** (from Behemoth — the tiniest possible piece of the biggest possible monster), **Ness** (it's part Loch Ness creature; the joke is right there), **Levi** (a tiny Leviathan named Levi), **Tanni** (from *tannin*, the Bible's sea serpent), **Squall** (a very small storm). Or the name only a small Nerai would give it.
 - **Look and size.** Design language locked by Dad: **part Loch Ness sea creature, part dragon, little bit sea horse** — long neck, coiled curling tail, crested frills, lit along the spine, maybe a hint of snout. (Abby: this is your "sea horse lol" from brain dump #1, come to life. You called it before it existed.) (And fitting the mythology: Nessie sightings are just what humans call a leviathan glimpsed on patrol.) Still yours: how small is a "worthless" leviathan? Dog-sized? Canoe-sized? What color does it glow?
 - **The sound it makes.** (It hums the deep song off-key? Clicks like a dropped marble?)
 - **One habit** that makes it IT. (Steals specific objects? Sleeps only in containers it has defeated?)

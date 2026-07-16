@@ -14,14 +14,17 @@ The "school for exceptional kids" world is all true — elemental gifts, fire in
 ### ACT I — THE SEA STEPS BACK (Ch. 1–7)
 The rising and the days after. The world's rumors come true on live television; the gifted schools scramble; the school on the tide line becomes the meeting ground. **Nerai's arc: from hidden to known — and she chooses it.**
 *Act climax: she stops lying. Act ends with her known, and the two worlds sharing a hallway.*
+*Holiday anchor (Jul 15): the rising rides **the Receding** — the deep's independence day, the waters-drawing-back feast — chosen deliberately by the Pelagics (see `holidays.md`). New thread: the **town kids** (ordinary locals, `characters/town-kids.md`) enter here — seeded Ch. 2–3, met properly by Ch. 5, established before Phor arrives.*
 
 ### ACT II — BETWEEN WORLDS (Ch. 8–17)
 The light heart of the book: deep kids enrolling, culture clash, found family forming — while underneath, every thread darkens one shade. The dark lights get asked about and deflected; her parents close ranks; the rumor tier turns on itself. **Nerai's arc: from known to blamed.**
 *Midpoint (Ch. 14): an incident swings the world from wonder to fear. Act ends at the low point: her biggest fear comes true — sent away, not sent out, by everyone at once.*
+*Holiday anchor (Jul 15): **Longlight** — the deep's thanks-and-family light feast, first ever kept on land — lands in the Ch. 9–11 warmth (see `holidays.md`). Abby's midpoint note (Jul 15): the **wreck-in-the-sun beat moves here** — Nerai revisits the bleaching wreck as news arrives that home is failing ("nothing sunk gets to stay private" lands at midpoint, where it hurts most — her call). Phor's jealousy over the town boy runs through this act (`characters/phorcys.md`).*
 
 ### ACT III — THE LINE (Ch. 18–23)
 She goes back to the tide line anyway. The failing shows itself on the surface; the antagonist forces the confrontation he wants; her hidden ability comes out in front of both worlds — and so does her voice. **Nerai's arc: from blamed to standing on the line — the middle ground with a heartbeat.**
 *Climax: the girl who interrupts, interrupting. Landing: light — a fragile first peace, and a series engine fully lit.*
+*Holiday anchor (Jul 15): **the Drowning → the Risen Morning** — the deep's Easter, the Flood kept as death-then-resurrection. The Risen Morning FAILS in public (gardens don't spawn → Ch. 19's reveal), and the climax delivers the resurrection by hand: her voice, and her mother's broken law (see `holidays.md`). DECIDED (Jul 15, from Abby's notes): the mother's shield-then-release lands at the Book 1 climax and she SURVIVES — deaths held for Book 2 per Abby's tone-ladder note.*
 
 ## The threads (what each act does to each arc)
 
@@ -31,7 +34,8 @@ She goes back to the tide line anyway. The failing shows itself on the surface; 
 | **Truth engine (the lie about her)** | senses she's a known quantity | catches her parents agreeing on one secret | the secret detonates in public; she stops asking and starts hunting |
 | **The failing deep (mystery)** | the dark lights, filed away | asked about, deflected, confirmed as *hidden* | shows itself; the rising wasn't ideology alone |
 | **Iggy (innocent, barely-there)** | the held sleeve | ease, jokes, one hesitation that costs him | the sleeve returned |
-| **The antagonist (Phor — name TBD)** | arrives with the enrolled | polished contempt; sees her leak; files it | forces the crisis; the conqueror's opening |
+| **The antagonist (Phorcys — CONFIRMED by Abby Jul 15)** | arrives with the enrolled | polished contempt; sees her leak; files it; jealousy over the town boy | forces the crisis; the conqueror's opening |
+| **The town kids (Tim, Jul 15)** | met outside the school; the boy | the secret's third front; Phor's jealousy lever | the human verdict, made personal |
 | **The world (rumor tier)** | *I told you so* / wonder | vindicated believers → curdling fear | panic → the first fragile peace |
 | **Ruins / Book 2 seeds** | — | a chart with places older than the story | one old light, far out, where the charts keep no places |
 
@@ -39,20 +43,21 @@ She goes back to the tide line anyway. The failing shows itself on the surface; 
 
 ### Act I — The Sea Steps Back
 
-**Ch. 1 — Dry Land** — *Status: Draft 6 (voice pass).*
+**Ch. 1 — Dry Land** — *Status: Draft 7 (Abby's review edits, Jul 15).*
 The sea pulls back in the night. Nerai feels it first, watches her people rise — her father among them. Ends on the held sleeve. *Job: fall in love with Nerai; her insecurity, her voice, her longing, her refusal to stay still. (The dark lights are seeded here.)*
 
-**Ch. 2 — The Secret Out** — *Status: Draft 2 (voice pass).*
+**Ch. 2 — The Secret Out** — *Status: Draft 3 (Abby's review edits, Jul 15).*
+*NEW (Abby, Jul 15 — "talk about the failing early with clues"): seed the failing from here on — one expert on the TV mentions readings that don't fit anyone's theory; a deep-kid rumor in Act I; the dark lights already planted in Ch. 1. Clues the reader can chew on, answer withheld till Ch. 19.*
 Morning. The whole coast saw it; every screen is a vindicated believer ("the fisherman was right"). School lockdown. Nerai sits among frightened, powered kids pretending she isn't connected to the thing in the water. *Job: tighten the screws; the first lie to people she likes. Threads: does Iggy keep her secret? What does Reyes know?*
 
-**Ch. 3 — Her Father's Face** — *Status: Draft 2 (voice pass).*
+**Ch. 3 — Her Father's Face** — *Status: Draft 3 (Abby's review edits, Jul 15).*
 The Pelagic landing. Not the reunion she dreamed for 304 days — he came up for the cause, not for her. *Job: the ache of being wanted as a symbol, not a daughter; what the Pelagics actually intend.*
 
 **Ch. 4 — The Deep Answers** — *Status: to draft.*
 The Abyssal response; her mother's warning lands from the dark. Factions collide on the shore with Nerai on the line — and her hidden ability stirs. *Job: first danger; first leak; the impossible position set.*
 
 **Ch. 5 — The Quiet School** — *Status: to draft.*
-The gifted world convenes; the school on the tide line is proposed as meeting ground — its children are the only humans already living with impossible things. Nerai overhears both sides discussing "the girl already ashore." *Job: the stage is set; first hint she's a known quantity — the truth engine turns over.*
+The gifted world convenes; the school on the tide line is proposed as meeting ground — its children are the only humans already living with impossible things. Nerai overhears both sides discussing "the girl already ashore." *Job: the stage is set; first hint she's a known quantity — the truth engine turns over. NEW (Tim, Jul 15): the town kids' proper meet — town and school pressed against the same wire, the boy making her laugh on the worst week of her life (`characters/town-kids.md`). Established before Phor walks in next chapter.*
 
 **Ch. 6 — Enrollment** — *Status: to draft.*
 Deep kids come ashore to enroll as a gesture of good faith. Among them: Phorcys — "Phor" (old blood, polished contempt; see `characters/phorcys.md`) — and someone from home who knew her. *Job: her two worlds now share a hallway; the antagonist walks in smiling. One wrong note only Nerai catches.*
@@ -78,7 +83,7 @@ The disbelieved come to the coast — encounter people, vindicated at last. One 
 Magic lessons collide: deep song beside elemental hands; what each costs. Nerai's leak surges in front of everyone. Phor sees, and files it away. *Job: the magic system on stage (build it before drafting this one); the antagonist gets his lever.*
 
 **Ch. 13 — The Lights That Didn't** — *Status: to draft.*
-Nerai finally asks about the dark lights in the rising. Every adult deflects — including her father, whose careful face is its own answer. *Job: confirm the failing is real and being hidden; the truth engine engages for real.*
+Nerai finally asks about the dark lights in the rising. Every adult deflects — including her father, whose careful face is its own answer. *Job: confirm the failing is real and being hidden; the truth engine engages for real. NEW (Abby, Jul 15): the wreck beat lands here or Ch. 14 — she goes back out to the wreck in the sun as word spreads that home is having "more issues," and the full epiphany hits: nothing sunk gets to stay private anymore. Not wrecks. Not keys. Not girls. (Trimmed from Ch. 3 at her call — "itd hurt more" at midpoint.)*
 
 **Ch. 14 — The Turn** *(midpoint)* — *Status: to draft.*
 An incident — a leak, an arrogance, a frightened crowd — and the world swings from wonder to fear. Her mother comes ashore: the deep's warning made flesh. *Job: the midpoint reversal; both worlds start looking for someone to blame.*

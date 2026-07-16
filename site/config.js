@@ -16,16 +16,16 @@ window.DEEP = {
         num: "I", title: "The Sea Steps Back", span: "Chapters 1–7",
         arc: "The rising, and the days after. The world's rumors come true on live television, the school on the tide line becomes the meeting ground — and Nerai goes from hidden to known. By her own choice.",
         chapters: [
-          { num: 1, title: "Dry Land", status: "Draft 6", written: true,
+          { num: 1, title: "Dry Land", status: "Draft 7 — your edits are in!", written: true,
             premise: "The sea pulls back in the night. Nerai feels it first and watches her people rise — her father among them. Ends on the held sleeve." },
-          { num: 2, title: "The Secret Out", status: "Draft 2", written: true,
+          { num: 2, title: "The Secret Out", status: "Draft 3 — your edits are in!", written: true,
             premise: "Morning after: lockdown, vindicated believers on every screen, the counting stops — and the first easy lie to someone she likes. Reyes knows something." },
-          { num: 3, title: "Her Father's Face", status: "Draft 2", written: true,
+          { num: 3, title: "Her Father's Face", status: "Draft 3 — your edits are in!", written: true,
             premise: "The Pelagic landing. Not a reunion — an exhibit. “Both answers are yes.” And one question about dark lights closes his face like a door." },
           { num: 4, title: "The Deep Answers",
             premise: "The Abyssals answer: her mother rises with the deep's warning. The factions collide on the bared sand with Nerai on the line — and her hidden power leaks for the first time." },
           { num: 5, title: "The Quiet School",
-            premise: "The gifted world convenes and the school is proposed as the meeting ground. Nerai overhears both sides discussing “the girl already ashore” — the first hint that strangers know exactly who she is." },
+            premise: "The gifted world convenes and the school is proposed as the meeting ground. Nerai overhears both sides discussing “the girl already ashore” — the first hint that strangers know exactly who she is. NEW: the town kids — ordinary locals, no gifts — and the boy who makes her laugh on the worst week of her life." },
           { num: 6, title: "Enrollment",
             premise: "Deep kids come ashore to enroll as a gesture of good faith. Among them: Phorcys — old blood, polished contempt — and a friend from home. One wrong note that only Nerai catches." },
           { num: 7, title: "Mine",
@@ -117,6 +117,17 @@ window.DEEP = {
       ]
     },
     {
+      id: "town-kids", name: "The Town Kids", art: "unknown", group: "New — yours to cast, Abby",
+      role: "Ordinary teens from the local town. No gifts, no school, no idea. The first people who like Nerai without knowing anything — and one of the boys matters.",
+      file: "projects/the-deep/characters/town-kids.md",
+      openQuestions: [
+        "How many are they, and their names? (Fishing-town kids — normal names, per your town-naming rule.)",
+        "THE BOY: what does he notice about Nerai first? (He can't see gifts — he reads her as a kid with a story. What's the first tell he spots?)",
+        "What does he want? (Starters: his family's boats just became useless; or he wants OUT of the small town exactly as much as Nerai wants IN to somewhere.)",
+        "Does one of the town kids join the found family proper (Ch. 9), or do they stay a world apart on purpose?"
+      ]
+    },
+    {
       id: "friend-from-home", name: "The Friend From Home", art: "wave", group: "Found family — yours to create, Abby",
       role: "A deep-one kid who knew Nerai before — arriving ashore with the enrolled in Chapter 6.",
       file: "projects/the-deep/characters/friend-from-home.md",
@@ -143,7 +154,7 @@ window.DEEP = {
       role: "Pelagic. Leads the surfacing. “Both answers are yes.” Unnamed — his name is Abby's to give.",
       file: "projects/the-deep/characters/her-father.md",
       openQuestions: [
-        "His name? The big one from the record: NEREUS — the Greek 'Old Man of the Sea,' famous for never lying. If that's his name, then 'Nerai' is his lineage — and the Greeks got their truthful sea god from HER family. Other options: Ea (the Babylonian deep-god who broke ranks to warn Noah's original — fits a Pelagic who defied the old law), Palaemon (the sea-protector).",
+        "His name — YOUR shortlist from July 15 leads: Cyreus, Aenon, or Aquilus. Pick one, or mix with the record: NEREUS — the Greek 'Old Man of the Sea,' famous for never lying. If that's his name, then 'Nerai' is his lineage — and the Greeks got their truthful sea god from HER family. Other options: Ea (the Babylonian deep-god who broke ranks to warn Noah's original — fits a Pelagic who defied the old law), Palaemon (the sea-protector).",
         "One memory of him being an actual dad — it should exist, and hurt a little. (Starters: he taught her to read ship names through the water; he once held her palm flat against a whale's song and said nothing the whole time.)"
       ]
     },
@@ -152,7 +163,7 @@ window.DEEP = {
       role: "Abyssal. Told Nerai to stay small. Rising now with the deep's answer.",
       file: "projects/the-deep/characters/her-mother.md",
       openQuestions: [
-        "Her name? Starters from the record: Tiama (from Tiamat — the Babylonian primordial sea, the word that became 'the deep' in Genesis; an Abyssal leader literally named for the abyss), Doris (in the myths, Nereus's actual wife — so the pairing is already written), Nammu (the Sumerian mother of the first sea), Ceto (darker — goddess of the deep's monsters).",
+        "Her name — YOUR shortlist from July 15 leads: Scylla or Maryn. Or from the record: Tiama (from Tiamat — the Babylonian primordial sea, the word that became 'the deep' in Genesis; an Abyssal leader literally named for the abyss), Doris (in the myths, Nereus's actual wife — so the pairing is already written), Nammu (the Sumerian mother of the first sea), Ceto (darker — goddess of the deep's monsters).",
         "What does she say when she sees Nerai again? (Chapter 4 is waiting on this. Starters: 'You should be inside the wire' — protection dressed as coldness; or she says Nerai's name the way her father DIDN'T; or nothing at all — she just looks at her daughter's face a beat too long, like everyone else does.)"
       ]
     },

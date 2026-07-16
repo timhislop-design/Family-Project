@@ -93,3 +93,30 @@ Brain dump (just throwing shit out there feel free to disregard any you don't th
 - **Greek mythology** → antagonist name candidates are all Greek sea gods.
 
 That's seven for seven. Trust the instincts.
+
+---
+
+# Abby's Notes — Review Round 1 Answers
+*(July 15, 2026 — submitted through the site, kept verbatim. 19 submissions in one night, 2:19–3:24 AM. Decisions extracted to: story.md Drafts 7/3/3, her-father.md, her-mother.md, coat-girl.md, the-pet.md, phorcys.md, arc.md, outline.md, for-abby-review.md.)*
+
+**Prologue — withholding:** "I think that withholding some things and for a certain amount of time is okay but with regards to the failing in the deep I think it should be talked about kind of early at least with some things that have been happening there. Mainly so you can like get clues and guess. As far as what nerai really is I think whatever that may be can be revealed at a later more pivotal point. There should be little like hints scattered throughout though that she has some power."
+**Prologue — rumors:** "I like the rumors. I wish I could think of more but I like the direction."
+**Prologue — read past p3?:** "With editing, I think so yeah. I think the idea is solid and I would want to know more. But it definitely needs refining to feel even more like gripping."
+**Ch1 — like Nerai?:** "I like nerai, I think the paragraph about her looking not right and feeling not right too is good and sets her character up well."
+**Ch1 — her face:** "Little quirks hinting towards how shes an outsider are good. I do like the name a town she'd never seen line."
+**Ch1 line notes (Book tab):** woke-up-reaching paragraph — "Feels a bit unnatural right now, maybe a bit too long? just workshop it a bit and it will be good." [Mood: Fix this] · face paragraph — "I like this paragraph, good way to introduce the character and appearance without being unnatural." · forgiveness line — "I like this. Maybe could be shorter. Like 'She didn't know if his return meant that she'd finally been forgiven, or just that she was no longer the scariest thing in the water.' Not exactly but you get the point. Just more concise. Maybe add some like showing of her emotions about it as well like, she shivered, etc. showing anticipation fear." · counting line — "Maybe instead she could be shown writing it somewhere or actually physically counting it. Instead of saying she does. Maybe she writes it down every night before bed?"
+**Ch2 — fisherman:** "I think it's the right size. It works for the intended purpose."
+**Ch2 — the lie:** "For now, that's a good amount of guilt. I think guilt should build more over time."
+**Ch2 — loud Iggy:** "I like the idea and the concept I think it's funny but maybe workshop it to be a bit clearer."
+**Ch2 — coat girl:** "Had an idea, what if this character could be related to the character who never gets lost like siblings? Twins? Then this characters gift could be that they can locate anything (maybe anything once lost), but they're always unable to find it and they get lost if they try. Therefore their sibling has to get those things for them. Could lead to a cool search scene later. Names of each could correspond to their gifts but I can't think of them right now."
+**Ch3 — "Both answers are yes":** "I think he meant that he missed her too but the reality of their situation takes precedence currently. It's not that he isn't glad to see her but there's bigger things at play. It reads as reassurance that he still cares and feels bad for leaving her there, but it had to be done."
+**Ch3 — sentries:** "I think maybe there should be more things that only they'd recognize. Other than just her face."
+**Ch3 — wreck:** "I like this but maybe it can come a bit later. I'm thinking maybe she learns that her home is slowly having more issues maybe things are happening and when she sees that I think itd hurt more than this early. Maybe midpoint?"
+**Ch3 — Mom's reunion:** "I want the reunion to feel more cold, like business, but I do think her mother feels guilty as well."
+**Big swing — Iggy narrator:** "I like this. Definitely a later in the series reveal I think."
+**Big swing — pet's secret:** "This is good. I like this."
+**Big swing — Mom at climax:** "Maybe book one climax, her mother could die. Sad, but great character development and could lean further into reasons for the series becoming darker. Either that or book two."
+**Big swing — wardens:** "Love this. Great idea. Makes the most sense to me for direction going forward."
+**Big swing — tone ladder:** "Yes this matches. Maybe save any character deaths for book two then (for example the mother death I mentioned)"
+**Bigger ask — the pet:** "Name could be something childlike, because nerai likely found the pet when she was young. Name might not be the most clever as a result. Maybe it had to go when nerai had to go. Maybe something happened and she told it to leave so no one found it? Maybe she kept it a complete secret from everyone."
+**Bigger ask — names:** "Phorcys is good for the villain. Maybe even Kairius? Although I do think on top of phorcys there should be a secondary villain that's even worse. (Whether that be ancient stuff and not a specific person or someone nudging the things to happen???) Maybe they have to team up later like redemption. School town should have a name. Something kind of normal to emphasize the eccentricity of the school in comparison. Parents, mom maybe Scylla? Or Maryn? Dad idk, Cyreus? Aenon? Aquilus?"

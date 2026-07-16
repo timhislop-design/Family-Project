@@ -7,9 +7,9 @@
 
 ## Chapter One — Dry Land
 
-Three hundred and four days. It said so inside the back cover of her notebook, in her own handwriting — a column of little numbers, one under the other, neater than any homework she'd ever turned in. She wrote the new one every night before bed, last thing, the way other people brushed their teeth. Which probably wasn't healthy. But it wasn't like anyone was checking.
+Three hundred and four days. She knew because she counted, every single morning, which probably wasn't healthy, but it wasn't like anyone was checking.
 
-She still woke up reaching for water. Hands opening in the dark, finding air. Then she'd remember where she was, and lie there listening to the other girls breathe down the hall — slow, easy, like their bodies just knew what to do. Hers didn't. Hers didn't know how to do half the things bodies up here were supposed to do. When to laugh. How long you were allowed to look at someone before it got weird. What to do with her face when a teacher said her name out loud.
+She still woke up reaching for water. Hands opening in the dark like they were looking for something, and then she'd remember where she was, and then she'd just lie there listening to the other girls breathe down the hall — slow, easy, like sleeping was nothing, like their bodies just knew what to do. Hers didn't. Hers didn't know how to do half the things bodies up here were supposed to do. When to laugh. How long you were allowed to look at someone before it got weird. What to do with her face when a teacher said her name out loud.
 
 Her face was its own problem, actually. Nothing anyone could point at. Just something about the set of her eyes, the sharp under her cheeks, that made people look a half second too long and then ask, all friendly, where she was from. She had a fake town ready. She'd never even seen it.
 
@@ -61,7 +61,7 @@ Some of the lights didn't come on. She noticed that the way she noticed everythi
 
 Her people. Rising. After everything. After *never.*
 
-And somewhere in that line — she knew it the way you know a voice through a wall, without being told, without even wanting to — her father, coming ashore at last. The same father who helped send her up here. A shiver went through her that had nothing to do with the cold, and she couldn't have said if it was dread or wanting. She didn't know if his return meant she'd finally been forgiven, or just that she was no longer the scariest thing in the water.
+And somewhere in that line — she knew it the way you know a voice through a wall, without being told, without even wanting to — her father, coming ashore at last. The same father who helped send her up here. She didn't know yet if him coming meant she was forgiven, or just that she'd stopped being the scariest thing in the water.
 
 Her eyes stung. She let them. Three hundred and four days of keeping herself small and quiet and careful, and not once, not for one single hour, had she stopped missing them. Even the ones who'd been afraid of her.
 
@@ -75,7 +75,7 @@ And then, because Iggy was the only person on dry land who had ever left his doo
 
 ---
 
-*Chapter 1, Draft 7 (Jul 15, 2026) — Abby's review round 1 edits: the count is now a physical ritual (written nightly in the notebook, her call); the woke-up-reaching paragraph tightened (her "Fix this"); the forgiveness line made concise per her draft, plus the shiver (her ask: show the anticipation-fear). Prior draft snapshotted in `drafts/2026-07-15_v6/`. Clay.*
+*Chapter 1, Draft 6 (Jul 10, 2026) — the voice pass: run-ons when she spirals, self-interruptions, blunt teen comparisons ("like a fish in a bucket"), the scared-and-moving-anyway pattern made explicit. De-Avatared: one gift per kid, no categories. All beats kept. Prior drafts in git history. Clay.*
 
 ---
 
@@ -83,7 +83,7 @@ And then, because Iggy was the only person on dry land who had ever left his doo
 
 By morning the sea still hadn't come back, and the whole world knew it.
 
-Nerai knew because she'd watched it not come back — sat on the floor with her back against the bed frame and the brass key squeezed in her fist, watching the long dark gap where the water used to be, until the sky went thin and grey at the edges. At some point she found the notebook in her lap, open to the column of little numbers, pen already in her hand, automatic as breathing. *Three hundred and five,* it would've been. She held the pen over the page and then — she didn't write it. The count had always been days *since*. Since the goodbye, since the dark, since the not-knowing. And as of last night, *since* didn't fit anymore, and she didn't know yet what you were supposed to count instead, and she fell asleep on that thought, sitting up, at the window, for about forty minutes.
+Nerai knew because she'd watched it not come back — sat on the floor with her back against the bed frame and the brass key squeezed in her fist, watching the long dark gap where the water used to be, until the sky went thin and grey at the edges. At some point she reached for the number, like every morning, automatic as breathing. *Three hundred and five,* it would've been. She held it for a second and then — she didn't take it. The count had always been days *since*. Since the goodbye, since the dark, since the not-knowing. And as of last night, *since* didn't fit anymore, and she didn't know yet what you were supposed to count instead, and she fell asleep on that thought, sitting up, at the window, for about forty minutes.
 
 The school called it *a precautionary schedule*, which meant the doors were locked and nobody could reach their parents and breakfast was cereal because half the kitchen staff hadn't shown up. Nobody said the word *lockdown*. Everybody's phones said it for them.
 
@@ -103,7 +103,7 @@ She should've felt at home, probably. Everybody finally as scared and strange as
 
 It came out easy. That was the scary part. Not the lie — the *ease*, smooth as the key in her pocket after three hundred days of her thumb going over it. The girl nodded, disappointed and kind of relieved at the same time, and warmed Nerai's cocoa between her palms without being asked, and Nerai stood there holding it while it went cold anyway, hating exactly one person in that room, and it wasn't the girl.
 
-Iggy kept her secret the way he did everything: loudly. Not by telling anyone — the opposite. He never said one word about last night. But every time the talk drifted anywhere near the water, he'd fling himself into the conversation and haul it somewhere else — the lockdown, the cereal, some theory he had about the gym being structurally unsound — so hard, and so obviously, that half the room would turn to see what he was steering them away from. That was the Iggy method: guard the door by standing in front of it waving. He'd clearly appointed himself to the job. She could tell by his shoulders when he came down at seven, hair flat on one side, looking like a boy carrying a piano. When he finally washed up next to her at the window she said, quietly, "Stop protecting me. You're terrible at it."
+Iggy kept her secret the way he did everything: loudly. He'd clearly appointed himself to the job — she could tell by his shoulders when he came down at seven, hair flat on one side, looking like a boy carrying a piano. He didn't say one word about last night. What he did was worse. Every time the talk drifted anywhere near the water, he'd wade in and drag it somewhere else — the lockdown, the cereal, some theory he had about the gym being structurally unsound — with all the subtlety of a fire alarm, until people started giving him looks. When he finally washed up next to her at the window she said, quietly, "Stop protecting me. You're terrible at it."
 
 "I'm incredible at it."
 
@@ -137,7 +137,7 @@ Nerai already knew whose face it would be wearing. She stood at the glass with t
 
 ---
 
-*Chapter 2, Draft 3 (Jul 15, 2026) — Abby's review round 1: the not-counting beat now physical (notebook and pen, matching Ch. 1's new ritual); the loud-Iggy paragraph clarified per her note (concept kept — she thinks it's funny — mechanism made explicit). Her verdicts recorded: fisherman right-sized ✓, the lie's guilt right for now and builds over time ✓. Coat girl casting: see her file — Abby pitched the twin idea. Clay.*
+*Chapter 2, Draft 2 (Jul 10, 2026) — voice pass + de-Avatar (the never-lost kid getting lost replaces the water-caller line). All beats kept: the counting stops, the fisherman, the easy lie, loud Iggy, "Long night, Nerai," hook to the landing. Coat girl still unnamed — Abby casts her. Clay.*
 
 ---
 
@@ -161,11 +161,11 @@ She believed him completely.
 
 Getting past the human part of the wire was honestly the easy part — a gap between two truck bumpers, a guard looking the wrong way, three hundred days of practice at being nobody. The hard part was the last stretch, where the sand went dark with old water and two figures stood up out of a stillness so complete she'd assumed they were pilings.
 
-Sentries. Hers. The first of her own people she'd stood in front of in three hundred and five days. Tall, grey-sleek, faces like the faces from home — wide-set eyes taking her in with no surprise in them at all. And that was the thing that undid her a little, out on the wet flats. They weren't surprised. One of them looked at her — at the set of her eyes, the sharp under her cheeks, the face she'd spent a year teaching to pass for something else. But it wasn't only the face. She watched his gaze go to the way she'd crossed the flats without once looking down — nobody raised in shoes walks seabed like that — and then to the stillness she'd dropped into without deciding to, the polite stillness every deep child gets drilled into them before they can swim straight. A year of practice at passing, and her own body had been introducing her the whole walk out. He tipped his head and stepped aside. Like she was expected. Like strangers on the seabed knew her on sight.
+Sentries. Hers. The first of her own people she'd stood in front of in three hundred and five days. Tall, grey-sleek, faces like the faces from home — wide-set eyes taking her in with no surprise in them at all. And that was the thing that undid her a little, out on the wet flats. They weren't surprised. One of them looked at her — at the set of her eyes, the sharp under her cheeks, the face she'd spent a year teaching to pass for something else — and tipped his head, and stepped aside. Like she was expected. Like strangers on the seabed knew her on sight.
 
 *They know me,* she thought, and kept walking, because stopping would've meant thinking about it. *I've never met them and they know me.* She put it on the shelf, next to the lights that hadn't come on. The shelf was getting crowded.
 
-Walking out across the seabed was like walking through her own bedroom hung upside down. This was *her* world — the ribbed sand, the stones with their weed gone limp and dying in the air, the taste of the deep places riding in on the wind — all of it lying there naked under a sky it was never supposed to meet. Off to the south she passed a wreck she knew — knew *personally*: the hull she'd wormed through as a little girl, the drawer the brass key came from. She didn't let herself look at it longer than a stride. She pressed her hand flat against her pocket, key under her palm, and kept walking.
+Walking out across the seabed was like walking through her own bedroom hung upside down. This was *her* world — the ribbed sand, the stones with their weed gone limp and dying in the air, the taste of the deep places riding in on the wind — all of it lying there naked under a sky it was never supposed to meet. She passed a wreck she knew. Knew *personally*. The hull she'd wormed through as a little girl. The cabin. The drawer. The brass key that had lived in her pocket ever since. It lay tipped over in the open sun with its ribs bleaching, and it looked smaller than she remembered, way smaller, and she understood something right then about what the surfacing actually meant, underneath everything else it meant. Nothing sunk got to stay private anymore. Not wrecks. Not keys. Not girls.
 
 The structure had a doorway, and the doorway had light in it, and then she was inside, in air that tasted like home — cool, mineral, half song — with maybe twenty of her people around her, and every one of them turned, and none of that mattered even slightly, because her eyes had already found the face in the center.
 
@@ -199,4 +199,12 @@ And her father's face — his careful, managed, weather-watched face — closed.
 
 She was. She was standing at the fence in the last of the light with Iggy — who had actually waited, all day, to his eternal credit, and who took one look at her face and for once in his life said nothing at all — when it came across the water.
 
-A second horn. From past the structure, past the waiting sea. From *below.* So low it arri
+A second horn. From past the structure, past the waiting sea. From *below.* So low it arrived in her ribs before it arrived in her ears. Nothing like her father's polite knock on the world's door — this was older, and colder, rolling up out of the trench like the ocean clearing its throat, and every light on the structure's long shell flickered once, all together, like a held breath.
+
+She knew the voice under that horn the way she'd known her father's face. Every child of the deep knew it. The way you know winter.
+
+The Abyssals had an answer. And her mother was bringing it up herself.
+
+---
+
+*Chapter 3, Draft 2 (Jul 10, 2026) — voice pass: rawer sentences, her anxious-then-clear pattern in the "And me?" beat (heart slamming, head screaming no, voice coming out clear — that's her). All beats kept: evidence not daughter, "both answers are yes," the sentries who know her, the wreck and key, the dark-lights trap, hook to Ch. 4. Father still unnamed — Abby names the parents. Clay.*

@@ -80,14 +80,21 @@ The theme, made fractal: humans don't know about the deep — and **the deep doe
 - **Where the failing comes from.** The thing letting go isn't IN the deep's cities — it's under them. The dark lights are the floors closest to it.
 - **Who's down there.** The pet's option C lives here: the original sentries, holding the door from below, running out of strength. And the too-old ruins (earlier cycle) suggest whoever built before the first people... might not be gone.
 - **The fractal rule (the keeper):** every layer's official story is too small — the frame said it about humans, Nerai proves it about the deep, and the deeper deep proves it about *everyone*. The series can descend one layer per book.
-Connects: the mother's climax turn, the pet's errand, the ruins, the failing. **Tim's read (Jul 10): this is the right direction — real conflict that explains how we got here, not just "we are hidden."** Held for Abby's riff before it becomes canon, but the current front-runner for the series' spine-deepener.
+Connects: the mother's climax turn, the pet's errand, the ruins, the failing. **Tim's read (Jul 10): this is the right direction — real conflict that explains how we got here, not just "we are hidden."** **ADOPTED as series direction ✓ (Jul 15, 2026) — Abby's verdict: "Love this. Great idea. Makes the most sense to me for direction going forward."** Now recorded in `arc.md`, paired with her secondary-villain idea (below).
 
-### Mom comes to help — at a climax (Tim's, Jul 10, 2026)
-The Abyssal mother — leader of *never*, author of *stay small* — breaks her own oldest law at a climax to stand with Nerai. Two-turn beat developed in `characters/her-mother.md`: first the shield (she steps between — her lifelong silent tell, finally public), then the release (she steps aside and lets her daughter be seen full size). Closing line candidate: *for the first time in her life, her mother stood behind her* — both meanings at once. Best placement: Book 1's climax (Ch. 20–21); the political cost to her becomes a Book 2 engine. Abby: placement and the words she says (if any) are yours.
+### The one above Phorcys — a worse villain behind him (Abby's, Jul 15, 2026 — ADOPTED as direction)
+Her riff, verbatim: *"on top of phorcys there should be a secondary villain that's even worse. (Whether that be ancient stuff and not a specific person or someone nudging the things to happen???) Maybe they have to team up later like redemption."* Folded into `characters/phorcys.md` ("The one above him") and `arc.md`. Open: person, force, or a force with a servant — and does her name-floater "Kairius" belong to it?
 
-### Behind the jovial demeanor (Iggy's parents — parked Jul 10, 2026, may never fire)
-Tim's instinct: Iggy is an only child *so he thinks*, and there may be more under his parents' relentless warmth. Three flavors in `characters/iggys-parents.md`: a child before Iggy; they've seen the impossible before (which would explain a fire-carrying son from an ordinary house); or — the anti-twist — they're exactly what they seem, the only people in the book with no secret at all. Rule while parked: write them so all three stay possible. Warmth first.
+### Mom comes to help — at a climax (Tim's, Jul 10, 2026 — PLACED ✓ Jul 15)
+The Abyssal mother — leader of *never*, author of *stay small* — breaks her own oldest law at a climax to stand with Nerai. Two-turn beat developed in `characters/her-mother.md`: first the shield (she steps between — her lifelong silent tell, finally public), then the release (she steps aside and lets her daughter be seen full size). Closing line candidate: *for the first time in her life, her mother stood behind her* — both meanings at once. **DECIDED (Jul 15, from Abby's two notes reconciled): Book 1's climax (Ch. 20–21), and she SURVIVES — Abby's tone-ladder rule ("save any character deaths for book two") holds her possible death for Book 2, where the political cost of breaking the law can collect.** The words she says (if any) are still Abby's.
 
----
+### Names from Abby's Jul 15 round (shortlists — naming session with her to lock)
+- **Phorcys — CONFIRMED ✓** ("Phorcys is good for the villain"). Her floater **Kairius** kept — maybe the one above him, or the elder who taught him.
+- **Mom:** Scylla, or Maryn. **Dad:** Cyreus, Aenon, or Aquilus. (On their character files.)
+- **School town:** "should have a name. Something kind of normal to emphasize the eccentricity of the school in comparison" — her call, adopted as the naming principle. Candidates to riff at the session.
+- **The twins (coat girl pitch):** "names of each could correspond to their gifts" — she'll bring names.
 
-*These are ideas, not decisions. Say "develop [the bridge body / the love thread / the magic / the silver-spoon antagonist / …]" and we'll build it out and try it against the story.*
+### The deep's holidays — one per act (Tim's, Jul 15, 2026 — built in `holidays.md`, names are YOURS to wreck, Abby)
+Your people have a calendar now, grown from light and memory, and each act of Book 1 rides one of its feasts:
+- **The Receding** (their July 4th + end of school year): the day the post-Flood waters drew back and the deep became theirs. Pressure-song fireworks; kids recite the Law for the first time. **The rising in Ch. 1 happens ON it** — the Pelagics pulling the sea back on waters-drawing-back day, as a statement.
+- **Longlight** (their Christmas-and-Thanksgiving): the whole family REQUIRED home, an empty place set for anyone who can't come; the naming of thanks, youngest first; gifts are **grown lights** raised 

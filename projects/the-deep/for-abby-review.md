@@ -1,40 +1,30 @@
 # For Abby — Review Round 1
-*(Four pieces are ready for your eyes: the Prologue, and Chapters 1–3 in `story.md`. Nothing is locked. "I hated this part" is exactly as useful as "I loved this part" — more, usually. Mark anything, but here are the questions we most want your take on.)*
+*(UPDATE Jul 15, 2026: YOU ANSWERED EVERYTHING — all 15, plus the big swings and the bigger asks. Every answer landed: three chapters re-edited to your notes, two ideas adopted as series canon, your villain name locked. What's left below: the handful of NEW questions your answers opened up. The answered originals are archived at the bottom for the record.)*
 
-## The Prologue (world-frame)
-1. The storyteller withholds two things on purpose — the "third thing" failing in the deep, and what Nerai really is. Does the withholding make you want to keep reading, or does it feel like being teased?
-2. The rumor paragraph (sonar clips, the fisherman) — does it feel like our world's actual internet, or too cute?
-3. Would you read past page 3? Honest answer.
+## Round 1.5 — new questions (your answers caused these, so they're yours too)
 
-## Chapter 1 — Dry Land
-1. Do you like Nerai by the end of page one? What's the exact line where you started liking her (or didn't)?
-2. Her face ("look a half-second too long... name a town she'd never seen") — your idea, executed. Did we get it right? Too subtle, too obvious?
-3. "Some of the lights didn't come on." — did you notice it on first read, or skim past? (Either answer is useful — it's meant to be almost missable.)
+1. **The twins snag (from your coat-girl pitch — which we love).** The coat girl already has a gift on the page: she warms cups between her palms (Ch. 1 & 2), and the house rule is one gift per kid. So pick:
+   **(a)** the *finder* is a NEW character — the never-lost kid's actual twin — and she joins the found family alongside the coat girl (costs nothing on the page, gives us one more kid for Ch. 9), or
+   **(b)** we rewrite Ch. 1–2 so the coat girl's gift was always the finding, and someone else warms the cocoa.
+   Dad's lean: (a). Your call.
 
-## Chapter 2 — The Secret Out
-1. The fisherman on TV — this is your rumor idea on screen. Does his moment land, or does it need to be bigger/smaller?
-2. The lie ("No," and how easy it came) — is that the right amount of guilt, or should it cost her more on the page?
-3. Iggy keeping the secret "loudly" — funny or annoying? Be honest, he can take it.
-4. The girl who lent the coat is unnamed on purpose — she's yours to cast. Who is she? Name, gift, one habit.
+2. **The second villain — person, force, or both?** You said someone/something worse than Phorcys, "ancient stuff... or someone nudging the things to happen???" It's adopted. Now: is it a *someone*, a *something*, or a something with a servant? And does your name **Kairius** belong to it — or to the elder who taught Phor?
 
-## Chapter 3 — Her Father's Face
-1. "Both answers are yes." — Is her father cruel, sad, or something else? What do YOU think he means? (There's no wrong answer — but your answer decides how we write him from here.)
-2. The sentries recognizing her face — creepy in the right way, or confusing?
-3. The wreck she took the key from, lying in the sun — does that beat hit? It's meant to hurt a little.
-4. Her mother is about to come up (Ch. 4). One sentence: what do you want that reunion to feel like?
+3. **Names to lock at the naming session** (bring your picks): Mom — Scylla or Maryn? Dad — Cyreus, Aenon, or Aquilus? The school town — you said "something kind of normal" (great rule): got a shortlist? And the twins' gift-names?
 
-## THE BIG SWINGS — new ideas from Dad, all waiting on your verdict
-*(These grew after the chapters were drafted. Book 1 stays LIGHT — every one of these is a way to go darker book by book, not now. React to each: love it / change it / kill it.)*
+4. **NEW since your round — the holidays.** Dad built your people a festival calendar (`holidays.md`, now on the site): their Christmas/Thanksgiving (**Longlight** — thanks + family + grown lights), their Easter (**the Drowning → the Risen Morning** — the Flood kept as death-then-resurrection), their July 4th (**the Receding** — the waters drawing back; the rising in Ch. 1 happens ON it). All names are placeholders. Rename them, wreck them, and answer: what do eight-year-olds do on the Drowning night when they're supposed to be solemn?
 
-1. **The narrator is Iggy — grown up, after everything.** The voice that opens the book (reread the new Prologue!) is Iggy years from now: funnier, sadder, telling her story to the world. He never says his name — there are hidden clues ("I knew that one personally; he was an idiot"). **Your call: when does the reader find out — end of Book 1, Book 3, or never?**
-2. **The pet's secret (its page has the full story).** It's a leviathan runt with a real MIND — and a motivation Nerai only learns over time: the great beasts were partners once, sentries of the line between worlds, and it came back because the old post needed filling. And at the end of Book 2... it might become something a LOT larger. Four versions on its page — pick, stack, or wreck them.
-3. **Mom comes to help — at a climax.** The leader of *never* breaks her own law in front of both worlds: first she shields Nerai, then she steps aside and lets her be seen full size. "For the first time in her life, her mother stood behind her." Both meanings. Where should it land — Book 1's climax, or saved?
-4. **There's more to the deep.** What if the Abyssals aren't cowards but WARDENS — standing guard over something below the trench cities that nobody talks about? The failing comes from down there. The series descends one layer per book. (This one reframes the whole faction fight — Dad thinks it's the front-runner. Argue with us.)
-5. **The tone ladder.** Book 1 light — wonder, friendship, first contact. Each book darker as the real answers surface. Does that match the vibe you wanted when you asked about high/low/dark fantasy?
+5. **NEW since your round — the town kids.** A small group of ordinary local teens (no gifts, no school) that you-know-who and Iggy meet in Act I — and one of the boys matters to Nerai, which Phor eventually finds out about, badly (`characters/town-kids.md`). Casting is yours: how many, names, and what does the boy notice about her first?
 
-## Bigger asks (whenever you're ready)
-- **Casting session:** the found family — 3–4 kids around Nerai (Ch. 9 needs them). The coat girl is one slot.
-- **The pet:** what followed her up? (Ch. 10 is waiting.) What is it, its name, why it couldn't stay.
-- **Names:** the two cities (trench city + does the school town get a name?), her parents, and confirm the villain's name — current pick is **Phorcys ("Phor")**, alternates: Cetus, Glaucus, Pontus.
+---
+
+## Archived — Round 1, answered Jul 15, 2026 ✓
+
+**Prologue:** withholding OK, but talk about the failing early with clues ✓ *(seeded Ch. 1–2 on, + the Vigil imagery)* · rumors paragraph works ✓ · would read past p. 3 "with editing" ✓ *(tightening pass scheduled)*
+**Ch. 1:** likes Nerai — the "looking not right and feeling not right too" paragraph ✓ · face quirks right ✓ *(+ her 4 line notes from the Book tab: all applied in Draft 7)*
+**Ch. 2:** fisherman right-sized ✓ · guilt right for now, builds over time ✓ · loud Iggy funny, clarified ✓ · coat girl → the twins pitch *(see Q1 above)*
+**Ch. 3:** "Both answers are yes" = he missed her too, but the mission takes precedence; reassurance + guilt ✓ *(canon on his file)* · sentries should recognize MORE than her face ✓ *(Draft 3: her seabed walk, the courtesy-stillness)* · wreck beat → moved to midpoint ✓ · Mom's reunion: "more cold, like business, but I do think her mother feels guilty as well" ✓ *(canon on her file)*
+**Big swings:** Iggy-narrator → late-series reveal ✓ · pet's secret ✓ · Mom's climax stand → Book 1, she survives; deaths saved for Book 2 ✓ · wardens/deeper deep → ADOPTED ✓ · tone ladder confirmed ✓
+**Bigger asks:** pet = childlike name, total secret, she told it to leave ✓ *(canon on its file)* · Phorcys CONFIRMED ✓ · parent/town name shortlists recorded ✓
 
 *— Dad & Claude*
