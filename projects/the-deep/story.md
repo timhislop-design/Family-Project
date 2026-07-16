@@ -208,3 +208,425 @@ The Abyssals had an answer. And her mother was bringing it up herself.
 ---
 
 *Chapter 3, Draft 3 (Jul 15, 2026) — Abby's review round 1: sentries now recognize more than her face (her seabed walk, the courtesy-stillness — things "only they'd recognize," her note); the wreck beat trimmed to a passing glance — the full gut-punch ("nothing sunk gets to stay private") moves to the midpoint, tied to news that home is failing, per her call. Her reading of "both answers are yes" is now canon — see `characters/her-father.md`. Father still unnamed — shortlist from Abby: Cyreus / Aenon / Aquilus. Clay.*
+
+---
+
+## Chapter Four — The Deep Answers
+
+Her mother came up the old way: no shell, no lights, no horn to warn anybody. Just fourteen grey figures walking up out of the waterline in the hour before sunrise, like they'd been standing on the bottom all night waiting for the light to be worth it — which, knowing her mother, was exactly what they'd been doing.
+
+Nerai didn't see it happen. Almost nobody did, except one man out running with his dog, whose video shook so badly the internet had to steady it before it could decide to be terrified. By breakfast every channel had the two arrivals side by side: her father's city standing up out of the trench in rows of light, like a parade — and then this. Fourteen people. No parade at all. The experts liked the parade better. A parade, one of them said, at least wants to be seen. Nobody on the panel would say out loud what the second kind wanted, so they cut to weather.
+
+She knew what it wanted. She'd been raised by it.
+
+The sentry came to the wire at noon and asked for her by name.
+
+Not *the girl from the school.* Her name — her actual name, in her actual language, with the note in the middle of it that air always flattens out — and the guard at the gate did what all humans did when the deep spoke: looked left, then right, hoping it was addressed to somebody else. It wasn't. School staff appeared out of nowhere, four adults talking at once about custody and permissions and precedent, and through all of it the sentry just stood in the wet sand being older than the argument, until Coach Reyes came through the crowd with the clipboard he never looked at and said, "I'll walk her."
+
+They walked. The tide zone smelled like home again, silt and cold and far-down places, and she hated how much she loved it.
+
+"You don't have to go in," Reyes said at the last barrier.
+
+Which was a strange enough thing to say that she stopped. Not *you'll be fine.* Not *we're right behind you.* You don't *have* to. Like he knew exactly what kind of room she was about to walk into — the kind where you're an agenda item.
+
+"Yes I do," she said, and he nodded, once, like she'd passed something, and that bothered her the whole rest of the day, every time she had a spare corner to be bothered in.
+
+Inside, the shell's grown light had changed since her father's night. Dimmer. She thought it, and then she unthought it, fast, the way you step back from a ledge.
+
+The Pelagic elders stood on one side with her father at their center. The Abyssals stood on the other, fewer, greyer, stiller — and in the middle of that line, her mother.
+
+Here's what three hundred and six days does to a person: Nerai had practiced this face too. Practiced missing it, practiced meeting it, practiced being fine in front of it. The real one still went through her like cold water down the wrong pipe.
+
+Her mother looked at her one beat too long. Everyone did that — strangers in town did it, teachers did it. But her mother had invented it.
+
+"Nerai," her mother said.
+
+Her father had said her name like a thing confirmed on a list. Her mother said it the way it was built to be said — in the old language, with the note in the middle of it that air flattens out of everyone else's mouth, the note nobody had said right in three hundred and six days — and the shell full of elders heard a leader acknowledge a citizen, and Nerai heard her mother forget, for one entire second, to be anything else.
+
+Then the second ended, and business sat down where it had been.
+
+"You've grown." Like a measurement. Like data being updated in a file. Her hand came up half an inch off her sleeve and went back down, and if you blinked, you'd have missed the only hug on offer.
+
+Then she turned to the room, and Nerai learned what she'd been brought there to be. Her father had presented her as proof it could be done. Her mother presented her as the indictment. "My daughter has been ashore three hundred days," she said, in the register for records, to the Pelagic side of the shell. "You hid one child, carefully, at enormous cost, and you call it proof. Now you propose to unhide a civilization." She let the silence do the math. "You have all forgotten what the dark is for."
+
+And nobody asked her what the dark was for.
+
+That was the part Nerai kept. Not the arguing — the Pelagics argued with numbers, with maps, with the surface's readiness, and her father conducted it all in his managed way. The Abyssals didn't argue at all. They corrected. The way you'd correct somebody about your own house. Her father's side talked like people who believed something. Her mother's side talked like people who *knew* something — and wouldn't say what — and the difference between those two sounds made Nerai's teeth hurt, and scared her worse than the horn had, and she couldn't have explained that to anyone, so she didn't try.
+
+And through all of it, every time the argument shifted and the bodies in the shell re-arranged themselves the way bodies do, her mother ended up — somehow, without ever seeming to move — between Nerai and the Pelagic elder with gold at his brow.
+
+Probably nothing. She put it on the shelf. The shelf creaked.
+
+Near the end, they stopped using words.
+
+She'd known they would — it's how the old arguments finish, both sides taking it into the formal song, where you can't lie as easily because the water carries too much of you along with the words. But they weren't in the water. They were in air, in a grown shell on a bared beach, and song dies in air — it goes thin and small like everything else from home. Everyone knew that the way you know the sun comes up.
+
+The two songs met in the middle of the shell, argument against argument in the oldest register, and the sound — there's no way to say this that would have made sense to anyone at school — the sound *found her.* Went through her like she was a doorway somebody had left open. For one second the whole shell heard the deep the way the deep hears itself, full and enormous and wet, ringing out over the dry flats where it had no right to exist. The grown lights guttered, all of them, like a flame in a draft.
+
+Then it was over, and the shell was just a room again, and both her parents were looking at her in the same instant with the same face.
+
+Her parents agreed on nothing. That was rule one of her entire childhood — the sun came up, water was wet, her parents agreed on nothing. And there they stood, agreeing. About her.
+
+"What," said one of the elders, "was that?"
+
+"The city is old," her father said, which was becoming his answer to everything. Her mother said nothing at all. She just moved, without seeming to, until there was a little more of her between Nerai and the rest of the room.
+
+Her mother walked her back to the wire herself. Business, presumably. Protocol. Six feet of formal distance the whole way, and the sentries falling in behind like the tide. At the last barrier her mother stopped, and looked past her, up the hill, at the school — looked at it for a long moment, longer than she'd looked at anything in the shell.
+
+"Which window is yours?"
+
+Nerai pointed before she thought to ask why.
+
+Her mother studied the window the way she hadn't studied anything else all day. Filed it. Turned back toward the sea. "Eat something before you sleep," she said, and walked into the water without one splash, because of course she did.
+
+It took Nerai three hallways to understand what had happened, and then she had to stand still in the third one for a minute, with her hand flat on the cold wall.
+
+Her mother had wanted to know where to aim her worry. That was all. That was *everything.* Cold, like business — and underneath the business, aimed at one lit window on a hill, that.
+
+Iggy found her at dinner, vibrating. He'd watched the entire thing from the seawall through a pair of binoculars he described as "borrowed, philosophically" from a kid in town, and he gave her the whole parley back as color commentary — the formations, the staring, "your dad's side has better uniforms but your mom's side stands like they know where the exits are, no offense." Then, quieter, sliding his tray next to hers without asking: "The shell did the thing, by the way. Right near the end. The light-flicker thing." A sideways look, a beat too long. "The thing your hallway does."
+
+"Iggy."
+
+"Noted and filed," he said, and mimed turning a key at the corner of his mouth, and didn't ask one single question — and she sat there next to the only person on dry land who'd earned the truth, not telling him, and hated exactly one person at that table, and it wasn't him.
+
+No horn came that night. The silence had a decision in it.
+
+Down in the town, somebody spent the evening hanging little electric lights along the harbor fence — winter lights, weeks early, straight rows of them burning steady over the water like a spell against the dark. Civilization continuing, Reyes would've called it. And on the late replay of the rising — they showed it every night now, the way you rewatch a thing you don't believe yet — she counted the dark windows in her father's beautiful city again.
+
+The number was bigger than the first night. She checked twice. Then she put it on the shelf, and the shelf took it without a word, because by now the shelf was holding exactly one kind of thing, stacked in a column like numbers in the back of a notebook, adding up to something nobody would say out loud.
+
+Five days to Longlight. At home, they'd be starting the places. She fell asleep trying to remember whether her chair — hers, the one at the low end of the table — had a squeak in it or not, and couldn't, and that was the worst thing that happened to her that day.
+
+Which, given the day, was saying something.
+
+---
+
+*Chapter 4, Draft 1 (Jul 15, 2026) — Abby's Ch. 4 spec executed: reunion cold-like-business, guilt underneath ("Which window is yours?" — she's aiming her worry), the positioning tell planted twice. Mom's greeting (Tim's call, Jul 15): her name said RIGHT — the note her father's ledger-voice left out — one second of mother, then "You've grown" and business. First leak: the song crossing into air THROUGH her, witnessed by both parents (agreeing — the fixed star broken) and clocked by Iggy from the seawall. Failing clues: shell dimmer, dark windows increasing, "what the dark is for" (wardens mood). Longlight countdown starts. Clay.*
+
+---
+
+## Chapter Five — The Quiet School
+
+The grown-ups started arriving two days later, in cars that were trying very hard to be boring.
+
+That was the tell, Iggy said, and for once he was right about something before breakfast. Ordinary visitors drove ordinary cars and you never noticed. These were *aggressively* ordinary — grey, clean, four doors, nothing to see here — and they came one at a time, hours apart, the way you'd arrive if you'd spent your whole life practicing not arriving anywhere together.
+
+The quiet schools were convening.
+
+By the weekend the guest wing was full of adults who all had the same way of standing — near walls, backs to nothing — and exactly one impossible thing each, which they were all much too polite to mention. There was a woman the crows followed from window to window, politely, like staff. There was a man who was never in the room when you looked up, and always in it when you looked back. There was a small ancient teacher from somewhere inland who spoke no English and didn't need any: whatever she said, you understood it, and Nerai heard two teachers arguing about whether that counted as a language or a weather event.
+
+Nobody would say what they were meeting about. Which, at a school where every kid had spent their whole life not being mentioned, told everyone everything.
+
+"They're deciding something," said the never-lost girl, at lunch, with the certainty of someone whose thing had come back after a bad morning. "Buildings feel different when a decision's in them."
+
+The building felt like held breath. Nerai gave it three days. She made it one and a half.
+
+The gap was behind the boathouse, where the fence had learned to look the other way — a post gone soft at the base years before anyone alive had noticed, so it leaned when you asked it to and unbent when you were through. She'd found it in her second week ashore, back when she'd needed at least one door that didn't have a hallway behind it. She was halfway through it, Iggy complaining his way through behind her, when she came face to face with a flashlight.
+
+"This is our spot," said the flashlight.
+
+There were three of them, sitting in the dune grass on the school side of the fence like they'd bought tickets: a girl wrapped around a thermos the size of a fire hydrant, a small kid holding the flashlight with both hands, and a boy about her age with a tackle box on his knees, watching her the way you watch weather come in.
+
+"It's inside our fence," Nerai said.
+
+"Your fence has a hole in it." The boy didn't move. "Holes are public. That's the law."
+
+"That is not the law," Iggy said.
+
+"You go to the weird school," the small one said, aiming the flashlight at Iggy like a badge. "Is it true you've all got tails?"
+
+"We've — *what?*"
+
+"Kelly's brother says the school's where they put the kids with tails."
+
+"Kelly's brother," said the boy, unmoved, "also says the sea people took his cat. His cat is at the gas station. Everyone has seen the cat." He tipped his chin at the water, at the structure glowing its patient green half a mile out on the flats. "We're here for the view. You can have the hole when we're done with it."
+
+And that was it. That was the whole negotiation. They weren't afraid of her and they weren't curious about her — they hadn't looked at her twice, either of them, because there was a *much* weirder thing than a strange-faced girl out on the water, and everyone finally had their eyes on it instead. Something in Nerai's chest unclenched a muscle she hadn't known was flexed. For three hundred and seven days she had been the most unusual thing in every room. It turned out you could retire from that. It turned out all it took was an apocalypse.
+
+They stayed an hour. She learned things.
+
+She learned the girl was called — by the other two, anyway — Thermos, "because ask her what's in it, go on," and that what was in it changed daily and was never, ever cocoa when you guessed cocoa. She learned the small one was the boy's cousin and would repeat anything you said to the entire town by morning, "so talk accordingly." She learned the boy's family had fished that coast for four generations and that his dad's boat had been sitting on its trailer for two weeks now, useless, because the sea it worked was standing half a mile away looking at something.
+
+"So we're having a bonfire Thursday," the boy said, like it followed. "On the dry flats. Dad says if the ocean's not using the beach, we are. Whole town's coming. The world can end after." He looked at Nerai when he said it — at her, not past her — and added, "You should come. Bring the arsonist."
+
+"I'm not an arsonist," Iggy said, too fast, with the specific panic of a boy sitting on a pocketful of fire in front of civilians. Nerai watched him strangle his own gift down into stillness — watched him do a clumsy, sweating, five-minute version of what she had done smoothly for three hundred days — and filed *that* away too, somewhere warmer than the shelf.
+
+"Sure," the boy said. "You've got a face like an arsonist."
+
+And Nerai laughed.
+
+It came out before she knew it was in the building — a real one, loud, unpracticed, embarrassing, the kind you can't take back — and everyone looked at her, and Iggy looked at her *longest*, like something had walked past him that he'd been waiting at a window for. She put her hand over her mouth. Too late. Somewhere in her chest the laugh went on without permission.
+
+"She does have a face like an arsonist," she said, from behind her hand.
+
+"Thank you," said Iggy and the boy, at the same time, in opposite tones.
+
+Later — the light going, Thermos decanting something that steamed and was apparently "soup, obviously, why would I bring cocoa to a beach" — the boy sat back on the dune grass and watched Nerai not-watch the water.
+
+"You look at it like it owes you money," he said. Quietly. Just to her.
+
+She kept her eyes on the structure. "Maybe it does."
+
+"Yeah." He picked a stone out of the sand, turned it over, put it back where it had been, which she would think about later without knowing why. "It owes everybody around here money. Join the line."
+
+He didn't ask where she was from. He didn't ask about her face. He had no idea there was anything to ask — no gift, no school, no file — and for one hour, in the gap behind the boathouse, Nerai got to be what she had never once been on either side of the water: nobody's anything. A girl at a fence. It was the best hour she'd had in three hundred and seven days, and she walked back in through the dark fully intending to float on it until morning.
+
+She made it as far as the corridor outside the visiting staff's wing.
+
+The door was propped — somebody's coat over the latch, adults being careless the way adults got when kids stopped being the biggest thing in the building — and the voices came through the gap in the polite, flattened tones of people disagreeing in front of strangers.
+
+"— girl already ashore is the only precedent that matters." A woman's voice, one of the grey-car people. "Three hundred days among children, undetected. That's not a rumor, that's a *study.* I'd like to know who ran it."
+
+"She isn't a study." That voice she knew. That voice ran laps and said *hydrate* and had said, four days ago, *you don't have to go in.* "She's a student."
+
+"She's a precedent, Coach, and when this goes wrong she'll be the first thing both sides point at—"
+
+"When it goes wrong."
+
+"*If.*" Papers moving. "Nobody's blaming a child. But the timing won't sit still — enrollment's being asked for before their feast day, we've said yes to the children coming up, and meanwhile the readings underneath — " a chair, scraping — "the outages below are *spreading*, and until someone can tell me why—"
+
+Somebody closed the door properly.
+
+Nerai stood in the corridor with her back against the cold wall, doing the thing where her face did nothing. *The girl already ashore.* Not her name. Her *file.* They'd known — not suspected, known, long enough to argue about it in the calm voices people used for old arguments. Reyes had known. *She's a student* — he'd said it like a man holding a door flat against a wall, and she couldn't decide, standing there in the dark, whether that made him the one adult defending her or just the one who'd been assigned to watch her the longest.
+
+And underneath it, lower than all of it, filed by whoever kept the grown-ups' shelf: *the outages below are spreading.*
+
+They knew about the lights. The humans knew about the lights. Everyone, on every side of every fence, knew about the lights — and every single one of them, her mother, her father, the school, the grey-car people, had decided the children didn't need to know what the dark was doing.
+
+She went up to her room. The key was on the sill; the notebook was in the drawer; the town's winter lights burned in their straight little rows down along the harbor, and past them, way out, the structure pulsed its slow green heartbeat over the flats where Thursday there would be a bonfire, because the world can end after.
+
+Four days to Longlight.
+
+It was the first thing anyone had invited her to in three hundred and seven days that didn't need her to be anything at all. She fell asleep deciding what a person wears to a bonfire, on a seabed, at the end of the world.
+
+And because the hour had been that good, she never once stopped to wonder about the obvious thing: a boy who noticed everything had noticed *her*, noticing the water — and hadn't told anybody. Not even the cousin. Who repeated everything.
+
+---
+
+*Chapter 5, Draft 1 (Jul 15, 2026) — the town kids enter (Abby casts names later; "Thermos" is the kids' own nickname, keepable or not): the fence-gap collision, holes-are-public, the tails rumor, the bonfire invitation. The laugh (first in 300+ days) lands mid-chapter; Iggy hears it and something walks past his window. The boy's tell: "you look at it like it owes you money" + he notices and says nothing. Iggy forced to hide HIS gift = five sweaty minutes of Nerai's whole year (the mirror, unspoken). Truth engine: "the girl already ashore" overheard — she's a file, Reyes defends her ("she's a student"), and the grown-ups' shelf drops "the outages below are SPREADING" (failing clue, per Abby's early-clues note). Longlight countdown: 4 days. Clay.*
+
+---
+
+## Chapter Six — Enrollment
+
+They came up the beach at first light, two days before Longlight, carrying almost nothing — which was how Nerai knew the deep meant it.
+
+Twelve kids. One woven case each, pale and ribbed and slightly alive-looking, the kind of luggage you grow instead of pack. No parents. No guards that admitted to being guards. Just twelve children of the deep walking up the human beach in a loose line with the whole world's cameras shaking at the wire, coming to school. A gesture of good faith, the news called it, and for once the news had it right — that's exactly what it was, in the old sense, the sense with teeth. *We are handing you the thing we cannot afford to lose. Be worth it.*
+
+And they'd timed it, she realized, watching from the window with her forehead on the cold glass. Two days before the feast. The deep would never — *never* — send its children somewhere they couldn't keep Longlight. Which meant the elders expected the feast to be kept ashore, in a human building, at a human school that had no idea what was coming.
+
+Somewhere below her the kitchen staff were about to have the week of their lives.
+
+The school processed them in the gym, at a folding table, because the end of ten thousand years of secrecy still has to happen somewhere, and apparently where it happens is a folding table with a laminated sign that says ENROLMENT and a woman named Mrs. Casterline with a ballpoint pen.
+
+Nerai stood in the doorway of the gym with Iggy, officially to "help orient," actually because nothing on any coast could have kept her away, and watched Mrs. Casterline meet the deep.
+
+"Name?" said Mrs. Casterline.
+
+The first kid said his name.
+
+It had two notes in it. It rose in the middle like a question that wasn't one, the way names do at home, the way the water says them back to you — and Nerai heard it land on the gym's dead air and die there, flattened, all its lift gone, like a fish on a dock. Mrs. Casterline's pen hovered. She was a kind woman. You could see her trying.
+
+"...Could you spell it?"
+
+You couldn't. Not in anything the pen knew. What followed was ten minutes of negotiation that Nerai would remember, privately, as the actual first-contact event — the boy singing his name slower, Mrs. Casterline making sounds like a kettle, until finally, defeated and gracious, she wrote down what she'd heard: *Loro.* Which was not his name. It was the wreckage of his name, after the air got done with it. The boy looked at the little card she gave him — his own name, garbled into something a mouth up here could hold — and Nerai waited for the flinch.
+
+He grinned. He held the card up to the others like he'd won something. And the line of the deep's children — solemn, formal, briefed within an inch of their lives for this — cracked up. It became, instantly, the game: what would the air leave of you? Names went into the kettle of Mrs. Casterline and came out the other side as *Sela, Brim, Ondi, Tach* — each one greeted with hoots, worn immediately, like nicknames issued by the ocean itself. It was the first time Nerai had ever seen the surface take something from the deep and the deep laugh about it.
+
+"What would mine be?" Iggy whispered, watching, rapt.
+
+"Yours is already like that," she said. "Iggy is what air does to a name."
+
+"...I'm going to think about that forever."
+
+Then the girl at the table said her name, and Nerai stopped breathing for a second, because she knew it. Knew it before the air flattened it. Knew it the way you know a voice through a wall — from home, from before, from a courtyard grown out of light where two small girls had once been told to stop singing so loud and had absolutely not stopped.
+
+The girl turned around while Mrs. Casterline was still writing — *Perla*, the pen decided, which was wrong, and prettier than it had any right to be — and looked straight at Nerai like she'd known exactly where she was standing the whole time.
+
+They didn't run at each other. You don't, at home. The girl crossed the gym at a walk, formal, hands correct, every inch the daughter of whoever she was the daughter of now — and then at the last step she took Nerai's wrist in the home way, cool fingers over the pulse, *I feel you living*, and Nerai's whole year came loose at one seam.
+
+"Look at you," the girl said in the old language, soft, so the room stayed out of it. Her face was doing three things at once and managing none of them: glad, and guilty, and *checking* — eyes flicking over Nerai's shoulder, at exits, at adults, at the doorway, before coming back. "Three hundred days. They wouldn't tell us anything. They—" The seam in her voice, too. Then, quieter, so quiet it barely survived the trip: "They told us not to know you."
+
+"...Who did?"
+
+But Mrs. Casterline was calling the line forward, and the girl squeezed her wrist once — *later, promise* — and went back to being formal, and Nerai stood there holding the sentence like she'd been handed something with a lit end. *Told us not to know you.* Not *don't upset her.* Not *give her room.* Don't *know* her. There was an instruction in the deep, from someone, about her — and it had come up the beach wearing her oldest friend's face.
+
+The shelf was going to need a bigger wall.
+
+Phorcys arrived last, and the gym noticed.
+
+He came up the beach alone, out of the sea's own good time, in formal grey with gold at the brow, and by the time he reached the folding table three teachers had already decided he was the most reassuring thing they'd seen all month. You could watch it happen. He was tall, and he was beautiful the way official things are beautiful, and he shook Mrs. Casterline's hand like the two of them were jointly founding an era — which, to be fair, they sort of were.
+
+"Phorcys," he said, when she asked. And then, with a smile that gave the whole room permission to relax: "The old way, it's 'FOR-sis.' But please — say it however it comes. I answer to nearly anything."
+
+The room said it however it came, immediately and forever. *FOR-kiss,* mostly. Teachers, kids, eventually the television. He never corrected anyone, not once, and the school thought that was gracious, and Nerai stood in the doorway getting angrier and angrier without being able to say why — like watching someone let a little kid win at cards, over and over, all afternoon. On paper it's nice. On paper it's the nicest thing in the room. She couldn't have written one sentence of complaint about it that didn't sound insane, and he knew that, and that was the whole trick. Your name is the oldest thing you own. Hers had a note in it nobody up here could say, and it cost her something every single day. And here was Phorcys, letting a room full of land dwellers wear the wreck of his name like it was a gift he'd given them — because it *was*, and gifts from him meant a bill was coming.
+
+Then it was her turn, apparently.
+
+"And you must be the famous local," he said, arriving in front of her with his hand out, warm as noon. She watched him clock her face — the set of her eyes, the sharp under her cheeks — the way the sentries had, but for longer, and *enjoying* it, like a kid finding the rare card he already knew was in the pack. "Nerai."
+
+He said it in the formal register. The one for records. Two notes, perfectly placed, the register her father had used in the shell — *present, accounted for* — and nobody else in that gym even flinched, because to them it was one more pretty foreign word in a morning full of them.
+
+She heard it the way it was aimed. *You're in a file, and I've read it.*
+
+"Welcome to the school," she said, in air, flat, and did not take the hand.
+
+"So I'm told," said Phorcys pleasantly, taking the hand back like it had never mattered, and moved on down the line, gracious to every land dweller he met — and above the gym's high windows a whole row of gulls, which had been screaming at each other all morning the way gulls do, went silent, all together, and stayed that way until he'd passed.
+
+Nobody noticed. Nobody ever noticed. She added it to the shelf, next to the sentence with the lit end.
+
+The rest of the day was chaos of the better kind. Twelve kids from the bottom of the sea meeting central heating, doorknobs, fizzy drinks, staircases — "we have stairs at home," said the boy called Loro, offended, and then rode the banister with the dignity of a diplomat. The vending machine got a formal bow from a small girl who could not be convinced it wasn't alive, and honestly, given the noises it made, Nerai took her side. Iggy appointed himself cultural attaché to the entire delegation, loudly, and was a catastrophe, and was perfect — by dinner half the deep kids were doing his laugh back at him, which is friendship, in any language, at any depth.
+
+It was also at dinner that Iggy heard her name.
+
+Perla said it across the table — just passing the salt, just her name, the way it was built to be said, two notes and the lift in the middle — and Iggy put his fork down.
+
+"Say that again?"
+
+Perla said it again. Iggy looked at Nerai the way you look at a picture that's hung in your hallway for a year, the day somebody finally turns the light on over it. "That's your *name?* That whole — that's been your name *the entire time?* What have I been saying?"
+
+"Air," Nerai said. "You've been saying what air does to it."
+
+He spent the rest of dinner trying to learn the note. He was terrible. He was legendarily, scientifically terrible — the deep kids' end of the table began quietly awarding points — and he kept trying anyway, jaw set, the exact way he'd held the fence line the day she went past the wire, until on approximately the fortieth attempt he produced something that was not her name but was, Perla ruled solemnly, "at least in the water," and the whole table cheered, and Nerai laughed for the second time in three hundred and nine days.
+
+Same note, three mouths, one day: Phorcys had said her name like a file he'd read. Perla said it like home. Iggy couldn't say it at all, and tried harder than both of them put together — and if she was keeping score of anything anymore — and she was, she could admit that to exactly nobody — that one counted double.
+
+It was at dinner, too, that the little one — Tach, six, maybe seven, the youngest they'd sent — answered the question that nobody had thought was a question.
+
+"Why'd your family pick you to come up?" Iggy asked him, friendly, passing bread. Small talk. The kind of thing you ask a kid.
+
+"It was our turn," Tach said.
+
+And ate his bread.
+
+And the girl the pen called Perla changed the subject at a speed that Nerai would have missed one year and eight days ago, before she'd spent three hundred days learning exactly what it looks like when someone guards a door — a bright question about the fizzy drinks, aimed at Iggy, who bit like a fish because he always did. Table noise closed over the moment like water.
+
+*Our turn.* Turn implies rotation. Rotation implies a system. A system implies somebody, somewhere, keeping a list of families and going down it — for *what* — and every adult on every side of the water calling it nothing, the way they called the dark lights nothing, the way the outages below were *spreading* and children who asked got fizzy-drink questions instead of answers.
+
+She didn't press. She was done pressing on the number every morning; she pressed on this instead, once, felt where it hurt, and put it on the shelf with the rest — the sentence with the lit end, the silent gulls, her name in the register for records.
+
+Two days to Longlight.
+
+That night she couldn't sleep — old habit, new reasons — and on her way past the common room window she saw him. Phorcys, alone, at the glass, past lights-out like her. Not looking at the sea. Looking at the *town* — at the little electric lights strung along the harbor fence, burning their straight steady rows against the dark — with an expression she recognized and could not place until she was back in her own bed, key in fist, staring at the ceiling.
+
+It was the way Mrs. Casterline had looked at the first boy's name. *How do I write this down in the language I already know?*
+
+He'd caught her watching, of course. He'd smiled, of course, and given her a small correct bow, the kind you give an equal, the only honest thing he'd done all day. She hadn't bowed back.
+
+The lights along the harbor burned all night. Somewhere below them both, way down past the waiting sea, whole rooms kept going dark, and everyone who knew why kept setting the table.
+
+---
+
+*Chapter 6, Draft 1 (Jul 15, 2026) — enrollment two days before Longlight (the deep times good faith around the feast). Tim's mispronounce-first motif deployed: the name-flattening game (Loro/Sela/Perla — the deep LAUGHS at what air does to names, first cultural exchange), Phorcys's "say it however it comes" = contempt as patience (FOR-kiss stands uncorrected), and his wrong note is Abby's option (c): he says "Nerai" in the register for records, like her father — only she hears it. Friend from home = "Perla" (pen's wreckage of her real name — Abby names the real one): the wrist greeting, and the lit-end sentence "They told us not to know you." Failing clue #4: little Tach's "It was our turn" + Perla guarding the door. Gulls go silent (the animals know). Phor studies the TOWN's lights like a translation problem (seed). FOR ABBY: Loro/Sela/Ondi/Brim/Tach are pen-wreckage placeholders — rename at will; who told them not to know her? Clay.*
+
+---
+
+## Chapter Seven — Mine
+
+Longlight came up the beach the way the kids had: quietly, carrying almost nothing, and then it was everywhere.
+
+The deep kids took over the hall after lunch and nobody stopped them, because nobody could have. The woven cases came open and it turned out they hadn't packed clothes, or hadn't only packed clothes — they'd packed *lights.* Small grown lamps, each one different, raised by hand somewhere far below and carried up the beach like the good china: a coil of pale blue that breathed, a knot of green that pulsed when you talked to it, a little branching thing that Tach carried in both arms like a kitten made of light. They strung them through the hall among the school's electric bulbs and paper snowflakes — both kinds of light, one room — and Nerai stood in the doorway with her throat doing something stupid, because it looked wrong and it looked exactly right and she had been homesick for this exact wrongness for three hundred and eleven days.
+
+She also saw — because she saw everything, it was the worst thing about her — the girl called Sela shake her family's lamp, twice, hard, the way you shake a watch that's stopped. The glow came up slow. Slower than it should. None of the deep kids joked about it, and deep kids joked about everything now; they'd spent two days proving it. That was how you could tell.
+
+She put it on the shelf. The shelf was full. She put it on anyway.
+
+Down on the dry flats, half a mile past the wire, the town was building its answer: a bonfire the size of a house, timber and pallets and one donated rowboat, rising all afternoon against the grey. The world can end after. Two fires getting ready on one beach, and neither one knowing it was keeping the other company.
+
+The feast started at dark.
+
+Long tables, both worlds mixed — that was the deep kids' doing too, place by place, a quiet insistent diplomacy of *sit here, no, here* — and platters of everything the kitchen staff had dared, and at the deep kids' end of every table, set and served and empty, the extra places.
+
+Nobody explained them. Explaining wasn't how it worked. The deep kids just laid them — a plate, a cup, a chair angled slightly out, as if someone had only stepped away — one for each person still below, and went on with the feast around them, and the humans watched, and understood without being told, because every human at that school had somebody they weren't allowed to eat dinner with anymore. By the second platter a first-year had set a quiet extra place of her own, for reasons nobody asked about. Then a teacher did. It spread down the tables like the opposite of a rumor.
+
+And when the hall had eaten itself calm, the thanks began. Youngest first.
+
+Tach stood on his chair. "I'm thankful the ocean has an *up*," he said, with enormous formality, and sat down to a standing ovation, and would not understand for years what he'd done to every adult in that room.
+
+A first-year thanked her shoes. A deep boy thanked doorknobs, "all of them." The never-lost girl thanked "the way back," and didn't elaborate. The woman the crows followed thanked the crows, who accepted it. It went up the years like a tide coming in, silly and true and truer for the silly, and Nerai sat with the key in her pocket and her heart going strange, watching it come toward her.
+
+The coat girl, two seats down, said: "I'm thankful nobody asks me why I do things." And warmed, with no visible effort, every cup within reach.
+
+Iggy stood, went red, and said, "I'm thankful for weird nights. And for — the people you end up standing next to. During them." He sat down very fast. He did not look at Nerai. He looked at his little flame, hovering over his palm, marble-sized, steady — out, at last, in front of the town kids of the world, in front of everyone, because tonight of all nights nobody was hiding their one strange thing.
+
+Which was the moment Nerai understood what she was about to do. Everyone in this hall had their thing out on the table tonight. Every light in the room was somebody's secret, worn in the open. Except hers.
+
+Perla stood. She gave her thanks in air first, correct and formal, for welcome and shelter and fizzy drinks — and then, softly, in the old language, she sang the second half. Eight notes. The little phrase every deep family sings when a place that was set empty gets filled — *the water came back to the cup* — and she sang it looking at nothing at all, in the middle distance, the way you look when you're being careful, and every deep kid at the table went still, and Nerai felt the eight notes land in her chest like eight small stones.
+
+Then it was her turn.
+
+She stood up with her thanks ready. The safe one. *I'm thankful to be here* — three hundred days of practice, smooth as the key in her pocket, the lie right there where it always was, easy, warm even, half true, which is the best kind of lie —
+
+— and out through the tall windows, past the paper snowflakes, the bonfire caught.
+
+It went up all at once, the way fires do when a whole town builds them, a great ragged orange shout on the bared seabed, right where her people's lights had risen out of the trench eleven nights ago. Fire standing on the ocean floor. The whole hall turned to look at it. And in the glass, over the flats, the two lights layered — the bonfire out there, the grown lamps reflected in here, burning in the same pane, one on top of the other, and she stood there between them with her mouth open and the safe lie evaporating.
+
+"I'm thankful the sea came back before I forgot it," she said.
+
+That wasn't the lie. That wasn't anything. That was her voice deciding things again, the way it had the night everything started — *don't, don't, you'll ruin everything,* said the voice in her head, and her mouth kept going, clear, not loud, clear, the way it went when it mattered.
+
+"You set places tonight for people who can't come up." Her hand found the key in her pocket. The hall was very quiet now. "I've been eating at your tables for three hundred and eleven days. And the whole time, somewhere down there, in the dark, at the bottom of everything —" and her voice did not break, that was the thing, it *cleared*, like water going still — "somebody has been setting one of those for me."
+
+Iggy's flame stood absolutely motionless over his palm. Down the table, the coat girl had gone very still, cup in both hands, doing the math that Nerai had watched her not-do for three hundred days.
+
+"The people in the water. The ones who rose. The ones everyone's afraid of." She looked at the window, at the two fires burning in one pane, and then back at the room, and said it — the thing she'd said to one boy in the dark, eleven nights ago, upgraded now to everyone, forever, no takebacks:
+
+"They're mine. I'm theirs. And I'm done pretending that isn't the best thing I am."
+
+For three long seconds, nothing in that hall breathed.
+
+Then Perla stood up next to her — no hesitation, like she'd been waiting for the cue her whole life — and took her wrist in the home way where the entire room could see it. And Tach, six years old, who had understood absolutely none of the politics and absolutely all of the point, raised his cup of fizzy drink and shouted the eight notes — *the water came back to the cup* — catastrophically off-key.
+
+And the school clapped. Before it thought to be afraid, before a single adult could arrange a face, before the news vans at the wire or the delegations in the guest wing or the two grown civilizations arguing in a shell on the sand could get a vote — a hall full of kids who each had one impossible thing clapped for the girl who'd finally shown them hers.
+
+She'd remember other things later. Phorcys, across the hall, raising his cup exactly correctly, at exactly the right moment, with a smile she'd file next to the gulls. Reyes in the doorway with his arms folded, unsurprised — *un-sur-prised* — mouthing something to himself that might have been *finally.* A teacher already moving for the phones. The night had bills coming due in every direction; she knew that even while it was happening.
+
+But the coat girl crossed the room while everyone was still standing, while the noise was still noise, and put a fresh cup into Nerai's hands, warmed to exactly right.
+
+"You said no once," she said. "In the common room. When I asked."
+
+"I know. I—"
+
+"October," said the coat girl, "is when I knew," and walked back to her seat, leaving Nerai holding the warm cup while her entire year flipped over in her hands — she'd *known*. Since October. Since the coat. She'd asked the question in the common room already knowing the answer, and taken the "no," and never asked again, and kept warming the cocoa anyway. Which was worse than being yelled at. Which was also, and Nerai stood there unable to make these two things sit in the same head, the kindest thing anyone had ever done to her. She drank the cocoa. It was, of course, exactly right.
+
+The kitchen, past midnight, was leftovers and four people.
+
+That was the size of it, in the end. The noise had washed out; the hall was dark; the bonfire on the flats had burned down to a red heart with silhouettes still moving around it — she could pick out the boy, she found, without trying, which she filed under *later.* And in the school kitchen, by the light of one borrowed grown-lamp and one marble-sized flame, sat everyone who'd stayed: Iggy, up on the counter. Perla, inspecting the refrigerator like a crime scene. The coat girl, washing cups nobody had asked her to wash.
+
+Nerai took out the notebook.
+
+She hadn't planned to. It was just there, in her hands, the way it was every night — old habit, new reasons — and she turned it over and opened it from the back, past the columns. Three hundred and four little numbers, one under the other, each one a morning she'd pressed on the bruise. The last one still said 304. She'd never written another.
+
+She turned past them all to the first clean page, and wrote, at the top: *WHAT THEY WON'T TELL US.*
+
+"Okay," she said. "Somebody's lying. Everybody's lying, actually — mine and yours, both sides, all of them, about the same thing." And she laid it out — the whole shelf, unpacked at last, in a school kitchen at midnight, to a fire boy and a warm girl and a friend from the bottom of the sea. The lights that didn't come on, and the number growing. Her father's face closing like a door — *the city is old.* Her mother's warning that named no threat, to a room that didn't ask. The outages below are *spreading,* in a grey-car voice, behind a propped door. *It was our turn,* said a six-year-old, and a door got guarded. And an instruction, from someone, that a delegation of children was told to keep: *don't know her.*
+
+"My gran," said the coat girl, unexpectedly, drying a cup, "says the sea used to glow more. Everyone's gran says it. I asked."
+
+Silence, while that joined the list. Even the town knew, in the way towns know — in grans and rumors — the thing that two civilizations' worth of adults were agreeing not to say.
+
+"So that's the club," Nerai said. "That's the whole thing. They won't tell us what's failing down there, and they've decided that's protecting us, and I've *been* protected like that my whole life, and I can tell you where it goes." She looked at the page, at her own handwriting, at the good clean questions where the counting used to be. "It goes wrong quietly, for years, and then all at once, on a night when the sea steps back. So we find out ourselves. Before their lie picks a villain for everybody."
+
+"We're a secret club now," Iggy said, solemn, flame dancing. "I need this noted. Officially. There should be a name—"
+
+"No name," said three people at once.
+
+("A *cool* name—" "*No.*")
+
+Perla raised the last of her fizzy drink. "To the empty places," she said, in air, and then eight notes, soft, in the old language, and this time Nerai sang them back.
+
+It was Iggy — of course it was — who asked the last question, at the door, in the dark, in the voice he saved for real things: "Do we tell bonfire kid? The town guys? They're sort of... in it now. Everyone is."
+
+"No," Nerai said.
+
+It came out easy. That was the thing she'd think about, later, lying in bed with the key on the sill and the notebook under her pillow like contraband. How easy it came — smooth, protective, instant, *no, not him, keep him out of it, keep him safe* — the exact grain and weight of a voice she'd been hearing her whole life, and she fell asleep before she worked out whose.
+
+Out on the flats the bonfire settled. The tide sat where it had sat for eleven days, waiting. And along the green seam at the waterline, far out, one stretch that had glowed the night before did not glow now — a small dark gap in the long slow sentence, like a word gone missing — and the only person who might have counted it was asleep, with better questions under her pillow.
+
+Three hundred and eleven days since her own people sent her up out of the dark.
+
+She didn't write it down.
+
+---
+
+*Chapter 7, Draft 1 (Jul 15, 2026) — ACT I CLOSES. The first Longlight ashore: grown lights + paper snowflakes (both kinds of light, one pane — the two fires layered in the window glass as the town's bonfire catches). The empty places spread down the tables uninstructed. Thanks youngest-first (Tach's "the ocean has an up"). The reveal per Tim's pick: the Ch. 1 line upgraded to the whole room — "They're mine. I'm theirs." — school claps before it thinks to be afraid; Perla's wrist, Tach's off-key eight notes. Coat girl payoff (Abby's slow-guilt spec): "October is when I knew" — she'd known all along, which is worse and kinder than anger. THE PACT in the kitchen: the notebook turns from counting-days to WHAT THEY WON'T TELL US (the whole shelf unpacked: dark lights growing, "the city is old," the unnamed threat, outages spreading, "our turn," "don't know her," gran's folklore). Town boy kept OUT — and her "No" comes out easy, in a voice she doesn't recognize as her parents' (the mirror, unspent). Last image: one more gap in the green seam, uncounted. Failing clues: Sela's stopped-watch lamp, the dark gap. FOR ABBY: Q9 options were (a)-flavored — want the reveal moved to the cruel-rumor or protect-Perla trigger instead? Clay.*

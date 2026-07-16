@@ -89,8 +89,10 @@ Her riff, verbatim: *"on top of phorcys there should be a secondary villain that
 The Abyssal mother — leader of *never*, author of *stay small* — breaks her own oldest law at a climax to stand with Nerai. Two-turn beat developed in `characters/her-mother.md`: first the shield (she steps between — her lifelong silent tell, finally public), then the release (she steps aside and lets her daughter be seen full size). Closing line candidate: *for the first time in her life, her mother stood behind her* — both meanings at once. **DECIDED (Jul 15, from Abby's two notes reconciled): Book 1's climax (Ch. 20–21), and she SURVIVES — Abby's tone-ladder rule ("save any character deaths for book two") holds her possible death for Book 2, where the political cost of breaking the law can collect.** The words she says (if any) are still Abby's.
 
 ### Names from Abby's Jul 15 round (shortlists — naming session with her to lock)
-- **Phorcys — CONFIRMED ✓** ("Phorcys is good for the villain"). Her floater **Kairius** kept — maybe the one above him, or the elder who taught him.
-- **Mom:** Scylla, or Maryn. **Dad:** Cyreus, Aenon, or Aquilus. (On their character files.)
+*(House rule, Tim Jul 15: every not-normal-English name carries a SAY-IT guide, in the files and on the page — Ch. 6's enrollment desk is where the book itself teaches them.)*
+- **Nerai** — say it **"neh-RYE"** (that's the air version; the deep version has a note in the middle that air flattens out — already canon).
+- **Phorcys — CONFIRMED ✓** ("Phorcys is good for the villain"), say it **"FOR-sis"**, "Phor" = "FOR". Her floater **Kairius** ("KY-ree-us") kept — maybe the one above him, or the elder who taught him.
+- **Mom:** Scylla ("SILL-uh"), or Maryn ("MAIR-in"). **Dad:** Cyreus ("SY-ree-us"), Aenon ("AY-non"), or Aquilus ("ACK-wil-us"). (On their character files.)
 - **School town:** "should have a name. Something kind of normal to emphasize the eccentricity of the school in comparison" — her call, adopted as the naming principle. Candidates to riff at the session.
 - **The twins (coat girl pitch):** "names of each could correspond to their gifts" — she'll bring names.
 

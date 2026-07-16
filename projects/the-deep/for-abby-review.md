@@ -16,8 +16,17 @@
 
 5. **NEW since your round — the town kids.** A small group of ordinary local teens (no gifts, no school) that you-know-who and Iggy meet in Act I — and one of the boys matters to Nerai, which Phor eventually finds out about, badly (`characters/town-kids.md`). Casting is yours: how many, names, and what does the boy notice about her first?
 
-## Act I workshop — react BEFORE we draft Chapters 4–7
-*(Dad and Claude rebuilt the back half of Act I tonight. The shape: Book 1 rides a school year (Sept–June); the rising lands in late November, days before **Longlight** — the deep's Christmas-and-Thanksgiving — and Act I ends AT the first Longlight ever kept on land, where Nerai stands up at the feast and stops lying. Then the kitchen scene: the crew makes **the pact** — every adult in both worlds is lying about the dark lights, so the kids find the truth themselves. That pact is the adventure that drives the rest of the book. Full chapter cards on the Book tab. Your reactions, please:)*
+## READ IT FOR THE VOICE — Dad's brief for this round
+*(All seven chapters of Act I are drafted now. Before you mark anything else, Dad wants you to read the whole act ONE way: listening. There are exactly two voices in this book, and this round is about whether they're true.)*
+
+**Voice 1 — the narrator (the Prologue only).** That's Iggy, grown, after everything — seasoned AND scared. He's been through the whole story and it cost him; the jokes are real but they're armor. When you reread the prologue, ask: can you feel both at once — the warmth and the scar tissue? Where does he sound too smooth, like a professional author instead of a man finally telling the thing he's been carrying?
+
+**Voice 2 — Nerai (everything after).** Every page from Chapter 1 on is inside her head, and here's the test Dad wants you to hold every paragraph against: **does it sound like it came out of a fifteen-year-old's journal?** Not a novelist describing a girl — a girl, writing it down herself, the night it happened. Her insecurities shouldn't be *described*, they should leak — in run-ons when she spirals, in jokes she makes about herself before anyone else can, in things she notices and refuses to say the meaning of. Her growth should resonate the same way: not announced, just visible, the way you notice a friend got braver sometime when you weren't watching.
+
+**What to actually do:** anywhere the writing sounds like an adult wrote it — too polished, too wise, words she wouldn't reach for, feelings labeled instead of felt — hit the feedback box and say "not journal." Quote the line if you can. If a line sounds EXACTLY like her, flag that too ("this one's her") — knowing what's right teaches us more than knowing what's wrong. What we have is good. This pass is what makes it sound like *her*.
+
+## Act I workshop — Chapters 4–7 are DRAFTED, tear them apart
+*(Same night, one better: the back half of Act I is fully written now — read the drafts on the Book tab. The shape: Book 1 rides a school year (Sept–June); the rising lands in late November, days before **Longlight** — the deep's Christmas-and-Thanksgiving — and Act I ends AT the first Longlight ever kept on land, where Nerai stands up at the feast and stops lying. Then the kitchen: **the pact** — every adult in both worlds is lying about the dark lights, so the kids find the truth themselves. The questions below were asked before drafting; the drafts execute one option each — so now you can judge the choice AND the execution. Placeholder names everywhere are yours to replace: Perla, Loro, Sela, Tach, "Thermos," the town boy.)*
 
 6. **Ch. 4 — Mom's first line.** The reunion runs cold-like-business (your spec). What does she say when she first sees you-know-who? (a) "You should be inside the wire" — protection dressed as coldness; (b) her name, the way her father DIDN'T say it; (c) nothing at all — one look, held a beat too long. Or write it yourself — this line is a big one.
 

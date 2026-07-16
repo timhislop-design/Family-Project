@@ -22,13 +22,13 @@ window.DEEP = {
             premise: "Morning after: lockdown, vindicated believers on every screen, the counting stops — and the first easy lie to someone she likes. Reyes knows something." },
           { num: 3, title: "Her Father's Face", status: "Draft 3 — your edits are in!", written: true,
             premise: "The Pelagic landing. Not a reunion — an exhibit. “Both answers are yes.” And one question about dark lights closes his face like a door." },
-          { num: 4, title: "The Deep Answers", status: "Outlined — react on the Questions tab!",
+          { num: 4, title: "The Deep Answers", status: "Draft 1 — BRAND NEW, tear it apart!", written: true,
             premise: "Her mother lands, and the reunion runs exactly as you ordered: cold, like business — but watch where she STANDS. The factions collide on the bared sand, and Nerai's hidden power leaks for the first time. Underneath: Mom's warning names no threat, and no deep-born adult finds that strange." },
-          { num: 5, title: "The Quiet School", status: "Outlined — react on the Questions tab!",
+          { num: 5, title: "The Quiet School", status: "Draft 1 — BRAND NEW, tear it apart!", written: true,
             premise: "The gifted world convenes; the school becomes the meeting ground. And through a gap in a fence: the town kids — ordinary, ungifted, hilarious — and the boy who makes her laugh on the worst week of her life. On her way back in she overhears both worlds discussing “the girl already ashore.” Not her name. Her file." },
-          { num: 6, title: "Enrollment", status: "Outlined — react on the Questions tab!",
+          { num: 6, title: "Enrollment", status: "Draft 1 — BRAND NEW, tear it apart!", written: true,
             premise: "Deep kids come ashore to enroll — pointedly, in time for Longlight (the deep would never send its children where they can’t keep the feast). Among them: Phorcys, whom every adult adores on sight — and the friend from home, whose face does complicated things. One wrong note that only Nerai catches. And one enrolled kid who goes very quiet when asked why their family REALLY sent them up." },
-          { num: 7, title: "Mine (Longlight)", status: "Outlined — react on the Questions tab!",
+          { num: 7, title: "Mine (Longlight)", status: "Draft 1 — BRAND NEW, tear it apart!", written: true,
             premise: "The first Longlight ever kept on land: the feast in the school hall, the naming of thanks, an empty place set for everyone still below — and the town’s own winter lights burning past the fence, both worlds keeping the same old holiday without knowing it. Nobody forces her. She stands up at the table and stops lying. Then, after midnight: leftovers, the crew, and THE PACT — the adults of both worlds are lying about the dark lights, so the kids will find the truth themselves." }
         ]
       },
