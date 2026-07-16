@@ -16,6 +16,19 @@
 
 5. **NEW since your round — the town kids.** A small group of ordinary local teens (no gifts, no school) that you-know-who and Iggy meet in Act I — and one of the boys matters to Nerai, which Phor eventually finds out about, badly (`characters/town-kids.md`). Casting is yours: how many, names, and what does the boy notice about her first?
 
+## Act I workshop — react BEFORE we draft Chapters 4–7
+*(Dad and Claude rebuilt the back half of Act I tonight. The shape: Book 1 rides a school year (Sept–June); the rising lands in late November, days before **Longlight** — the deep's Christmas-and-Thanksgiving — and Act I ends AT the first Longlight ever kept on land, where Nerai stands up at the feast and stops lying. Then the kitchen scene: the crew makes **the pact** — every adult in both worlds is lying about the dark lights, so the kids find the truth themselves. That pact is the adventure that drives the rest of the book. Full chapter cards on the Book tab. Your reactions, please:)*
+
+6. **Ch. 4 — Mom's first line.** The reunion runs cold-like-business (your spec). What does she say when she first sees you-know-who? (a) "You should be inside the wire" — protection dressed as coldness; (b) her name, the way her father DIDN'T say it; (c) nothing at all — one look, held a beat too long. Or write it yourself — this line is a big one.
+
+7. **Ch. 5 — meeting the town kids.** (a) They sneak IN through the same fence gap Nerai uses to sneak out; (b) a supply run into town, Reyes looking deliberately away; (c) the boy is fishing her spot at the seawall and refuses to move. And: what makes her laugh — first real laugh in 300 days?
+
+8. **Ch. 6 — Phor's one wrong note** (only Nerai catches it): (a) he compliments the school the way you'd appraise something you plan to own; (b) an animal goes still near him and he smiles at IT, not the people; (c) he greets Nerai in the formal register — the one for records — exactly like her father did. Which is creepiest?
+
+9. **Ch. 7 — the reveal at the feast.** Where does she stand up? (a) during the naming of thanks — her "thanks" is the truth; (b) when a town rumor at the table turns cruel and she can't sit through it; (c) to save the friend from home, who's about to be caught in the same lie. And the pact: is the town boy IN it, or protected from knowing (which becomes its own problem)?
+
+10. **The tone check (your specialty).** Act I is supposed to land semi-light with dark running underneath — the darkness budget is three threads only: the dark lights/failing, "the girl already ashore," and Phor's wrong note. Book 2 goes a level darker (the wardens' layer, more strife, your saved-up death). Read the act as a whole on the Book tab: is the balance right, or is anything too heavy/too cute?
+
 ---
 
 ## Archived — Round 1, answered Jul 15, 2026 ✓

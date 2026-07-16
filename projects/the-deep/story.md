@@ -199,4 +199,12 @@ And her father's face — his careful, managed, weather-watched face — closed.
 
 She was. She was standing at the fence in the last of the light with Iggy — who had actually waited, all day, to his eternal credit, and who took one look at her face and for once in his life said nothing at all — when it came across the water.
 
-A second horn. From past the structure, past the waiting sea. From *below.* So low it arri
+A second horn. From past the structure, past the waiting sea. From *below.* So low it arrived in her ribs before it arrived in her ears. Nothing like her father's polite knock on the world's door — this was older, and colder, rolling up out of the trench like the ocean clearing its throat, and every light on the structure's long shell flickered once, all together, like a held breath.
+
+She knew the voice under that horn the way she'd known her father's face. Every child of the deep knew it. The way you know winter.
+
+The Abyssals had an answer. And her mother was bringing it up herself.
+
+---
+
+*Chapter 3, Draft 3 (Jul 15, 2026) — Abby's review round 1: sentries now recognize more than her face (her seabed walk, the courtesy-stillness — things "only they'd recognize," her note); the wreck beat trimmed to a passing glance — the full gut-punch ("nothing sunk gets to stay private") moves to the midpoint, tied to news that home is failing, per her call. Her reading of "both answers are yes" is now canon — see `characters/her-father.md`. Father still unnamed — shortlist from Abby: Cyreus / Aenon / Aquilus. Clay.*

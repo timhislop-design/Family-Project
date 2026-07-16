@@ -96,5 +96,14 @@ The Abyssal mother — leader of *never*, author of *stay small* — breaks her 
 
 ### The deep's holidays — one per act (Tim's, Jul 15, 2026 — built in `holidays.md`, names are YOURS to wreck, Abby)
 Your people have a calendar now, grown from light and memory, and each act of Book 1 rides one of its feasts:
-- **The Receding** (their July 4th + end of school year): the day the post-Flood waters drew back and the deep became theirs. Pressure-song fireworks; kids recite the Law for the first time. **The rising in Ch. 1 happens ON it** — the Pelagics pulling the sea back on waters-drawing-back day, as a statement.
-- **Longlight** (their Christmas-and-Thanksgiving): the whole family REQUIRED home, an empty place set for anyone who can't come; the naming of thanks, youngest first; gifts are **grown lights** raised 
+- **Longlight** (their Christmas-and-Thanksgiving): the whole family REQUIRED home, an empty place set for anyone who can't come; the naming of thanks, youngest first; gifts are **grown lights** raised in secret for months. **Act I's anchor: the rising lands days before it, and the act CLOSES on the first Longlight ashore (Ch. 7) — the reveal at the feast, the pact after.**
+- **The Receding** (their July 4th + end of school year): the day the post-Flood waters drew back and the deep became theirs. Pressure-song fireworks; kids recite the Law for the first time. **Act II's midpoint: the independence parade kept mid-interruption, and the world turns fearful on it.**
+- **The Drowning → the Risen Morning** (their Easter = the Flood itself): every light in the city goes out but one; the names of the drowned cities are sung; at dawn-hour the light-gardens spawn — resurrection on schedule. Act III: **the Risen Morning fails in public** — and the climax delivers the resurrection by hand instead.
+To riff: rename all four (current names are placeholders wearing their jobs); invent one kid-custom per feast; which one does Nerai miss most; did the pet find her on a Risen Morning?
+
+### Behind the jovial demeanor (Iggy's parents — parked Jul 10, 2026, may never fire)
+Tim's instinct: Iggy is an only child *so he thinks*, and there may be more under his parents' relentless warmth. Three flavors in `characters/iggys-parents.md`: a child before Iggy; they've seen the impossible before (which would explain a fire-carrying son from an ordinary house); or — the anti-twist — they're exactly what they seem, the only people in the book with no secret at all. Rule while parked: write them so all three stay possible. Warmth first.
+
+---
+
+*These are ideas, not decisions. Say "develop [the bridge body / the love thread / the magic / the silver-spoon antagonist / …]" and we'll build it out and try it against the story.*

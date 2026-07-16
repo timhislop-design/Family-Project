@@ -14,7 +14,7 @@ window.DEEP = {
     acts: [
       {
         num: "I", title: "The Sea Steps Back", span: "Chapters 1–7",
-        arc: "The rising, and the days after. The world's rumors come true on live television, the school on the tide line becomes the meeting ground — and Nerai goes from hidden to known. By her own choice.",
+        arc: "The rising, and the two weeks after — homecoming season in BOTH worlds. The sea steps back days before Longlight, the deep's family feast, and the act ends at the first Longlight ever kept on land: Nerai goes from hidden to known, by her own choice, at the table. Then the pact: the kids decide to find the truth the adults are hiding.",
         chapters: [
           { num: 1, title: "Dry Land", status: "Draft 7 — your edits are in!", written: true,
             premise: "The sea pulls back in the night. Nerai feels it first and watches her people rise — her father among them. Ends on the held sleeve." },
@@ -22,14 +22,14 @@ window.DEEP = {
             premise: "Morning after: lockdown, vindicated believers on every screen, the counting stops — and the first easy lie to someone she likes. Reyes knows something." },
           { num: 3, title: "Her Father's Face", status: "Draft 3 — your edits are in!", written: true,
             premise: "The Pelagic landing. Not a reunion — an exhibit. “Both answers are yes.” And one question about dark lights closes his face like a door." },
-          { num: 4, title: "The Deep Answers",
-            premise: "The Abyssals answer: her mother rises with the deep's warning. The factions collide on the bared sand with Nerai on the line — and her hidden power leaks for the first time." },
-          { num: 5, title: "The Quiet School",
-            premise: "The gifted world convenes and the school is proposed as the meeting ground. Nerai overhears both sides discussing “the girl already ashore” — the first hint that strangers know exactly who she is. NEW: the town kids — ordinary locals, no gifts — and the boy who makes her laugh on the worst week of her life." },
-          { num: 6, title: "Enrollment",
-            premise: "Deep kids come ashore to enroll as a gesture of good faith. Among them: Phorcys — old blood, polished contempt — and a friend from home. One wrong note that only Nerai catches." },
-          { num: 7, title: "Mine",
-            premise: "Nobody forces her. Nerai reveals herself to the whole school — she's done lying. Act I ends with her known, and the two worlds sharing a hallway." }
+          { num: 4, title: "The Deep Answers", status: "Outlined — react on the Questions tab!",
+            premise: "Her mother lands, and the reunion runs exactly as you ordered: cold, like business — but watch where she STANDS. The factions collide on the bared sand, and Nerai's hidden power leaks for the first time. Underneath: Mom's warning names no threat, and no deep-born adult finds that strange." },
+          { num: 5, title: "The Quiet School", status: "Outlined — react on the Questions tab!",
+            premise: "The gifted world convenes; the school becomes the meeting ground. And through a gap in a fence: the town kids — ordinary, ungifted, hilarious — and the boy who makes her laugh on the worst week of her life. On her way back in she overhears both worlds discussing “the girl already ashore.” Not her name. Her file." },
+          { num: 6, title: "Enrollment", status: "Outlined — react on the Questions tab!",
+            premise: "Deep kids come ashore to enroll — pointedly, in time for Longlight (the deep would never send its children where they can’t keep the feast). Among them: Phorcys, whom every adult adores on sight — and the friend from home, whose face does complicated things. One wrong note that only Nerai catches. And one enrolled kid who goes very quiet when asked why their family REALLY sent them up." },
+          { num: 7, title: "Mine (Longlight)", status: "Outlined — react on the Questions tab!",
+            premise: "The first Longlight ever kept on land: the feast in the school hall, the naming of thanks, an empty place set for everyone still below — and the town’s own winter lights burning past the fence, both worlds keeping the same old holiday without knowing it. Nobody forces her. She stands up at the table and stops lying. Then, after midnight: leftovers, the crew, and THE PACT — the adults of both worlds are lying about the dark lights, so the kids will find the truth themselves." }
         ]
       },
       {
