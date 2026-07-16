@@ -213,31 +213,67 @@ The Abyssals had an answer. And her mother was bringing it up herself.
 
 ## Chapter Four — The Deep Answers
 
-Her mother came up the old way: no shell, no lights, no horn to warn anybody. Just fourteen grey figures walking up out of the waterline in the hour before sunrise, like they'd been standing on the bottom all night waiting for the light to be worth it — which, knowing her mother, was exactly what they'd been doing.
+*People always ask me which day was the scariest. They want it to be the ending — the beach, the horns, all of it, and fair enough, we'll get there. But no. It was a grey Tuesday two weeks in, the day her mother came up. I spent it on a seawall with borrowed binoculars, too far away to do one useful thing except watch my best friend walk out across the sand to find out whether she'd been missed or just measured. I've stood in worse places since. I stand by my answer.*
 
-Nerai didn't see it happen. Almost nobody did, except one man out running with his dog, whose video shook so badly the internet had to steady it before it could decide to be terrified. By breakfast every channel had the two arrivals side by side: her father's city standing up out of the trench in rows of light, like a parade — and then this. Fourteen people. No parade at all. The experts liked the parade better. A parade, one of them said, at least wants to be seen. Nobody on the panel would say out loud what the second kind wanted, so they cut to weather.
+---
 
-She knew what it wanted. She'd been raised by it.
+The video was everywhere by breakfast.
 
-The sentry came to the wire at noon and asked for her by name.
+"Okay — everyone's watching the sea people. Stop watching the sea people." Iggy held his phone over her cereal. "Watch the dog."
 
-Not *the girl from the school.* Her name — her actual name, in her actual language, with the note in the middle of it that air always flattens out — and the guard at the gate did what all humans did when the deep spoke: looked left, then right, hoping it was addressed to somebody else. It wasn't. School staff appeared out of nowhere, four adults talking at once about custody and permissions and precedent, and through all of it the sentry just stood in the wet sand being older than the argument, until Coach Reyes came through the crowd with the clipboard he never looked at and said, "I'll walk her."
+On the little screen, in grey dawn light, fourteen figures walked up out of the waterline like they'd been standing on the bottom all night, waiting for the light to be worth it. Knowing her mother, they had been. The jogger filming was making sounds that don't have letters. And his dog — early, way before the figures got close — just sat down. All by itself. Ears flat. The way you sit down in church.
 
-They walked. The tide zone smelled like home again, silt and cold and far-down places, and she hated how much she loved it.
+"The dog gets it," Iggy said. "The dog is the last real journalist in this country."
 
-"You don't have to go in," Reyes said at the last barrier.
+Around them the common room had opinions.
 
-Which was a strange enough thing to say that she stopped. Not *you'll be fine.* Not *we're right behind you.* You don't *have* to. Like he knew exactly what kind of room she was about to walk into — the kind where you're an agenda item.
+"No lights, no horn, no *nothing,*" the never-lost girl said. "The first lot announced themselves for an hour. These ones just — arrived. Why is that scarier?"
 
-"Yes I do," she said, and he nodded, once, like she'd passed something, and that bothered her the whole rest of the day, every time she had a spare corner to be bothered in.
+"Because a parade wants to be seen," Nerai said, before she could stop her mouth.
 
-Inside, the shell's grown light had changed since her father's night. Dimmer. She thought it, and then she unthought it, fast, the way you step back from a ledge.
+Everybody looked at her.
 
-The Pelagic elders stood on one side with her father at their center. The Abyssals stood on the other, fewer, greyer, stiller — and in the middle of that line, her mother.
+"So what do the quiet ones want?" somebody asked.
 
-Here's what three hundred and six days does to a person: Nerai had practiced this face too. Practiced missing it, practiced meeting it, practiced being fine in front of it. The real one still went through her like cold water down the wrong pipe.
+She ate her cereal.
 
-Her mother looked at her one beat too long. Everyone did that — strangers in town did it, teachers did it. But her mother had invented it.
+They came for her before lunch — and it wasn't the deep that came, it was a fourth-year, skidding into the room with his shoes untied. "There's one of them at the *gate* — it's *saying* something — it keeps saying a *name*—"
+
+And then she heard it herself, faint, through the window glass, all the way up the hill. Her name. Her actual name, in her actual language, with the note in the middle that nobody up here had ever once got right.
+
+"It's saying me," she said, and stood up.
+
+At the gate it was chaos in four adult flavors. The sentry stood in the wet sand on the far side of the wire, being older than the argument, while the school's grown-ups had it over her head:
+
+"— absolutely cannot *hand a student* to—"
+
+"It's asking. They don't ask. Does anyone understand what it means that they're *asking*—"
+
+"She's *theirs,* look at—"
+
+"She's *enrolled.* She's *ours*—"
+
+Hers. Theirs. Ours. Nobody asked the student. She was getting a real education this week in how many people owned her.
+
+Reyes came through the crowd with the clipboard he never looked at. "I'll walk her."
+
+They walked. The tide zone smelled like home — silt, cold, far-down places — and she hated how much she loved it.
+
+At the last barrier he stopped. "You don't have to go in."
+
+She turned and looked at him. Not *you'll be fine.* Not *we're right behind you.* You don't *have* to — like he knew exactly what kind of room it was. The kind where you're an agenda item.
+
+"Yes I do," she said.
+
+He nodded once, like she'd passed something, and that bothered her the whole rest of the day, every time she had a spare corner to be bothered in.
+
+Inside, the shell's grown light was dimmer than her father's night. She thought it, and then she unthought it fast, the way you step back from a ledge.
+
+The Pelagic elders on one side, her father at their center. The Abyssals on the other — fewer, greyer, stiller — and in the middle of that line, her mother.
+
+She'd practiced this face too. Practiced missing it, practiced meeting it, practiced being *fine* in front of it. The real one still went through her like cold water down the wrong pipe.
+
+Her mother looked at her one beat too long. Everyone did that. Her mother had invented it.
 
 "Nerai," her mother said.
 
@@ -247,61 +283,91 @@ Then the second ended, and business sat down where it had been.
 
 "You've grown." Like a measurement. Like data being updated in a file. Her hand came up half an inch off her sleeve and went back down, and if you blinked, you'd have missed the only hug on offer.
 
-Then she turned to the room, and Nerai learned what she'd been brought there to be. Her father had presented her as proof it could be done. Her mother presented her as the indictment. "My daughter has been ashore three hundred days," she said, in the register for records, to the Pelagic side of the shell. "You hid one child, carefully, at enormous cost, and you call it proof. Now you propose to unhide a civilization." She let the silence do the math. "You have all forgotten what the dark is for."
+Then her mother turned to the room, and Nerai found out what she'd been summoned to be.
+
+"You've seen her," her father said, to his own side as much as anyone. "Ashore three hundred days. Unharmed. Unfound. Schooled beside their gifted children—"
+
+"You hid one child." Her mother didn't say it louder. She said it *cleaner.* "Carefully. At a cost my house is still counting. And you stand in this light and call it proof — and propose to unhide a civilization."
+
+"The child proves the surface can share a roof with us," said the elder with gold at his brow.
+
+"The child proves her mother can keep a secret."
+
+Nobody laughed. It wasn't a joke. It was the truest sentence anyone had said on that beach in two weeks, and Nerai stood inside it — *the child, the child, the child* — being proof, being cost, being kept, while the argument went back and forth over her head exactly like it had at the gate. Hers. Theirs. Ours. Both worlds, one habit.
+
+"The rooms that have gone dark," her father began, "are an engineering—"
+
+"You have all forgotten what the dark is *for.*"
 
 And nobody asked her what the dark was for.
 
-That was the part Nerai kept. Not the arguing — the Pelagics argued with numbers, with maps, with the surface's readiness, and her father conducted it all in his managed way. The Abyssals didn't argue at all. They corrected. The way you'd correct somebody about your own house. Her father's side talked like people who believed something. Her mother's side talked like people who *knew* something — and wouldn't say what — and the difference between those two sounds made Nerai's teeth hurt, and scared her worse than the horn had, and she couldn't have explained that to anyone, so she didn't try.
+Nerai kept that. Her father's side argued like people who believed something — numbers, maps, readiness. Her mother's side corrected, quietly, like people who *knew* something and wouldn't say what, and the difference between those two sounds made her teeth hurt.
 
-And through all of it, every time the argument shifted and the bodies in the shell re-arranged themselves the way bodies do, her mother ended up — somehow, without ever seeming to move — between Nerai and the Pelagic elder with gold at his brow.
-
-Probably nothing. She put it on the shelf. The shelf creaked.
+Also: somewhere in the shuffle of the room, her mother had ended up between her and the gold-browed elder. Again. She put it on the shelf. The shelf creaked.
 
 Near the end, they stopped using words.
 
-She'd known they would — it's how the old arguments finish, both sides taking it into the formal song, where you can't lie as easily because the water carries too much of you along with the words. But they weren't in the water. They were in air, in a grown shell on a bared beach, and song dies in air — it goes thin and small like everything else from home. Everyone knew that the way you know the sun comes up.
+She'd known they would — it's how the old arguments finish, both sides taking it into the formal song, where lying costs more. But song dies in air. Goes thin and small, like everything else from home. Everyone knows that the way you know the sun comes up.
 
-The two songs met in the middle of the shell, argument against argument in the oldest register, and the sound — there's no way to say this that would have made sense to anyone at school — the sound *found her.* Went through her like she was a doorway somebody had left open. For one second the whole shell heard the deep the way the deep hears itself, full and enormous and wet, ringing out over the dry flats where it had no right to exist. The grown lights guttered, all of them, like a flame in a draft.
+The two songs met in the middle of the shell — and then they weren't thin, because they'd *found her.* The sound crossed. Went through her like she was a doorway somebody left open, and for one second the whole shell heard the deep the way the deep hears itself — full, enormous, wet, ringing out over dry sand where it had no business existing. Every grown light guttered like a flame in a draft.
 
-Then it was over, and the shell was just a room again, and both her parents were looking at her in the same instant with the same face.
-
-Her parents agreed on nothing. That was rule one of her entire childhood — the sun came up, water was wet, her parents agreed on nothing. And there they stood, agreeing. About her.
+Silence. The room stared at the lights. Her parents stared at *her.* Both of them. Same instant. Same face.
 
 "What," said one of the elders, "was that?"
 
-"The city is old," her father said, which was becoming his answer to everything. Her mother said nothing at all. She just moved, without seeming to, until there was a little more of her between Nerai and the rest of the room.
+"The city is old," her father said, which was becoming his answer to everything.
 
-Her mother walked her back to the wire herself. Business, presumably. Protocol. Six feet of formal distance the whole way, and the sentries falling in behind like the tide. At the last barrier her mother stopped, and looked past her, up the hill, at the school — looked at it for a long moment, longer than she'd looked at anything in the shell.
+Her mother said nothing at all. She just moved, without seeming to, until there was a little more of her between Nerai and the rest of the room.
+
+Her parents agreed on nothing. That was rule one of her entire childhood: the sun came up, water was wet, her parents agreed on nothing. And there they stood. Agreeing. About her.
+
+Her mother walked her back to the wire herself. Six feet of formal distance, sentries behind them like the tide, no words the whole way — her mother spent words like they came out of her own blood. At the barrier she stopped, and looked past Nerai, up the hill, at the school. Longer than she'd looked at anything in the shell.
 
 "Which window is yours?"
 
 Nerai pointed before she thought to ask why.
 
-Her mother studied the window the way she hadn't studied anything else all day. Filed it. Turned back toward the sea. "Eat something before you sleep," she said, and walked into the water without one splash, because of course she did.
+Her mother studied the window. Filed it. Turned back toward the water. "Eat something before you sleep," she said, and walked into the sea without one splash, because of course she did.
 
-It took Nerai three hallways to understand what had happened, and then she had to stand still in the third one for a minute, with her hand flat on the cold wall.
+It took Nerai three hallways to work out what had just happened, and then she had to stand still in the third one with her hand flat on the cold wall.
 
-Her mother had wanted to know where to aim her worry. That was all. That was *everything.* Cold, like business — and underneath the business, aimed at one lit window on a hill, that.
+Her mother had wanted to know where to aim her worry.
 
-Iggy found her at dinner, vibrating. He'd watched the entire thing from the seawall through a pair of binoculars he described as "borrowed, philosophically" from a kid in town, and he gave her the whole parley back as color commentary — the formations, the staring, "your dad's side has better uniforms but your mom's side stands like they know where the exits are, no offense." Then, quieter, sliding his tray next to hers without asking: "The shell did the thing, by the way. Right near the end. The light-flicker thing." A sideways look, a beat too long. "The thing your hallway does."
+That was all. That was *everything.*
+
+"Okay, so. Your dad's side has better outfits." Iggy slid his tray next to hers without asking, because he never asked. "But your mom's side stands like they know where the exits are. No offense."
+
+"Where were you even watching from?"
+
+"Seawall. Binoculars." He tipped his head vaguely townward. "Borrowed. Bonfire kid says hi, by the way."
+
+"He does not."
+
+"He said, and I quote, 'tell the arsonist's friend the fire's still on for Thursday.' That's basically hi. That's *warm,* for around here."
+
+She was still deciding what her face should do about that when he went quiet — actually quiet, fork down, into the register he saved for real things.
+
+"The shell did the thing. Near the end. All the lights, one flicker, together." A beat. "The thing your hallway does."
 
 "Iggy."
 
-"Noted and filed," he said, and mimed turning a key at the corner of his mouth, and didn't ask one single question — and she sat there next to the only person on dry land who'd earned the truth, not telling him, and hated exactly one person at that table, and it wasn't him.
+"Noted and filed." He mimed turning a key at the corner of his mouth, and went back to his dinner, and didn't ask one single question — and she sat there next to the only person on dry land who'd earned the whole truth, not telling him, and hated exactly one person at that table, and it wasn't him.
 
 No horn came that night. The silence had a decision in it.
 
-Down in the town, somebody spent the evening hanging little electric lights along the harbor fence — winter lights, weeks early, straight rows of them burning steady over the water like a spell against the dark. Civilization continuing, Reyes would've called it. And on the late replay of the rising — they showed it every night now, the way you rewatch a thing you don't believe yet — she counted the dark windows in her father's beautiful city again.
+Down in the town somebody spent the evening hanging winter lights along the harbor fence, weeks early, straight steady rows against the dark. On the late replay she counted the dark windows in her father's beautiful city again. The number was bigger than the first night. She checked twice. Shelf.
 
-The number was bigger than the first night. She checked twice. Then she put it on the shelf, and the shelf took it without a word, because by now the shelf was holding exactly one kind of thing, stacked in a column like numbers in the back of a notebook, adding up to something nobody would say out loud.
+Five days to Longlight. At home they'd be starting the places. She fell asleep trying to remember whether her chair — hers, at the low end of the table — had a squeak in it or not.
 
-Five days to Longlight. At home, they'd be starting the places. She fell asleep trying to remember whether her chair — hers, the one at the low end of the table — had a squeak in it or not, and couldn't, and that was the worst thing that happened to her that day.
-
-Which, given the day, was saying something.
+She couldn't.
 
 ---
 
-*Chapter 4, Draft 1 (Jul 15, 2026) — Abby's Ch. 4 spec executed: reunion cold-like-business, guilt underneath ("Which window is yours?" — she's aiming her worry), the positioning tell planted twice. Mom's greeting (Tim's call, Jul 15): her name said RIGHT — the note her father's ledger-voice left out — one second of mother, then "You've grown" and business. First leak: the song crossing into air THROUGH her, witnessed by both parents (agreeing — the fixed star broken) and clocked by Iggy from the seawall. Failing clues: shell dimmer, dark windows increasing, "what the dark is for" (wardens mood). Longlight countdown starts. Clay.*
+*I know about the chair, by the way. She told me years later, the way you finally hand somebody a splinter you've been carrying too long to explain. And I'm telling you now because you should know what all that counting was actually for — the numbers in the back of the notebook, the mornings, the windows. It was never days. It was pieces of a table, going blurry one at a time. Anyway. Keep count with her. The numbers matter later.*
+
+---
+
+*Chapter 4, Draft 2 (Jul 15, 2026, late — THE CHARACTER-DRIVEN REBUILD, Tim's call: "too descriptive, feels stale, should be character driven with old Iggy providing perspective"): narration gutted, every beat now a scene with dialogue (the dog bit, the gate custody squabble — hers/theirs/ours — the parley as spoken argument, the Iggy dinner debrief); Nerai's interiority in short raw bursts. NEW MODEL — OLD-IGGY BOOKENDS: italic passages top and bottom, unmistakably the narrator (seasoned/scared, never named), body stays pure Nerai. New line that's now the chapter's spine: "The child proves her mother can keep a secret." If this model reads right to Tim & Abby, Ch. 5–7 get the same rebuild. Draft 1 preserved in git history (the "Act I fully drafted" commit). Clay.*
 
 ---
 
