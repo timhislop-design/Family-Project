@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#f5e6c8">
+<title>THE FIRMAMENT — a new book, if you want it</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lexend:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --sky:#fdf6e3; --sky2:#f7e8c6; --dome:#e8d5a3; --ink:#3b2f1e; --ink-soft:#6b5a3e;
+    --gold:#b8860b; --gold-soft:#d9b45b; --card:#fffdf5; --line:#e5d7b4; --ok:#2e7d32; --err:#b23b3b;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:linear-gradient(180deg,var(--sky) 0%,var(--sky2) 60%,#f2ddb0 100%);color:var(--ink);
+    font-family:'Lexend',sans-serif;font-weight:300;line-height:1.65;font-size:17px}
+  .wrap{max-width:720px;margin:0 auto;padding:0 20px 80px}
+  header.dome{position:relative;text-align:center;padding:70px 20px 30px;overflow:hidden}
+  header.dome svg{display:block;margin:0 auto 18px}
+  h1{font-family:'Cormorant Garamond',serif;font-weight:700;font-size:2.6rem;letter-spacing:.14em;margin:.2em 0 .1em;color:var(--ink)}
+  .sub{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:1.25rem;color:var(--ink-soft);margin:0}
+  .backlink{display:inline-block;margin-top:14px;font-size:.85rem;color:var(--ink-soft);text-decoration:none;border-bottom:1px dotted var(--gold)}
+  h2{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:1.7rem;margin:2.2em 0 .5em;color:var(--ink)}
+  h2 .mark{color:var(--gold)}
+  p{margin:.9em 0}
+  em{font-family:'Cormorant Garamond',serif;font-size:1.06em}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:18px 0;box-shadow:0 2px 10px rgba(120,90,20,.06)}
+  .note{font-size:.9rem;color:var(--ink-soft)}
+  .vault{border-left:4px solid var(--gold);background:#fbf3dd}
+  .who-bar{display:flex;align-items:center;gap:10px;margin:14px 0 6px;font-size:.9rem}
+  .who-bar input{border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-family:inherit;font-size:.95rem;background:#fff}
+  .q-card p.q{font-weight:400;margin-top:0}
+  .q-card textarea{width:100%;min-height:84px;border:1px solid var(--line);border-radius:10px;padding:10px;font-family:inherit;font-size:.95rem;background:#fff;resize:vertical}
+  .q-card button, .fb button{margin-top:10px;background:var(--gold);color:#fff;border:none;border-radius:999px;padding:9px 22px;
+    font-family:'Lexend',sans-serif;font-weight:500;font-size:.9rem;cursor:pointer}
+  .q-card button:hover,.fb button:hover{background:#9a6f09}
+  .q-card button:disabled,.fb button:disabled{background:#cbb98a;cursor:default}
+  .send-ok{color:var(--ok);font-size:.9rem;margin:.5em 0 0}
+  .send-err{color:var(--err);font-size:.9rem;margin:.5em 0 0}
+  .answered{opacity:.75}
+  .answered .q::after{content:" ✓ answered";color:var(--ok);font-size:.8rem}
+  footer{margin-top:70px;text-align:center;font-size:.85rem;color:var(--ink-soft);padding-bottom:40px}
+  footer .m{color:var(--gold)}
+  .rule-pair{display:grid;gap:14px;margin:16px 0}
+  @media(min-width:600px){.rule-pair{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+
+<header class="dome">
+  <!-- the dome: a hammered vault, fixed lights, and one wandering star -->
+  <svg width="300" height="120" viewBox="0 0 300 120" aria-hidden="true">
+    <path d="M10 115 A140 140 0 0 1 290 115" fill="none" stroke="#b8860b" stroke-width="2.2" opacity=".85"/>
+    <path d="M30 115 A120 120 0 0 1 270 115" fill="none" stroke="#d9b45b" stroke-width="1" opacity=".5"/>
+    <line x1="0" y1="115" x2="300" y2="115" stroke="#8a7448" stroke-width="1.4" opacity=".6"/>
+    <g fill="#b8860b">
+      <circle cx="88" cy="52" r="2"/><circle cx="150" cy="30" r="2.4"/><circle cx="212" cy="52" r="2"/>
+      <circle cx="118" cy="72" r="1.5"/><circle cx="182" cy="72" r="1.5"/><circle cx="150" cy="88" r="1.6"/>
+    </g>
+    <circle cx="245" cy="76" r="2.6" fill="#8a5b0a">
+      <animate attributeName="cx" values="245;60;245" dur="26s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="76;44;76" dur="26s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+  <h1>THE FIRMAMENT</h1>
+  <p class="sub">a new book, if you want it · no rush · it will wait for you</p>
+  <a class="backlink" href="../index.html">← back to THE DEEP</a>
+</header>
+
+<main class="wrap">
+
+  <div class="card">
+    <p style="margin:0"><em>Abby —</em> The Deep is safe and paused exactly where you left it. This is a <strong>second</strong> book, in its own folder, and nothing here touches Nerai's world. Read this whenever you feel like it. Answer whatever you want, in any order, in your own words. — Dad &amp; Claude</p>
+  </div>
+
+  <h2><span class="mark">✦</span> The pitch, fast</h2>
+  <p>Imagine a world where religion <em>works</em>. Not "people believe it works" — it works. Sing the harvest blessing and it rains. Every time. For two thousand years.</p>
+  <p>The sky is a dome — an actual roof, the way people in the ancient world truly thought the sky was — with waters above it and stars that are lights. And some of the stars <em>move</em>. Everyone knows those are angels, because you can watch them cross the dark. Nobody in this world has ever doubted. Why would they? Their prayers get answered.</p>
+  <p>Now the girl. <strong>Selah</strong>, fifteen. She's a <em>canter</em> — one of the kids trained to memorize the <em>oldest</em> versions of the prayers, the unabridged ones, word-perfect. She's the best of her generation. And she starts noticing something nobody else has noticed in centuries: <strong>the old words and the everyday words don't get the same answers.</strong></p>
+  <p>Her secret — the one she's never told anyone: seven years ago, the night before the great ceremony where the Voice chooses the best young people and takes them up to heaven — the highest honor there is, and her own brother was chosen — little Selah, showing off for God, sang the oldest blessing she knew over him while he slept. He was chosen at dawn. Everyone said the family was blessed. She has spent seven years wondering if she's the one who did it.</p>
+  <p>Oh — and one person came back from heaven, once. He came back <em>wrong</em>. He lives at the edge of town, nobody is allowed to talk to him... and sometimes, in his sleep, he recites old prayers even Selah doesn't know.</p>
+
+  <h2><span class="mark">✦</span> Why we went this direction</h2>
+  <p>You know how The Deep is a <em>"the world is BIGGER than they told you"</em> story? This is the opposite kind — a <em>"the world is SMALLER than they told you"</em> story, like Hunger Games or Silo. We made two rules to keep it ours:</p>
+  <div class="rule-pair">
+    <div class="card" style="margin:0"><strong>The world is beautiful.</strong><br>Not gloomy, not gray. Selah loves her world and the reader should too — which makes the mystery scarier, not the world meaner. Festivals, harvests, answered prayers, proud weeping mothers at the choosing.</div>
+    <div class="card" style="margin:0"><strong>Selah has no powers.</strong><br>No prophecy. No chosen one. Her superpower is that she pays attention and remembers. Everything she figures out, she <em>earns</em>.</div>
+  </div>
+
+  <h2><span class="mark">✦</span> What we need from you</h2>
+  <p class="note">Whenever you want. Any order. Every answer goes straight to Dad.</p>
+  <div class="who-bar"><label for="whoName">Answering as</label><input type="text" id="whoName" value="Abby"></div>
+  <div id="questions"></div>
+
+  <div class="card vault">
+    <p style="margin:0"><strong>One warning, made with love:</strong> in the project folder there's a file called <em>canon-vault.md</em> that holds the answers to the whole mystery. It's your book too, so you're allowed — but Dad and Claude sealed it so you could find things out the way readers will. Reading it is like shaking every present under the tree at once. Your call. No wrong answer.</p>
+  </div>
+
+  <h2><span class="mark">✦</span> Anything else?</h2>
+  <div class="card fb">
+    <p class="note" style="margin-top:0">Doesn't fit a question? Dump it here — ideas, vibes, complaints, brain-dumps. Those became half of The Deep.</p>
+    <textarea id="fbMsg" style="width:100%;min-height:100px;border:1px solid var(--line);border-radius:10px;padding:10px;font-family:inherit;font-size:.95rem;background:#fff;resize:vertical" placeholder="Say anything. Seriously."></textarea>
+    <button id="fbSend">Send to Dad ✦</button>
+    <div id="fbResult"></div>
+  </div>
+
+</main>
+
+<footer>
+  <p><span class="m">✦</span> started by Dad &amp; Claude · waiting for Abby · a work in progress · please don't share the link <span class="m">✦</span></p>
+</footer>
+
+<script>
+(function(){
+  var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzBoIvvLW5xJDOBWyzQHnHbgkSUzYCORMcQG24d3zp7nS3qVJDOz0YGTCEco9pa4cAT/exec";
+  var QUESTIONS = [
+    {q:"React to Selah. What do you like, what's off, what's missing? (Her name is a real mystery-word from the Psalms that nobody alive can translate. We love that. Veto allowed.)"},
+    {q:"Title vote. Working title is THE FIRMAMENT (the old word for the dome of the sky). Also in the running: The Vault of Heaven · Under Heaven · The Windows of Heaven. Pick one, rank them, or beat them all."},
+    {q:"Names. Almost every name is a placeholder waiting for you — Selah, her brother Amos ('carried'), the Returned man, the high priest's title. Keep, wreck, or replace."},
+    {q:"The town under the dome. What does it FEEL like? Festivals, food, what kids do at night, school, the mothers of the Taken — dump anything. Your brain-dump on The Deep became half the book; do that again here."},
+    {q:"The Returned man. He's yours to make stranger. What's wrong about him? What's the one thing he does that makes kids dare each other to get close?"},
+    {q:"The ceremony where the Voice chooses. We're calling it the Raising for now — everyone LONGS to be chosen; it's the opposite of the Hunger Games reaping. What should it be called, and what's one detail of that day only a kid would notice?"}
+  ];
+  var KEY="firmament-answered";
+  function store(){ try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return{};} }
+  function mark(id){ var s=store(); s[id]=Date.now(); try{localStorage.setItem(KEY,JSON.stringify(s));}catch(e){} }
+  function hashId(s){var h=0;for(var i=0;i<s.length;i++){h=(h*31+s.charCodeAt(i))|0;}return "fq"+Math.abs(h);}
+  function post(payload){
+    return fetch(APPS_SCRIPT_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)})
+      .then(function(r){return r.ok;}).catch(function(){return false;});
+  }
+  var box=document.getElementById("questions");
+  QUESTIONS.forEach(function(item,idx){
+    var id=hashId(item.q);
+    var done=!!store()[id];
+    var card=document.createElement("div");
+    card.className="card q-card"+(done?" answered":"");
+    card.innerHTML='<p class="q">'+(idx+1)+". "+item.q+'</p>'+
+      '<textarea placeholder="Your answer, your words..."></textarea>'+
+      '<button>Send answer</button><div class="res"></div>';
+    box.appendChild(card);
+    var btn=card.querySelector("button"), ta=card.querySelector("textarea"), res=card.querySelector(".res");
+    btn.addEventListener("click",function(){
+      var msg=ta.value.trim();
+      if(!msg){res.innerHTML='<p class="send-err">Write a little something first ✦</p>';return;}
+      btn.disabled=true;btn.textContent="Sending…";
+      post({category:"firmament-answer",page:"firmament",pageTitle:"THE FIRMAMENT — question "+(idx+1),
+        who:(document.getElementById("whoName").value.trim()||"Anonymous"),
+        moods:[],quote:item.q,message:msg,url:location.href,when:new Date().toISOString()})
+      .then(function(ok){
+        if(ok){res.innerHTML='<p class="send-ok">Sent! Dad\'s been notified. ✦</p>';ta.value="";mark(id);card.classList.add("answered");}
+        else{res.innerHTML='<p class="send-err">Hmm, that didn\'t go through. Tell Dad.</p>';}
+        btn.disabled=false;btn.textContent="Send answer";
+      });
+    });
+  });
+  document.getElementById("fbSend").addEventListener("click",function(){
+    var btn=this,ta=document.getElementById("fbMsg"),res=document.getElementById("fbResult");
+    var msg=ta.value.trim();
+    if(!msg){res.innerHTML='<p class="send-err">Write a little something first ✦</p>';return;}
+    btn.disabled=true;btn.textContent="Sending…";
+    post({category:"firmament-feedback",page:"firmament",pageTitle:"THE FIRMAMENT — open dump",
+      who:(document.getElementById("whoName").value.trim()||"Anonymous"),
+      moods:[],quote:"",message:msg,url:location.href,when:new Date().toISOString()})
+    .then(function(ok){
+      if(ok){res.innerHTML='<p class="send-ok">Sent! Dad\'s been notified. ✦</p>';ta.value="";}
+      else{res.innerHTML='<p class="send-err">Hmm, that didn\'t go through. Tell Dad.</p>';}
+      btn.disabled=false;btn.textContent="Send to Dad ✦";
+    });
+  });
+})();
+</script>
+</body>
+</html>

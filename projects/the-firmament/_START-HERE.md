@@ -17,6 +17,7 @@ The second book/series in the Family Project — deliberately the **other branch
 - `canon-vault.md` — **SEALED. SPOILERS.** The truth of the outside, the narrator's identity, the brother. Tim + Claude only unless Abby chooses to open it (warning header inside is addressed to her).
 - `ideas-parking-lot.md` — unbuilt ideas, naming shortlists (most names are placeholders — Abby's to replace, same as The Deep).
 - `for-abby.md` — the redirect one-pager, written for Abby, spoiler-free. **HOLD: not shown yet.** Tim decides when. It should feel like a present, not homework.
+- **The site page** — `/firmament/index.html` at repo root (golden dawn theme, deliberately opposite The Deep's dark water). Spoiler-free adaptation of `for-abby.md` with 6 answer cards + an open dump box, wired to the SAME Apps Script feedback pipeline (categories `firmament-answer` / `firmament-feedback` → Tim's Drive). Linked from the main site nav ("✦ A New Book?"). Goes live only when Tim pushes — the hold stays in his hands.
 - `characters/` — not created yet; character files start after Abby reacts (her naming/casting pass comes first, like The Deep).
 
 ## Voice architecture (the house signature, applied here)
