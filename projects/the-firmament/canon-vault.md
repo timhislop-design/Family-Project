@@ -26,11 +26,20 @@ The frame voice of every book is **Amos, awake, years from now** — the brother
 
 ## Book ladder
 - **Book 1 — The Seam.** Golden year; the wrong answer; the Returned man; the midpoint knife (she marked him); the cold drop; ends: she knows there's a door and she speaks its language.
-- **Book 2 — The Door.** Finding it, reaching it, the institution's full weight, the first sight of what maintenance really is; ends at the threshold. (Death becomes possible here, matching The Deep's ladder.)
+- **Book 2 — The Door.** Finding it, reaching it, the institution's full weight, the first sight of what maintenance really is; ends at the threshold. (Death becomes possible here, matching The Deep's ladder.) Late-book hint: the far side of the door knows of *other doors* — the first rung of the upper cosmology.
 - **Book 3 — The Waking.** The rows. Amos. The choice about the whole world: wake a civilization that is *happy* — or leave the table set forever. The core question comes due: it mattered who was answering, and now she must decide whether to become the one who answers.
 
 ## The builders (Book 3 fog — deliberately unresolved even here)
 Who built the vault — entirely human, or helped — stays fog. The Watcher-flavored ambiguity is our ancient-aliens deep layer: some instructions in the oldest strata aren't in any human-rooted tongue. We may never answer it. Fog is allowed; only *unanswerable* is forbidden.
+
+## The upper cosmology (added Jul 23, 2026 — Tim's expansion: multiverse, simulation, old races)
+Three locks, sitting ABOVE the Books 1–3 spine without touching it:
+
+1. **The multiverse of arks (sister vaults).** The builders didn't build one. Under other skies, other remnants have lived under the *same seed scripture* through two thousand years of **separate drift** — and drift generates alternate worlds: a vault where "Amen" wore away and nothing has answered for centuries; a vault that opened early, and what became of them; a vault where the canters became kings; a vault whose Voice deviated and was obeyed anyway. Our multiverse is anthropological, not quantum — every alternate world is walkable and was *grown*, not spawned. First hint arrives late in Book 2 (the door's far side knows of other doors); opens fully Book 3+ / spinoffs.
+2. **The hum, never the reveal (simulation theory).** Once you learn your sky was a roof, you never trust a sky again. "How would we know we're at the top?" gets asked on the page — late series, possibly the last line — and is NEVER answered. The vertigo is real; the stakes stay physical. HARD RULE: no layer is ever revealed to be non-physical. A simulation reveal dissolves Amos, the green Earth, and the theological knife; it is banned.
+3. **Every keeper was once kept (the old races).** The builders knew how to build arks because *they had once been kept in one*. Whoever kept them, kept others. The regress climbs one rung per book and the top is never seen. None of it is confirmed earthbound — the Days of Smoke may not have been weather. The oldest strata's non-human-rooted tongue is the first rung showing.
+
+**The grammar of all of it — DECISIONS HAVE CONSEQUENCES (Tim, Jul 23; series spine).** Every layer of the cosmology is somebody's decision still paying out: the builders' decision to seal; the keepers' older decisions above them; the priests' thousand small comfortable decisions to smooth the hard words (the truth eroded by choices, not by a villain); some vault's decision to open early; Selah's decision, at eight, to sing over her sleeping brother. Craft rule going forward: **no free wins.** Every choice a protagonist makes must cost something real, and the cost persists across books — Book 1's solutions become Book 2's problems. The inherited story itself is just an old decision whose consequences the kids inherit; refusing it is a new decision, with new consequences, which is the theme of the whole house.
 
 ## The one rhyme (touch never)
 The Days of Smoke could one day rhyme with The Deep's Shattering (Younger Dryas) — one cataclysm, two remnants: one went down, one was sealed under a dome. **This stays a note.** No shared canon, no crossover, no bleed, unless all three of us someday decide the universes were always one. It's parked in `ideas-parking-lot.md` as "the rhyme," and that's all it is.

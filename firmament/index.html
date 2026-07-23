@@ -67,6 +67,12 @@
   <h1>THE FIRMAMENT</h1>
   <p class="sub">a new book, if you want it · no rush · it will wait for you</p>
   <a class="backlink" href="../index.html">← back to THE DEEP</a>
+  <nav style="margin-top:18px;font-size:.9rem">
+    <a href="#pitch" style="color:var(--ink-soft);text-decoration:none;margin:0 10px;border-bottom:1px dotted var(--gold)">The Pitch</a>
+    <a href="#bigq" style="color:var(--ink-soft);text-decoration:none;margin:0 10px;border-bottom:1px dotted var(--gold)">Big Questions</a>
+    <a href="#characters" style="color:var(--ink-soft);text-decoration:none;margin:0 10px;border-bottom:1px dotted var(--gold)">Characters</a>
+    <a href="#dump" style="color:var(--ink-soft);text-decoration:none;margin:0 10px;border-bottom:1px dotted var(--gold)">Anything Else</a>
+  </nav>
 </header>
 
 <main class="wrap">
@@ -75,7 +81,7 @@
     <p style="margin:0"><em>Abby —</em> The Deep is safe and paused exactly where you left it. This is a <strong>second</strong> book, in its own folder, and nothing here touches Nerai's world. Read this whenever you feel like it. Answer whatever you want, in any order, in your own words. — Dad &amp; Claude</p>
   </div>
 
-  <h2><span class="mark">✦</span> The pitch, fast</h2>
+  <h2 id="pitch"><span class="mark">✦</span> The pitch, fast</h2>
   <p>Imagine a world where religion <em>works</em>. Not "people believe it works" — it works. Sing the harvest blessing and it rains. Every time. For two thousand years.</p>
   <p>The sky is a dome — an actual roof, the way people in the ancient world truly thought the sky was — with waters above it and stars that are lights. And some of the stars <em>move</em>. Everyone knows those are angels, because you can watch them cross the dark. Nobody in this world has ever doubted. Why would they? Their prayers get answered.</p>
   <p>Now the girl. <strong>Selah</strong>, fifteen. She's a <em>canter</em> — one of the kids trained to memorize the <em>oldest</em> versions of the prayers, the unabridged ones, word-perfect. She's the best of her generation. And she starts noticing something nobody else has noticed in centuries: <strong>the old words and the everyday words don't get the same answers.</strong></p>
@@ -89,16 +95,20 @@
     <div class="card" style="margin:0"><strong>Selah has no powers.</strong><br>No prophecy. No chosen one. Her superpower is that she pays attention and remembers. Everything she figures out, she <em>earns</em>.</div>
   </div>
 
-  <h2><span class="mark">✦</span> What we need from you</h2>
-  <p class="note">Whenever you want. Any order. Every answer goes straight to Dad.</p>
+  <h2 id="bigq"><span class="mark">✦</span> The big questions</h2>
+  <p class="note">Whenever you want. Any order. Every answer goes straight to Dad. (Each character below has their own questions too.)</p>
   <div class="who-bar"><label for="whoName">Answering as</label><input type="text" id="whoName" value="Abby"></div>
   <div id="questions"></div>
+
+  <h2 id="characters"><span class="mark">✦</span> The characters (so far)</h2>
+  <p class="note">Thin on purpose — half this cast is waiting for you, same as always. React, rename, wreck, invent.</p>
+  <div id="charCards"></div>
 
   <div class="card vault">
     <p style="margin:0"><strong>One warning, made with love:</strong> in the project folder there's a file called <em>canon-vault.md</em> that holds the answers to the whole mystery. It's your book too, so you're allowed — but Dad and Claude sealed it so you could find things out the way readers will. Reading it is like shaking every present under the tree at once. Your call. No wrong answer.</p>
   </div>
 
-  <h2><span class="mark">✦</span> Anything else?</h2>
+  <h2 id="dump"><span class="mark">✦</span> Anything else?</h2>
   <div class="card fb">
     <p class="note" style="margin-top:0">Doesn't fit a question? Dump it here — ideas, vibes, complaints, brain-dumps. Those became half of The Deep.</p>
     <textarea id="fbMsg" style="width:100%;min-height:100px;border:1px solid var(--line);border-radius:10px;padding:10px;font-family:inherit;font-size:.95rem;background:#fff;resize:vertical" placeholder="Say anything. Seriously."></textarea>
@@ -116,12 +126,45 @@
 (function(){
   var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzBoIvvLW5xJDOBWyzQHnHbgkSUzYCORMcQG24d3zp7nS3qVJDOz0YGTCEco9pa4cAT/exec";
   var QUESTIONS = [
-    {q:"React to Selah. What do you like, what's off, what's missing? (Her name is a real mystery-word from the Psalms that nobody alive can translate. We love that. Veto allowed.)"},
-    {q:"Title vote. Working title is THE FIRMAMENT (the old word for the dome of the sky). Also in the running: The Vault of Heaven · Under Heaven · The Windows of Heaven. Pick one, rank them, or beat them all."},
-    {q:"Names. Almost every name is a placeholder waiting for you — Selah, her brother Amos ('carried'), the Returned man, the high priest's title. Keep, wreck, or replace."},
-    {q:"The town under the dome. What does it FEEL like? Festivals, food, what kids do at night, school, the mothers of the Taken — dump anything. Your brain-dump on The Deep became half the book; do that again here."},
-    {q:"The Returned man. He's yours to make stranger. What's wrong about him? What's the one thing he does that makes kids dare each other to get close?"},
-    {q:"The ceremony where the Voice chooses. We're calling it the Raising for now — everyone LONGS to be chosen; it's the opposite of the Hunger Games reaping. What should it be called, and what's one detail of that day only a kid would notice?"}
+    {q:"React to the whole idea. What grabbed you, what's off, what's missing? Honest teeth, please — empty praise is against house rules."},
+    {q:"The title is THE FIRMAMENT — the old word for the dome of the sky. Dad picked it and likes it. You get one veto: love it, or beat it outright with something better. (No shortlist. The runners-up were cheesy.)"},
+    {q:"The world under the dome. What do the people CALL their land (to them it's just... the world), and how big does it feel — one valley you could walk in a week, or a country with far places kids only hear about?"},
+    {q:"The town. What does it FEEL like? Food, school, what kids do at night, the mothers of the Taken — dump anything. Your brain-dump on The Deep became half the book; do that again here."},
+    {q:"The ceremony where the Voice chooses. We're calling it the Raising for now — everyone LONGS to be chosen; it's the opposite of the Hunger Games reaping. What should it be called, and what's one detail of that day only a kid would notice?"},
+    {q:"Festivals. Every real holiday has one food nobody makes any other time — what is it? And invent one small festival that's just for kids, the one adults barely notice."}
+  ];
+  var CHARACTERS = [
+    {name:"Selah", role:"Fifteen. The best canter of her generation — the kids who memorize the OLDEST versions of the prayers, word-perfect. Sister of a Taken. Composed on the outside; stage fright all the way down. Her superpower is paying attention.", questions:[
+      "Her name is a real mystery-word from the Psalms nobody alive can translate. Love it or veto it?",
+      "What does Selah do that's NOT liturgy — the one small private thing that's just hers?",
+      "Who's her one friend — a canter kid, or someone outside the guild who couldn't care less how perfect she is?"
+    ]},
+    {name:"Amos — her brother", role:"Taken seven years ago at the Raising — the family's shining hour. Warm, unremarkable, the one everybody wanted at their table. Eight-year-old Selah's favorite person in the world.", questions:[
+      "The one memory of Amos that Selah keeps closest — what is it? (Dad and Claude's starter: an unfinished carved wooden bird. Beat it.)",
+      "Keep the name Amos (it means 'carried'), or give him a name a little sister would have shortened into something embarrassing?"
+    ]},
+    {name:"The Returned Man", role:"Exactly one Taken ever came back — and came back wrong. Holy, ruined, avoided. Lives at the edge of town. Sometimes, asleep on his porch, he recites prayers even Selah doesn't know.", questions:[
+      "He's yours to make stranger: what's the ONE thing he does that makes kids dare each other to get close?",
+      "What's the first thing he ever says to Selah? (Huge line. Take a swing.)",
+      "Does he have a name the town forgot — and is learning it a moment?"
+    ]},
+    {name:"Her Mother", role:"A mother of the Taken — a rank of its own: honored seating, the priests defer, the town's living proof heaven notices. Warm and terrifying at once. Sets Amos's place at every meal, seven years running.", questions:[
+      "Her name, and what she DOES beyond being mother-of-the-Taken?",
+      "One moment where the mask slips and Selah sees underneath — what triggers it?"
+    ]},
+    {name:"Her Father", role:"Barely defined on purpose — he's mostly yours. The one thing we know: he's quieter about the family's honor than her mother. Which could be humility. Or something else.", questions:[
+      "Pick his shape: (A) quiet doubter who loved his son more than the honor, (B) gentle true believer — somehow harder for Selah than her mother's fierceness, (C) absent, and the house is two women and an empty chair. Or wreck all three.",
+      "One memory of him being an actual dad — it should exist, and hurt a little."
+    ]},
+    {name:"The High Priest", role:"Head of the canters' guild. Learned, devout, NOT a villain-shaped cartoon — and when the Voice does the impossible at the ceremony, Selah sees his face and realizes: someone already knew it could do that.", questions:[
+      "His title — the First Canter, the Keeper of the Forms, or something you invent?",
+      "What's his tell — the thing he does when a question gets too close?"
+    ]},
+    {name:"The Canter Kids", role:"Selah's guild: a handful of kids per generation, drilled since childhood, who all know each other too well. Includes a rival who's technically perfect but doesn't LISTEN — and their old teacher, who trained Selah's ear.", questions:[
+      "Casting call: how many canter kids, who are they? Names, one line each — your Deep brain-dump built half a cast, do it again.",
+      "The rival: boy or girl, cruel or oblivious or secretly desperate?",
+      "What do canter kids do to blow off steam? (There's a great scene hiding in this answer.)"
+    ]}
   ];
   var KEY="firmament-answered";
   function store(){ try{return JSON.parse(localStorage.getItem(KEY))||{};}catch(e){return{};} }
@@ -153,6 +196,34 @@
         if(ok){res.innerHTML='<p class="send-ok">Sent! Dad\'s been notified. ✦</p>';ta.value="";mark(id);card.classList.add("answered");}
         else{res.innerHTML='<p class="send-err">Hmm, that didn\'t go through. Tell Dad.</p>';}
         btn.disabled=false;btn.textContent="Send answer";
+      });
+    });
+  });
+  var cbox=document.getElementById("charCards");
+  CHARACTERS.forEach(function(ch){
+    var card=document.createElement("div");
+    card.className="card";
+    var html='<p style="margin-top:0"><strong style="font-family:\'Cormorant Garamond\',serif;font-size:1.25em">✦ '+ch.name+'</strong><br><span class="note">'+ch.role+'</span></p>';
+    ch.questions.forEach(function(q,qi){ html+='<div class="cq" data-i="'+qi+'" style="margin-top:12px"><p class="q" style="margin:0 0 6px;font-weight:400">'+q+'</p><textarea placeholder="Your answer, your words..." style="width:100%;min-height:64px;border:1px solid var(--line);border-radius:10px;padding:10px;font-family:inherit;font-size:.95rem;background:#fff;resize:vertical"></textarea><button>Send answer</button><div class="res"></div></div>'; });
+    card.innerHTML=html;
+    cbox.appendChild(card);
+    card.querySelectorAll(".cq").forEach(function(block){
+      var q=ch.questions[parseInt(block.dataset.i,10)];
+      var id=hashId(ch.name+"|"+q);
+      if(store()[id]){block.classList.add("answered");}
+      var btn=block.querySelector("button"),ta=block.querySelector("textarea"),res=block.querySelector(".res");
+      btn.addEventListener("click",function(){
+        var msg=ta.value.trim();
+        if(!msg){res.innerHTML='<p class="send-err">Write a little something first ✦</p>';return;}
+        btn.disabled=true;btn.textContent="Sending…";
+        post({category:"firmament-answer",page:"firmament",pageTitle:"THE FIRMAMENT — "+ch.name,
+          who:(document.getElementById("whoName").value.trim()||"Anonymous"),
+          moods:[],quote:q,message:msg,url:location.href,when:new Date().toISOString()})
+        .then(function(ok){
+          if(ok){res.innerHTML='<p class="send-ok">Sent! Dad\'s been notified. ✦</p>';ta.value="";mark(id);block.classList.add("answered");}
+          else{res.innerHTML='<p class="send-err">Hmm, that didn\'t go through. Tell Dad.</p>';}
+          btn.disabled=false;btn.textContent="Send answer";
+        });
       });
     });
   });
