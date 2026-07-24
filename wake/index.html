@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#050810">
+<title>THE WAKE — the third book, roles reversed</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Lexend:wght@300;400;500;600&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --void:#050810; --void2:#0a1220; --ink:#d8e2ee; --ink-soft:#8fa0b4;
+    --beacon:#7fd4ff; --beacon-dim:#3a7ea6; --amber:#d9b45b; --card:#0d1626; --line:#1d2c42;
+    --ok:#5dc78a; --err:#e07a7a;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:linear-gradient(180deg,var(--void) 0%,var(--void2) 70%,#0c1524 100%);color:var(--ink);
+    font-family:'Lexend',sans-serif;font-weight:300;line-height:1.65;font-size:17px}
+  .wrap{max-width:720px;margin:0 auto;padding:0 20px 80px}
+  header.field{position:relative;text-align:center;padding:70px 20px 30px;overflow:hidden}
+  header.field svg{display:block;margin:0 auto 18px}
+  h1{font-family:'Cormorant Garamond',serif;font-weight:700;font-size:2.6rem;letter-spacing:.16em;margin:.2em 0 .1em;color:var(--ink)}
+  .sub{font-family:'Cormorant Garamond',serif;font-style:italic;font-size:1.25rem;color:var(--ink-soft);margin:0}
+  .backlink{display:inline-block;margin-top:14px;font-size:.85rem;color:var(--ink-soft);text-decoration:none;border-bottom:1px dotted var(--beacon-dim);margin-right:14px}
+  h2{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:1.7rem;margin:2.2em 0 .5em;color:var(--ink)}
+  h2 .mark{color:var(--beacon)}
+  p{margin:.9em 0}
+  em{font-family:'Cormorant Garamond',serif;font-size:1.06em}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:18px 0;box-shadow:0 2px 14px rgba(0,0,0,.35)}
+  .note{font-size:.9rem;color:var(--ink-soft)}
+  .logpaper{font-family:'IBM Plex Mono',monospace;font-size:.86rem;line-height:1.75;background:#0b1322;border-left:4px solid var(--beacon-dim)}
+  .logpaper p{margin:.7em 0}
+  .stamp{display:inline-block;border:1px solid var(--err);color:var(--err);border-radius:4px;padding:1px 8px;font-size:.72rem;letter-spacing:.12em;font-family:'IBM Plex Mono',monospace}
+  .who-bar{display:flex;align-items:center;gap:10px;margin:14px 0 6px;font-size:.9rem}
+  .who-bar input{border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-family:inherit;font-size:.95rem;background:#0b1322;color:var(--ink)}
+  .q-card p.q{font-weight:400;margin-top:0}
+  .q-card textarea,.fb textarea{width:100%;min-height:84px;border:1px solid var(--line);border-radius:10px;padding:10px;font-family:inherit;font-size:.95rem;background:#0b1322;color:var(--ink);resize:vertical}
+  .q-card button,.fb button{margin-top:10px;background:var(--beacon-dim);color:#eaf6ff;border:none;border-radius:999px;padding:9px 22px;
+    font-family:'Lexend',sans-serif;font-weight:500;font-size:.9rem;cursor:pointer}
+  .q-card button:hover,.fb button:hover{background:#2d6488}
+  .q-card button:disabled,.fb button:disabled{background:#22364d;cursor:default}
+  .send-ok{color:var(--ok);font-size:.9rem;margin:.5em 0 0}
+  .send-err{color:var(--err);font-size:.9rem;margin:.5em 0 0}
+  .answered{opacity:.75}
+  .answered .q::after{content:" ✓ answered";color:var(--ok);font-size:.8rem}
+  .axes{display:grid;gap:14px;margin:16px 0}
+  @media(min-width:600px){.axes{grid-template-columns:1fr 1fr 1fr}}
+  .axes .card{margin:0;text-align:center;font-size:.92rem}
+  .axes .big{font-family:'Cormorant Garamond',serif;font-size:1.3rem;display:block;margin-bottom:4px}
+  footer{margin-top:70px;text-align:center;font-size:.85rem;color:var(--ink-soft);padding-bottom:40px}
+  footer .m{color:var(--beacon)}
+</style>
+</head>
+<body>
+
+<header class="field">
+  <!-- a chain of beacons; one answers early; a faint wake curves through the stars -->
+  <svg width="300" height="120" viewBox="0 0 300 120" aria-hidden="true">
+    <path d="M-10 95 C 80 60, 220 60, 310 95" fill="none" stroke="#16283e" stroke-width="26" opacity=".55"/>
+    <g fill="#31445e">
+      <circle cx="24" cy="30" r="1.2"/><circle cx="61" cy="18" r="1"/><circle cx="103" cy="40" r="1.4"/>
+      <circle cx="146" cy="14" r="1"/><circle cx="190" cy="34" r="1.2"/><circle cx="238" cy="20" r="1"/>
+      <circle cx="272" cy="44" r="1.3"/><circle cx="52" cy="66" r="1"/><circle cx="256" cy="70" r="1"/>
+    </g>
+    <line x1="20" y1="86" x2="280" y2="86" stroke="#1d2c42" stroke-width="1"/>
+    <g>
+      <circle cx="40" cy="86" r="2.4" fill="#3a7ea6"/>
+      <circle cx="110" cy="86" r="2.4" fill="#3a7ea6"/>
+      <circle cx="180" cy="86" r="2.4" fill="#3a7ea6"/>
+      <circle cx="250" cy="86" r="3" fill="#7fd4ff">
+        <animate attributeName="opacity" values="1;.25;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="250" y="108" text-anchor="middle" fill="#8fa0b4" font-family="IBM Plex Mono, monospace" font-size="8" letter-spacing="2">THE HALLORAN LIGHT</text>
+  </svg>
+  <h1>THE WAKE</h1>
+  <p class="sub">the third book · this one is Dad's · and this time Claude is driving</p>
+  <div>
+    <a class="backlink" href="../index.html">← THE DEEP</a>
+    <a class="backlink" href="../firmament/">THE FIRMAMENT</a>
+    <a class="backlink" href="../second-seat/" style="color:var(--amber);border-color:var(--amber)">⧉ THE SECOND SEAT — how we're building it</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <div class="card">
+    <p style="margin:0"><em>The experiment:</em> The Deep and The Firmament started from Abby's and Dad's ideas, with Claude drafting. This book runs the other way — <strong>Claude invents and commits, Dad guides, vetoes, and teaches taste.</strong> No menus, no "here are five options." One idea at a time, defended, then edited hard. Everything below was Claude's commitment; everything that survives is because Tim let it live.</p>
+  </div>
+
+  <h2><span class="mark">☄</span> The pitch, fast</h2>
+  <p>The solar system is a healed wound. The asteroid belt isn't a failed planet. Saturn's rings aren't captured ice. Our absurdly oversized Moon isn't luck. Something passed through here once — at a scale where planets are spray — so long ago the scar looks like nature. Nobody knows. We evolved in the splash.</p>
+  <p>Strung across the outer system is a chain of crewed relay beacons, kept by families for generations, because of a law written in blood: an automated relay once let a distress call rot in its queue for nine hours. Every keeper family has its folklore — grandmother's drift readings that never resolved, the light that answers half a second <em>early</em> once a decade. A century of it, dismissed as lighthouse superstition.</p>
+  <p>Now automation is finally replacing the keepers. The family archives are labeled <span class="stamp">DISPOSAL — CLASS C</span>. And a keeper's kid, doing the humiliating work of scanning the "junk," plots a hundred and forty years of superstition onto one chart.</p>
+  <p><strong>The line comes out straight. And it points somewhere.</strong></p>
+
+  <h2><span class="mark">☄</span> The three axes</h2>
+  <div class="axes">
+    <div class="card"><span class="big">The Deep</span>the world is <strong>bigger</strong> than they told you</div>
+    <div class="card"><span class="big">The Firmament</span>the world is <strong>smaller</strong> than they told you</div>
+    <div class="card"><span class="big">The Wake</span>the world is <strong>older</strong> than they told you</div>
+  </div>
+
+  <h2><span class="mark">☄</span> What it means</h2>
+  <p>Theme, committed: <strong>witness.</strong> Against a universe too old and too big to have ever noticed us, the unglamorous discipline of paying attention — keeping the light, writing the log no one reads — is how small lives end up mattering. Significance isn't scale. It's faithfulness. The plot enacts it: the only instrument that ever measured the truth is a century of unread, faithfully kept logs.</p>
+
+  <h2><span class="mark">☄</span> First clay — Eli Halloran, 16</h2>
+  <p class="note">The opening of chapter one, v1, exactly as Claude committed it. This is clay. It exists to be edited hard.</p>
+  <div class="card logpaper">
+    <p>The scanner spat Gran's logbook out for the third time, and Eli was pretty sure it was doing it on purpose.</p>
+    <p>DISPOSAL MANIFEST — CLASS C: SENTIMENTAL / NO EVIDENTIARY VALUE. That was the sticker the company shipped out for the family archive. An actual roll of stickers. Like the Hallorans might try to smuggle a hundred and forty years of paper past somebody.</p>
+    <p>He flattened the warped cover with his elbow and fed it through again. Every Halloran on this light had written the log every shift since before there was a company — pressure, traffic, drift, and what Gran called weather, which out here meant nothing and she recorded it anyway. The handover order said the archive should be digitized at best effort, low priority. Which was corporate for: no one will ever read this.</p>
+    <p>Fair enough. No one read it while they were writing it, either. That was sort of the whole point of a log.</p>
+    <p>Page four-hundred-and-something, Gran's handwriting going uphill the way it did when she got excited: answered 1401.997, sent 1402.5. And in the margin, her little fish-hook mark. Half a second early. A beacon can't answer half a second before you ping it, which is why nobody ever had to explain it, the same way nobody explains a creaky door.</p>
+    <p>He'd seen the fish-hook before. He flipped back. He'd seen it a lot.</p>
+    <p>The joke was supposed to be for his sister: plot every fish-hook on one chart, sixty years of them, prove Gran had been slowly losing it the way Dad always half-said she was. Ha ha. Look at the crazy scatter.</p>
+    <p>The line came out straight.</p>
+    <p>And the last point on it was three weeks old, in Dad's handwriting.</p>
+  </div>
+
+  <h2><span class="mark">☄</span> Who it's for</h2>
+  <p>Committed: written as grown-up science fiction that a sharp thirteen-year-old can read straight through — the band where a kid and a grandparent read the same pages and neither one is condescended to. Clean by house rules, no dumbing down. If you love The Expanse, The Martian, or Becky Chambers, this shelf is aimed at you.</p>
+
+  <h2 id="shoot"><span class="mark">☄</span> Shoot at it</h2>
+  <p class="note">This book improves by being attacked. Teeth required — empty praise is against house rules, and "perfect" is banned as data. Every answer goes straight to Tim's Drive.</p>
+  <div class="who-bar"><label for="whoName">Answering as</label><input type="text" id="whoName" value="Tim"></div>
+  <div id="questions"></div>
+
+  <h2 id="dump"><span class="mark">☄</span> Anything else?</h2>
+  <div class="card fb">
+    <p class="note" style="margin-top:0">Ideas, complaints, one line you'd cut, one line you'd keep — dump it here.</p>
+    <textarea id="fbMsg" placeholder="Say anything. Rough is fine."></textarea>
+    <button id="fbSend">Send ☄</button>
+    <div id="fbResult"></div>
+  </div>
+
+</main>
+
+<footer>
+  <p><span class="m">☄</span> invented by Claude · guided by Tim · chronicled in The Second Seat · a work in progress · please don't share the link <span class="m">☄</span></p>
+</footer>
+
+<script>
+(function(){
+  var APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzBoIvvLW5xJDOBWyzQHnHbgkSUzYCORMcQG24d3zp7nS3qVJDOz0YGTCEco9pa4cAT/exec";
+  var QUESTIONS = [
+    {q:"React to the premise with teeth. What grabbed you, what's off, what's missing? (\"Perfect\" teaches nothing — that rule is now written down.)"},
+    {q:"The weld: the dying-keepers story and the something-passed-through story are supposed to be ONE story, joined by the logs. Does it hold, or is it two books stapled together?"},
+    {q:"Nothing chases anyone in this book — the antagonist is deep time itself. No villain, no countdown. Is that the point, or a fatal engine problem?"},
+    {q:"Eli's opening clay (above). Which line would you cut first? Which line is the one you'd fight to keep?"},
+    {q:"The audience call: grown-up sci-fi a sharp 13-year-old can read. Right band, or should this one skew harder adult?"}
+  ];
+  function store(){try{return JSON.parse(localStorage.getItem("wakeAnswered")||"{}");}catch(e){return {};}}
+  function mark(id){try{var s=store();s[id]=1;localStorage.setItem("wakeAnswered",JSON.stringify(s));}catch(e){}}
+  function hashId(s){var h=0;for(var i=0;i<s.length;i++){h=(h*31+s.charCodeAt(i))|0;}return "q"+Math.abs(h);}
+  function post(payload){
+    return fetch(APPS_SCRIPT_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)})
+      .then(function(r){return r.ok;}).catch(function(){return false;});
+  }
+  var box=document.getElementById("questions");
+  QUESTIONS.forEach(function(item,idx){
+    var id=hashId(item.q);
+    var done=!!store()[id];
+    var card=document.createElement("div");
+    card.className="card q-card"+(done?" answered":"");
+    card.innerHTML='<p class="q">'+(idx+1)+". "+item.q+'</p>'+
+      '<textarea placeholder="Your answer, your words..."></textarea>'+
+      '<button>Send answer</button><div class="res"></div>';
+    box.appendChild(card);
+    var btn=card.querySelector("button"), ta=card.querySelector("textarea"), res=card.querySelector(".res");
+    btn.addEventListener("click",function(){
+      var msg=ta.value.trim();
+      if(!msg){res.innerHTML='<p class="send-err">Write a little something first ☄</p>';return;}
+      btn.disabled=true;btn.textContent="Sending…";
+      post({category:"wake-answer",page:"wake",pageTitle:"THE WAKE — question "+(idx+1),
+        who:(document.getElementById("whoName").value.trim()||"Anonymous"),
+        moods:[],quote:item.q,message:msg,url:location.href,when:new Date().toISOString()})
+      .then(function(ok){
+        if(ok){res.innerHTML='<p class="send-ok">Sent. Logged for the flight log. ☄</p>';ta.value="";mark(id);card.classList.add("answered");}
+        else{res.innerHTML='<p class="send-err">Hmm, that didn\'t go through.</p>';}
+        btn.disabled=false;btn.textContent="Send answer";
+      });
+    });
+  });
+  document.getElementById("fbSend").addEventListener("click",function(){
+    var btn=this,ta=document.getElementById("fbMsg"),res=document.getElementById("fbResult");
+    var msg=ta.value.trim();
+    if(!msg){res.innerHTML='<p class="send-err">Write a little something first ☄</p>';return;}
+    btn.disabled=true;btn.textContent="Sending…";
+    post({category:"wake-feedback",page:"wake",pageTitle:"THE WAKE — open dump",
+      who:(document.getElementById("whoName").value.trim()||"Anonymous"),
+      moods:[],quote:"",message:msg,url:location.href,when:new Date().toISOString()})
+    .then(function(ok){
+      if(ok){res.innerHTML='<p class="send-ok">Sent. Logged for the flight log. ☄</p>';ta.value="";}
+      else{res.innerHTML='<p class="send-err">Hmm, that didn\'t go through.</p>';}
+      btn.disabled=false;btn.textContent="Send ☄";
+    });
+  });
+})();
+</script>
+</body>
+</html>
